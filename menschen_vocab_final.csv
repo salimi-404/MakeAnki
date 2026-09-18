@@ -1,0 +1,950 @@
+﻿German,Persian,Example,Example Persian
+begrüßen,سلام کردن,Ich begrüße meinen Lehrer.من به معلمم سلام می‌کنم.
+heißen,اسم داشتن,Wie heißen Sie?اسم شما چیست؟
+wohnen,زندگی کردن,Ich wohne in Berlin.من در برلین زندگی می‌کنم.
+kommen,آمدن,Kommen Sie aus Deutschland?آیا شما از آلمان می‌آیید？
+sprechen,صحبت کردن,Sprichst du Deutsch?آیا تو آلمانی صحبت می‌کنی？
+verstehen,فهمیدن,Ich verstehe nicht.من متوجه نمی‌شوم.
+sagen,گفتن,Was sagen Sie?شما چه می‌گویید？
+lesen,خواندن,Ich lese ein Buch.من یک کتاب می‌خوانم.
+schreiben,نوشتن,Sie schreibt eine E-Mail.او یک ایمیل می‌نویسد.
+arbeiten,کار کردن,Arbeitest du heute?آیا امروز کار می‌کنی？
+kochen,آشپزی کردن,Ich koche gern.من آشپزی را دوست دارم.
+essen,خوردن,Was essen Sie gern?شما چه چیزی دوست دارید بخورید؟
+trinken,نوشیدن,Er trinkt Wasser.او آب می‌نوشد.
+kaufen,خریدن,Ich kaufe Milch.من شیر می‌خرم.
+zahlen,پرداخت کردن,Ich zahle mit Karte.من با کارت پرداخت می‌کنم.
+kosten,قیمت داشتن,Was kostet das?قیمت این چقدر است？
+finden,پیدا کردن,Ich finde das interessant.من این را جالب می‌دانم.
+glauben,باور کردن,Ich glaube nicht.من باور نمی‌کنم.
+wissen,دانستن,Weißt du das?آیا تو این را می‌دانی？
+können,توانستن,Ich kann Englisch sprechen.من می‌توانم انگلیسی صحبت کنم.
+wollen,خواستن,Er will Kaffee trinken.او می‌خواهد قهوه بنوشد.
+möchten,می‌خواستن (مؤدبانه),Ich möchte ein Brötchen.من یک نان کوچک می‌خواهم.
+müssen,باید بودن,Sie müssen hier warten.شما باید اینجا منتظر بمانید.
+dürfen,اجازه داشتن,Darf ich reinkommen?آیا من اجازه دارم وارد شوم؟
+sollen,باید بودن (تکلیف),Wir sollen das Buch lesen.ما باید این کتاب را بخوانیم.
+mögen,دوست داشتن,Magst du Musik?آیا تو موسیقی دوست داری？
+brauchen,نیاز داشتن,Ich brauche Hilfe.من به کمک نیاز دارم.
+feiern,جشن گرفتن,Wir feiern Geburtstag.ما تولد جشن می‌گیریم.
+reisen,سفر کردن,Sie reisen nach München.آن‌ها به مونیخ سفر می‌کنند.
+spazieren,قدم زدن,Gehen wir spazieren?برویم قدم بزنیم؟
+Tisch,میز,Das Buch liegt auf dem Tisch.کتاب روی میز قرار دارد.
+Stuhl,صندلی,Der Stuhl ist neu.صندلی نو است.
+Buch,کتاب,Das Buch ist interessant.کتاب جالب است.
+Haus,خانه,Das Haus ist groß.خانه بزرگ است.
+Wohnung,آپارتمان,Die Wohnung ist klein.آپارتمان کوچک است.
+Zimmer,اتاق,Mein Zimmer ist sauber.اتاق من تمیز است.
+Tür,در,Schließen Sie die Tür.در را ببندید.
+Fenster,پنجره,Das Fenster ist offen.پنجره باز است.
+Straße,خیابان,Die Straße ist lang.خیابان طولانی است.
+Platz,میدان,Der Platz ist schön.میدان زیباست.
+Stadt,شهر,Die Stadt ist groß.شهر بزرگ است.
+Land,کشور,Deutschland ist ein Land.آلمان یک کشور است.
+Mann,مرد,Der Mann liest die Zeitung.مرد روزنامه می‌خواند.
+Frau,زن,Die Frau kocht Kaffee.زن قهوه درست می‌کند.
+Kind,بچه,Das Kind spielt im Garten.بچه در باغ بازی می‌کند.
+Familie,خانواده,Die Familie ist glücklich.خانواده خوشحال است.
+Eltern,والدین,Meine Eltern sind zu Hause.والدین من در خانه هستند.
+Mutter,مادر,Meine Mutter kocht gut.مادرم خوب آشپزی می‌کند.
+Vater,پدر,Mein Vater arbeitet.پدرم کار می‌کند.
+Freund,دوست (مرد),Er ist mein Freund.او دوست من است.
+Freundin,دوست (زن),Sie ist meine Freundin.او دوست من است.
+Name,اسم,Mein Name ist Müller.اسم من مولر است.
+Nummer,شماره,Was ist Ihre Telefonnummer?شماره تلفن شما چیست？
+Adresse,آدرس,Wie ist Ihre Adresse?آدرس شما چیست؟
+Sprache,زبان,Deutsch ist eine Sprache.آلمانی یک زبان است.
+Monat,ماه,Der Monat ist Juni.ماه ژوئن است.
+Woche,هفته,Die Woche hat sieben Tage.هفته هفت روز دارد.
+Tag,روز,Der Tag ist lang.روز طولانی است.
+Minute,دقیقه,Eine Minute bitte.یک دقیقه لطفاً.
+Uhr,ساعت (زمان),Es ist zwei Uhr.ساعت دو است.
+Zeit,وقت,Die Zeit vergeht schnell.زمان سریع می‌گذرد.
+groß,بزرگ,Das Haus ist groß.خانه بزرگ است.
+klein,کوچک,Das Zimmer ist klein.اتاق کوچک است.
+neu,جدید,Das Auto ist neu.ماشین نو است.
+alt,قدیم,Mein Handy ist alt.تلفن همراه من قدیمی است.
+gut,خوب,Das Essen ist gut.غذا خوب است.
+schlecht,بد,Das Wetter ist schlecht.هوا بد است.
+schnell,سریع,Der Zug ist schnell.قطار سریع است.
+langsam,آهسته,Er ist langsam.او آهسته است.
+teuer,گران,Die Tasche ist teuer.کیف گران است.
+billig,ارزان,Das Essen ist billig.غذا ارزان است.
+schön,زیبا,Die Stadt ist schön.شهر زیبا است.
+hässlich,زشت,Das Wetter ist hässlich.هوا زشت است.
+warm,گرم,Das Wetter ist warm.هوا گرم است.
+kalt,سرد,Es ist kalt heute.امروز سرد است.
+hungrig,گرسنه,Ich bin hungrig.من گرسنه هستم.
+durstig,تشنه,Ich bin durstig.من تشنه هستم.
+müde,خسته,Ich bin müde.من خسته هستم.
+krank,بیمار,Sie ist krank.او بیمار است.
+gesund,سالم,Mein Vater ist gesund.پدرم سالم است.
+glücklich,خوشحال,Wir sind glücklich.ما خوشحال هستیم.
+traurig,ناراحت,Er ist traurig.او ناراحت است.
+früh,زود,Heute stehe ich früh auf.امروز زود بیدار می‌شوم.
+spät,دیر,Der Zug kommt spät.قطار دیر می‌رسد.
+morgens,صبح‌ها,Er arbeitet morgens.او صبح‌ها کار می‌کند.
+nachmittags,بعدازظهرها,Wir lernen nachmittags.ما بعدازظهرها درس می‌خوانیم.
+abends,عصرها,Wir essen abends warm.ما عصرها غذای گرم می‌خوریم.
+heute,امروز,Heute scheint die Sonne.امروز خورشید می‌تابد.
+morgen,فردا,Morgen fährt er weg.فردا او می‌رود.
+gestern,دیروز,Gestern war ich im Kino.دیروز من در سینما بودم.
+zuerst,اول,Zuerst lese ich.اول من می‌خوانم.
+dann,بعد,Dann gehe ich nach Hause.بعد به خانه می‌روم.
+danach,بعد از آن,Danach schlafe ich.بعد از آن می‌خوابم.
+trotzdem,با این حال,Er hat kein Geld, trotzdem kauft er.او پول ندارد، با این حال می‌خرد.
+gerne,با کمال میل,Trinken Sie gerne Kaffee?آیا با کمال میل قهوه می‌نوشید؟
+vielleicht,شاید,Vielleicht kommt sie morgen.شاید فردا بیاید.
+zusammen,با هم,Wir lernen zusammen.ما با هم درس می‌خوانیم.
+man,انسان (اشخاص),Wie lernt man Deutsch?چگونه آلمانی یاد می‌گیرند؟
+Hallo,سلام,Hallo, wie geht es dir?سلام، حالت چطور است؟
+Tschüss,خداحافظ (غیررسمی),Tschüss, bis morgen!خداحافظ، تا فردا!
+Auf Wiedersehen,خداحافظ (رسمی),Auf Wiedersehen, Frau Schmidt.خداحافظ، خانم اشمیت.
+Danke,متشکرم,Danke für deine Hilfe.متشکرم برای کمکت.
+Bitte,خواهش می‌کنم (هم درخواست و هم پاسخ تشکر),Bitte schön.خواهش می‌کنم.
+Ja,بله,Ja, das stimmt.بله، درست است.
+Nein,نه,Nein, das ist falsch.نه، اشتباه است.
+wieder,دوباره,Kannst du das wiederholen?میشه دوباره تکرار کنی؟
+oder,یا,Kaffee oder Tee?قهوه یا چای؟
+und,و,Ich und mein Bruder.من و برادرم.
+oder,یا,Kaffee oder Tee?قهوه یا چای؟
+Weißwein,شراب سفید,Trinkst du Weißwein?آیا شراب سفید می‌نوشی؟
+Rotwein,شراب قرمز,Er bestellt Rotwein.او شراب قرمز سفارش می‌دهد.
+Sekt,شراب گازدار,Wir trinken Sekt.ما شراب گازدار می‌نوشیم.
+Salat,سالاد,Isst du Salat?آیا سالاد می‌خوری؟
+Pasta,پاستا,Die Pasta ist gut.پاستا خوب است.
+Pizza,پیتزا,Wir essen Pizza.ما پیتزا می‌خوریم.
+Torte,کیک,Meine Mutter backt Torte.مادرم کیک می‌پزد.
+Kuchen,کیک (خشک),Zum Kaffee gibt es Kuchen.با قهوه کیک هم هست.
+Kaffee,قهوه,Er trinkt Kaffee.او قهوه می‌نوشد.
+Tee,چای,Magst du Tee?آیا چای دوست داری؟
+Milch,شیر,Er trinkt Milch.او شیر می‌نوشد.
+Wasser,آب,Trinkst du Wasser?آیا آب می‌نوشی？
+Saft,آب میوه,Ich trinke Apfelsaft.من آب پرتقال می‌نوشم.
+Bier,آبجو,Sie trinken Bier.آنها آبجو می‌نوشند.
+Wein,شراب,Er trinkt Wein.او شراب می‌نوشد.
+Abfahrt,حرکت (قطار),Die Abfahrt ist um 10 Uhr.حرکت ساعت ۱۰ است.
+Ankunft,ورود (قطار),Die Ankunft ist um 12 Uhr.ورود ساعت ۱۲ است.
+Bahnhof,ایستگاه قطار,Der Bahnhof ist groß.ایستگاه قطار بزرگ است.
+Bus,اتوبوس,Der Bus kommt.اتوبوس می‌رسد.
+Straßenbahn,تراموا,Die Straßenbahn fährt ab.تراموا حرکت می‌کند.
+U-Bahn,مترو,Wir fahren mit der U-Bahn.ما با مترو می‌رویم.
+Zug,قطار,Der Zug fährt schnell.قطار سریع می‌رود.
+Flugzeug,هواپیما,Das Flugzeug fliegt.هواپیما پرواز می‌کند.
+Flughafen,فرودگاه,Der Flughafen ist weit.فرودگاه دور است.
+Hotel,هتل,Wir wohnen im Hotel.ما در هتل اقامت داریم.
+Restaurant,رستوران,Das Restaurant ist gut.رستوران خوب است.
+Café,کافه,Wir treffen uns im Café.ما در کافه ملاقات می‌کنیم.
+Kino,سینما,Wir gehen ins Kino.ما به سینما می‌رویم.
+Supermarkt,سوپرمارکت,Der Supermarkt ist geschlossen.سوپرمارکت بسته است.
+Bäckerei,نانوایی,Ich gehe zur Bäckerei.من به نانوایی می‌روم.
+Apotheke,داروخانه,Die Apotheke hat geöffnet.داروخانه باز است.
+Krankenhaus,بیمارستان,Er ist im Krankenhaus.او در بیمارستان است.
+Goethe,گوته (نویسنده),Er liest Goethe.او گوته می‌خواند.
+Deutsch,آلمانی (زبان),Ich lerne Deutsch.من آلمانی یاد می‌گیرم.
+Englisch,انگلیسی,Sprichst du Englisch?آیا انگلیسی صحبت می‌کنی？
+lesen,خواندن,Ich lese Zeitung.من روزنامه می‌خوانم.
+schreiben,نوشتن,Er schreibt einen Brief.او یک نامه می‌نویسد.
+hören,شنیدن,Hörst du Musik?آیا موسیقی گوش می‌دهی？
+sehen,دیدن,Ich sehe fern.من تلویزیون می‌بینم.
+reisen,سفر کردن,Wir reisen nach Italien.ما به ایتالیا سفر می‌کنیم.
+besuchen,ملاقات کردن,Ich besuche meine Oma.من از مادربزرگم ملاقات می‌کنم.
+mitbringen,با خود آوردن,Bringst du Getränke mit?آیا نوشیدنی با خودت می‌آوری؟
+wegfahren,رفتن (با وسیله نقلیه),Wir fahren morgen weg.ما فردا می‌رویم.
+aussteigen,پیاده شدن,Steigen Sie hier aus?آیا اینجا پیاده می‌شوید؟
+einsteigen,سوار شدن,Wir steigen ein.ما سوار می‌شویم.
+umsteigen,تعویض کردن (وسایل نقلیه),Sie steigen in Berlin um.آن‌ها در برلین تعویض می‌کنند.
+ankommen,رسیدن,Wann kommen Sie an?کی می‌رسید؟
+losfahren,حرکت کردن,Wir fahren los.ما حرکت می‌کنیم.
+Zeitung,روزنامه,Er liest die Zeitung.او روزنامه می‌خواند.
+Brief,نامه,Sie schreibt einen Brief.او یک نامه می‌نویسد.
+Zettel,کاغذ یادداشت,Gib mir einen Zettel.به من یک کاغذ یادداشت بده.
+Geld,پول,Hast du Geld?آیا پول داری؟
+Portemonnaie,کیف پول,Mein Portemonnaie ist weg.کیف پولم گم شده است.
+Tasche,کیف,Die Tasche ist schwer.کیف سنگین است.
+Rucksack,کوله پشتی,Mein Rucksack ist blau.کوله پشتی من آبی است.
+Schlüssel,کلید,Wo sind deine Schlüssel?کلیدهایت کجا هستند؟
+Handy,تلفن همراه,Mein Handy klingelt.تلفن همراه من زنگ می‌خورد.
+Computer,کامپیوتر,Der Computer ist neu.کامپیوتر جدید است.
+Internet,اینترنت,Das Internet ist schnell.اینترنت سریع است.
+Glück,خوش شانسی,Viel Glück!موفق باشی!
+Pech,بدشانسی,Er hat Pech gehabt.او بدشانسی آورده است.
+Wetter,آب و هوا,Das Wetter ist schön.هوا خوب است.
+Sonne,خورشید,Die Sonne scheint.خورشید می‌تابد.
+Regen,باران,Heute gibt es Regen.امروز باران می‌آید.
+Schnee,برف,Es schneit.برف می‌بارد.
+Winter,زمستان,Im Winter ist es kalt.در زمستان هوا سرد است.
+Sommer,تابستان,Der Sommer ist warm.تابستان گرم است.
+Frühling,بهار,Der Frühling beginnt.بهار شروع می‌شود.
+Herbst,پاییز,Im Herbst ist es bunt.در پاییز رنگارنگ است.
+Montag,دوشنبه,Heute ist Montag.امروز دوشنبه است.
+Dienstag,سه‌شنبه,Morgen ist Dienstag.فردا سه‌شنبه است.
+Mittwoch,چهارشنبه,Mittwoch ist ein Tag.چهارشنبه یک روز است.
+Donnerstag,پنج‌شنبه,Donnerstag habe ich Deutschkurs.پنج‌شنبه کلاس آلمانی دارم.
+Freitag,جمعه,Freitag ist ein Tag.جمعه یک روز است.
+Samstag,شنبه,Am Samstag schlafe ich lange.شنبه دیر بیدار می‌شوم.
+Sonntag,یک‌شنبه,Am Sonntag gehe ich in die Kirche.یک‌شنبه به کلیسا می‌روم.
+Stunde,ساعت (واحد زمان),Eine Stunde hat 60 Minuten.یک ساعت ۶۰ دقیقه دارد.
+Viertel,یک‌چهارم,Es ist Viertel nach zehn.ساعت ده و ربع است.
+halbe,نیم,Es ist halb elf.ساعت ده و نیم است.
+Zeit,وقت,Hast du Zeit?آیا وقت داری؟
+Kultur,فرهنگ,Die Kultur ist interessant.فرهنگ جالب است.
+Sport,ورزش,Er treibt Sport.او ورزش می‌کند.
+Fernsehen,تلویزیون,Er sieht fern.او تلویزیون می‌بیند.
+Radio,رادیو,Wir hören Radio.ما رادیو گوش می‌دهیم.
+Musik,موسیقی,Die Musik ist laut.موسیقی بلند است.
+Museum,موزه,Wir gehen ins Museum.ما به موزه می‌رویم.
+Theater,تئاتر,Sie geht ins Theater.او به تئاتر می‌رود.
+Konzert,کنسرت,Er spielt im Konzert.او در کنسرت اجرا می‌کند.
+Eintritt,ورودیه,Der Eintritt kostet 5 Euro.ورودیه ۵ یورو است.
+Reservierung,رزرو,Ich habe eine Reservierung.من یک رزرو دارم.
+Anmeldung,ثبت نام,Die Anmeldung ist am Montag.ثبت نام دوشنبه است.
+Adresse,آدرس,Das ist meine Adresse.این آدرس من است.
+Wohnort,محل سکونت,Ihr Wohnort ist Berlin.محل سکونت شما برلین است.
+Geburtsdatum,تاریخ تولد,Mein Geburtsdatum ist der 5. Mai.تاریخ تولد من ۵ مه است.
+Beruf,شغل,Was ist dein Beruf?شغل شما چیست؟
+Arzt,پزشک (مرد),Der Arzt arbeitet hier.پزشک اینجا کار می‌کند.
+Ärztin,پزشک (زن),Die Ärztin ist freundlich.پزشک زن خوش‌برخورد است.
+Lehrer,معلم (مرد),Der Lehrer kommt heute nicht.معلم امروز نمی‌آید.
+Lehrerin,معلم (زن),Die Lehrerin spricht Deutsch.معلم زن آلمانی صحبت می‌کند.
+Student,دانشجو (مرد),Er ist Student.او دانشجو است.
+Studentin,دانشجو (زن),Sie ist Studentin.او دانشجو است.
+Kind,بچه,Das Kind spielt.بچه بازی می‌کند.
+Mädchen,دختر,Das Mädchen lacht.دختر می‌خندد.
+Junge,پسر,Der Junge liest.پسر می‌خواند.
+Katze,گربه,Die Katze schläft.گربه می‌خوابد.
+Hund,سگ,Der Hund bellt.سگ پارس می‌کند.
+Name,اسم,Ich heiße Anna.اسم من آنا است.
+Vorname,نام کوچک,Ihr Vorname ist Julia.نام کوچک شما جولیا است.
+Nachname,نام خانوادگی,Mein Nachname ist Müller.نام خانوادگی من مولر است.
+Geburtstag,تولد,Heute ist mein Geburtstag.امروز تولد من است.
+Feier,جشن,Die Feier ist groß.جشن بزرگ است.
+Einladung,دعوتنامه,Hast du die Einladung?آیا دعوتنامه را داری؟
+Erwachsener,بزرگسال,Der Erwachsene trinkt Kaffee.بزرگسال قهوه می‌نوشد.
+Familie,خانواده,Die Familie ist groß.خانواده بزرگ است.
+Ehemann,همسر (مرد),Ihr Ehemann ist nett.همسر شما خوش‌برخورد است.
+Ehefrau,همسر (زن),Seine Ehefrau ist Ärztin.همسر او پزشک است.
+Freund,دوست (مرد),Das ist mein Freund.این دوست من است.
+Kollege,همکار (مرد),Mein Kollege hilft mir.همکارم به من کمک می‌کند.
+Kollegin,همکار (زن),Die Kollegin ist nett.همکار زن خوش‌برخورد است.
+Termin,وقت ملاقات,Ich habe einen Termin.من یک وقت ملاقات دارم.
+Sprechstunde,ساعات مشاوره,Die Sprechstunde ist um 10 Uhr.ساعات مشاوره ساعت ۱۰ است.
+Krankheit,بیماری,Die Krankheit ist schwer.بیماری شدید است.
+Fieber,تب,Er hat Fieber.او تب دارد.
+Kopfschmerzen,سردرد,Ich habe Kopfschmerzen.من سردرد دارم.
+Schmerzen,درد,Er hat Schmerzen im Bein.او در پا درد دارد.
+Bitte,خواهش می‌کنم (درخواست),Bitte hilf mir!لطفاً به من کمک کن!
+Danke,متشکرم,Danke, das ist nett!متشکرم، این لطف است!
+Entschuldigung,ببخشید,Entschuldigung, wo ist der Bahnhof?ببخشید، ایستگاه قطار کجاست？
+Guten Morgen,صبح بخیر,Guten Morgen! Wie geht's?صبح بخیر! چطوری؟
+Guten Tag,روز بخیر,Guten Tag! Ich heiße Anna.روز بخیر! اسم من آنا است.
+Guten Abend,عصر بخیر,Guten Abend! Setzen Sie sich.عصر بخیر! بنشینید.
+Gute Nacht,شب بخیر,Gute Nacht! Schlaf gut.شب بخیر! خوب بخواب.
+Entschuldigung,ببخشید,Entschuldigung, bin ich hier richtig?ببخشید، اینجا درست است؟
+Vielen Dank,خیلی متشکرم,Vielen Dank für Ihre Hilfe!خیلی متشکرم از کمک شما!
+Kein Problem,مشکلی نیست,Kein Problem! Das mache ich gern.مشکلی نیست! با کمال میل انجام می‌دهم.
+Bis bald,به زودی می‌بینمت,Bis bald! Wir sehen uns.به زودی می‌بینمت! می‌بینمت.
+Bis morgen,تا فردا,Bis morgen! Tschüss.تا فردا! خداحافظ.
+Tschüss,خداحافظ (غیررسمی),Tschüss, bis später!خداحافظ، تا بعد!
+Auf Wiedersehen,خداحافظ (رسمی),Auf Wiedersehen und vielen Dank.خداحافظ و خیلی متشکرم.
+Wie geht's?,حالت چطور است؟,Wie geht's? Alles gut?حالت چطور است؟ همه‌چیز خوب است؟
+Mir geht's gut,من خوب هستم,Mir geht's gut, danke!من خوب هستم، متشکرم!
+Und dir?,و تو؟,Mir geht's gut, und dir?من خوب هستم، و تو؟
+Freut mich,خوشبختم,Freut mich, Sie kennenzulernen!از ملاقات شما خوشبختم!
+Ja, klar,بله، حتماً,Ja, klar! Das kann ich machen.بله، حتماً! می‌توانم انجام دهم.
+Nein, danke,نه، متشکرم,Nein, danke, ich habe schon gegessen.نه، متشکرم، قبلاً غذا خورده‌ام.
+Ja, bitte,بله، لطفاً,Ja, bitte! Ich möchte Wasser.بله، لطفاً! آب می‌خواهم.
+Vielleicht,شاید,Vielleicht komme ich morgen.شاید فردا بیایم.
+Sorry,متاسفم,Sorry! Das war mein Fehler.متاسفم! این اشتباه من بود.
+Gerne,خوشحال می‌شوم,Gerne! Das mache ich.خوشحال می‌شوم! انجام می‌دهم.
+Keine Ahnung,نمی‌دانم,Keine Ahnung, wo er ist.نمی‌دانم کجاست.
+Ehrlich,صادقانه,Das ist ehrlich gesagt schwer.صادقانه بگویم، سخت است.
+Naja,خب, ach, Naja...خب...
+Hm,هوم,Hm, ich weiß nicht.هوم، نمی‌دانم.
+Ach ja,آه، بله,Ach ja, das stimmt.آه، بله، درست است.
+Moment,یک لحظه,Moment, ich komme gleich.یک لحظه، الان می‌آیم.
+Warte,صبر کن,Warte! Ich muss etwas sagen.صبر کن! باید چیزی بگویم.
+Hilfe,کمک!,Hilfe! Ich brauche Hilfe!کمک! به کمک نیاز دارم!
+Zusammen,با هم,Wir gehen zusammen.ما با هم می‌رویم.
+Los,برو/بزن بریم,Los! Wir sind spät.بزن بریم! دیرمان شده.
+Hallo,سلام,Hallo! Wer ist da?سلام! کی آنجاست?
+Servus,سلام/خداحافظ (در جنوب آلمان),Servus! Wie geht's?سلام! چطوری؟
+Mahlzeit,نوش جان, Mahlzeit! (هنگام غذا),Mahlzeit! Guten Appetit!نوش جان! اشتها آور باشید!
+Prost,به سلامتی!,Prost! Zum Wohl!به سلامتی! به سلامت!
+Zum Wohl,به سلامتی (برای نوشیدنی),Zum Wohl! Trinken wir!به سلامتی! بنوشیم!
+Alles Gute,همه‌چیز خوب (تبریک),Alles Gute zum Geburtstag!تولدت مبارک!
+Herzlichen Glückwunsch,تبریک می‌گویم,Herzlichen Glückwunsch! Toller Job!تبریک می‌گویم! کار عالی!
+Viel Erfolg,موفق باشی,Viel Erfolg bei der Prüfung!در امتحان موفق باشی!
+Gute Besserung,بهبودی حاصل کن,Gute Besserung! Du schaffst das!بهبودی حاصل کن! می‌توانی!
+Gesundheit,عافیت باشه (بعد از عطسه),Gesundheit! Danke.عافیت باشه! متشکرم.
+Guten Appetit,نوش جان,Guten Appetit! Das Essen ist fertig.نوش جان! غذا آماده است.
+Guten Rutsch,سال نو مبارک (برای شب سال نو),Guten Rutsch ins neue Jahr!سال نو مبارک!
+Frohe Weihnachten,کریسمس مبارک,Frohe Weihnachten und ein gutes neues Jahr!کریسمس مبارک و سال نو خوب!
+Glück,خوش‌شانسی,Er hat Glück im Spiel.او در بازی خوش‌شانس است.
+Pech,بدشانسی,Er hat Pech gehabt.او بدشانسی آورده است.
+Schade,حیف,Schade, dass du nicht kommen kannst.حیف که نمی‌توانی بیایی.
+Toll,عالی,Das ist toll!عالی است!
+Super,فوق‌العاده,Super! Das klappt.فوق‌العاده! جواب می‌دهد.
+Wunderbar,فوقالعاده,Wunderbar! Das ist perfekt.فوقالعاده! عالی است.
+Herr,آقا,Herr Müller ist Lehrer.آقای مولر معلم است.
+Frau,خانم,Frau Schmidt ist Ärztin.خانم اشمیت پزشک است.
+Doktor,دکتر,Dr. Weber ist Arzt.دکتر وبر پزشک است.
+Professor,استاد (مرد),Der Professor lehrt an der Uni.استاد در دانشگاه تدریس می‌کند.
+Professorin,استاد (زن),Die Professorin forscht.استاد زن تحقیق می‌کند.
+Präsident,رئیس جمهور,Der Präsident spricht.رئیس جمهور صحبت می‌کند.
+König,پادشاه,Der König regiert.پادشاه حکومت می‌کند.
+Königin,ملکه,Die Königin ist beliebt.ملکه محبوب است.
+Mitarbeiter,کارمند (مرد),Der Mitarbeiter arbeitet hier.کارمند اینجا کار می‌کند.
+Mitarbeiterin,کارمند (زن),Die Mitarbeiterin ist neu.کارمند زن جدید است.
+Angestellte,کارمند (زن و مرد),Die Angestellte macht Pause.کارمند استراحت می‌کند.
+Sekretärin,منشی (زن),Die Sekretärin tippt.منشی تایپ می‌کند.
+Fahrer,راننده (مرد),Der Fahrer wartet.راننده منتظر است.
+Fahrerin,راننده (زن),Die Fahrerin fährt schnell.راننده زن سریع می‌راند.
+Pilot,خلبان (مرد),Der Pilot steuert das Flugzeug.خلبان هواپیما را هدایت می‌کند.
+Pilotin,خلبان (زن),Die Pilotin ist erfahren.خلبان زن با تجربه است.
+Polizist,پلیس (مرد),Der Polizist hilft.پلیس کمک می‌کند.
+Polizistin,پلیس (زن),Die Polizistin fragt.پلیس زن سوال می‌پرسد.
+Feuerwehrmann,آتش‌نشان,Der Feuerwehrmann löscht den Brand.آتش‌نشان آتش را خاموش می‌کند.
+Feuerwehrfrau,آتش‌نشان (زن),Die Feuerwehrfrau eilt herbei.آتش‌نشان زن می‌شتابد.
+Soldat,سرباز (مرد),Der Soldat marschiert.سرباز رژه می‌رود.
+Soldatin,سرباز (زن),Die Soldatin trainiert.سرباز زن تمرین می‌کند.
+Friseur,آرایشگر (مرد),Der Friseur schneidet die Haare.آرایشگر موها را کوتاه می‌کند.
+Friseurin,آرایشگر (زن),Die Friseurin färbt die Haare.آرایشگر زن موها را رنگ می‌کند.
+Koch,آشپز (مرد),Der Koch bereitet das Essen zu.آشپز غذا را آماده می‌کند.
+Köchin,آشپز (زن),Die Köchin kocht gut.آشپز زن خوب آشپزی می‌کند.
+Kellner,گارسون (مرد),Der Kellner bringt die Speisekarte.گارسون منوی غذا را می‌آورد.
+Kellnerin,گارسون (زن),Die Kellnerin bringt die Getränke.گارسون زن نوشیدنی‌ها را می‌آورد.
+Verkäufer,فروشنده (مرد),Der Verkäufer berät mich.فروشنده به من مشاوره می‌دهد.
+Verkäuferin,فروشنده (زن),Die Verkäuferin packt ein.فروشنده زن بسته‌بندی می‌کند.
+Bäcker,نانوا (مرد),Der Bäcker backt Brot.نانوا نان می‌پزد.
+Bäckerin,نانوا (زن),Die Bäckerin verkauft Brötchen.نانوا زن نان کوچک می‌فروشد.
+Metzger,قصاب (مرد),Der Metzger verkauft Wurst.قصاب سوسیس می‌فروشد.
+Metzgerin,قصاب (زن),Die Metzgerin wiegt das Fleisch.قصاب زن گوشت را وزن می‌کند.
+Bauer,کشاورز (مرد),Der Bauer arbeitet auf dem Feld.کشاورز در مزرعه کار می‌کند.
+Bäuerin,کشاورز (زن),Die Bäuerin melkt die Kühe.کشاورز زن گاوها را می‌دوشد.
+Schriftsteller,نویسنده (مرد),Der Schriftsteller schreibt einen Roman.نویسنده یک رمان می‌نویسد.
+German,Persian,Example,Example Persian
+ankommen,رسیدن,Wann kommst du an?کی می‌رسی؟
+abfahren,حرکت کردن (قطار),Wann fährt der Zug ab?قطار کی حرکت می‌کند؟
+anrufen,تلفن کردن,Wann rufst du mich an?کی به من زنگ می‌زنی؟
+aussteigen,پیاده شدن,Wo steigen wir aus?کجا پیاده می‌شویم؟
+einkaufen,خرید کردن,Was kauft ihr ein?چه چیزی خرید می‌کنید؟
+einsteigen,سوار شدن,Wo steigst du ein?کجا سوار می‌شوی؟
+fernsehen,تلویزیون تماشا کردن,Wann sehen wir heute fern?امروز کی تلویزیون تماشا می‌کنیم？
+mitbringen,با خود آوردن,Bringst du Schokolade mit?آیا شکلات با خودت می‌آوری؟
+umsteigen,تعویض کردن (وسایل نقلیه),Wo steigst du um?کجا تعویض می‌کنی？
+Geburtstag,تولد,Er hat Geburtstag.او تولد دارد.
+Abschiedsparty,جشن خداحافظی,Er war auf der Abschiedsparty.او در جشن خداحافظی بود.
+Konzert,کنسرت,Er war im Konzert.او در کنسرت بود.
+Hochzeit,عروسی,Er war auf der Hochzeit.او در عروسی بود.
+Einweihungsparty,جشن افتتاحیه,Sie war auf der Einweihungsparty.او در جشن افتتاحیه بود.
+feiern,جشن گرفتن,Was hat er gefeiert?چه چیزی را جشن گرفته است؟
+fliegen,پرواز کردن,Er ist geflogen.او پرواز کرده است.
+fahren,سفر کردن (با وسیله نقلیه),Er ist mit dem Bus gefahren.او با اتوبوس سفر کرده است.
+Taxi fahren,با تاکسی رفتن,Er ist Taxi gefahren.او با تاکسی رفته است.
+Auto fahren,با ماشین رفتن,Sie ist Auto gefahren.او با ماشین رفته است.
+Zug fahren,با قطار رفتن,Er ist Zug gefahren.او با قطار رفته است.
+Gleis,سکو (قطار),Der Zug fährt auf Gleis 10.قطار در سکوی ۱۰ حرکت می‌کند.
+Hauptbahnhof,ایستگاه مرکزی قطار,Wir steigen am Hauptbahnhof aus.ما در ایستگاه مرکزی پیاده می‌شویم.
+Butter,کره,Wir kaufen Butter.ما کره می‌خریم.
+Brot,نان,Er kauft Brot.او نان می‌خرد.
+Obst,میوه,Ich kaufe Obst.من میوه می‌خرم.
+Schokolade,شکلات,Bringst du Schokolade mit?آیا شکلات با خودت می‌آوری？
+Satz,جمله,Mach einen Satz.یک جمله بساز.
+Punkt,امتیاز,Ich bekomme einen Punkt.من یک امتیاز می‌گیرم.
+Würfel,تاس,Wir würfeln.ما تاس می‌اندازیم.
+Spielfigur,مهره بازی,Meine Spielfigur ist rot.مهره بازی من قرمز است.
+überprüfen,بررسی کردن,Die anderen überprüfen den Satz.بقیه جمله را بررسی می‌کنند.
+spielen,بازی کردن,Wir spielen 10 Minuten.ما ۱۰ دقیقه بازی می‌کنیم.
+gewinnen,برنده شدن,Wer gewinnt?چه کسی برنده می‌شود？
+fragen,پرسیدن,Fragen Sie Ihre Partnerin.از همکار خود بپرسید.
+antworten,پاسخ دادن,Er antwortet richtig.او درست پاسخ می‌دهد.
+notieren,یادداشت کردن,Notieren Sie die Antworten.پاسخ‌ها را یادداشت کنید.
+ergänzen,تکمیل کردن,Ergänzen Sie die Informationen.اطلاعات را تکمیل کنید.
+fehlen,کم بودن,Die Informationen fehlen.اطلاعات کم است.
+vorbereiten,آماده کردن,Ich bereite die Party vor.من جشن را آماده می‌کنم.
+einladen,دعوت کردن,Er lädt mich ein.او مرا دعوت می‌کند.
+besuchen,ملاقات کردن,Wir besuchen die Oma.ما از مادربزرگ ملاقات می‌کنیم.
+reisen,سفر کردن,Er reist in die Schweiz.او به سوئیس سفر می‌کند.
+mitfahren,همراه سفر کردن,Fährst du mit André?آیا با آندره همراه می‌شوی؟
+wegfahren,رفتن (با وسیله نقلیه),Wir fahren morgen weg.ما فردا می‌رویم.
+losfahren,حرکت کردن,Der Zug fährt los.قطار حرکت می‌کند.
+zurückkommen,برگشتن,Wann kommst du zurück?کی برمی‌گردی？
+herkommen,آمدن به اینجا,Komm her!بیا اینجا!
+hingehen,رفتن به آنجا,Er geht hin.او به آنجا می‌رود.
+mitkommen,همراه آمدن,Kommst du mit?آیا همراه می‌آیی？
+aufhören,تمام شدن,Der Film hört auf.فیلم تمام می‌شود.
+anfangen,شروع کردن,Die Party fängt an.جشن شروع می‌شود.
+stattfinden,برگزار شدن,Das Konzert findet statt.کنسرت برگزار می‌شود.
+gehen,رفتن,Er geht ins Konzert.او به کنسرت می‌رود.
+schmecken,خوشمزه بودن,Das Essen schmeckt gut.غذا خوشمزه است.
+kosten,قیمت داشتن,Was kostet das?قیمت این چقدر است？
+bezahlen,پرداخت کردن,Ich bezahle mit Karte.من با کارت پرداخت می‌کنم.
+ausgeben,خرج کردن,Er gibt Geld aus.او پول خرج می‌کند.
+sparen,پس‌انداز کردن,Ich spare Geld.من پول پس‌انداز می‌کنم.
+verdienen,درآمد داشتن,Er verdient gut.او خوب درآمد دارد.
+kündigen,استعفا دادن,Sie kündigt ihren Job.او از کارش استعفا می‌دهد.
+suchen,جستجو کردن,Ich suche meine Tasche.من کیفم را جستجو می‌کنم.
+finden,پیدا کردن,Er findet den Schlüssel.او کلید را پیدا می‌کند.
+verlieren,گم کردن,Ich habe den Schlüssel verloren.من کلید را گم کرده‌ام.
+vergessen,فراموش کردن,Er hat den Termin vergessen.او وقت ملاقات را فراموش کرده است.
+erinnern,به یاد آوردن,Ich erinnere mich.من به یاد می‌آورم.
+geben,دادن,Gib mir das Buch.کتاب را به من بده.
+nehmen,گرفتن,Ich nehme den Zug.من قطار را می‌گیرم.
+legen,گذاشتن,Er legt das Buch auf den Tisch.او کتاب را روی میز می‌گذارد.
+stellen,قرار دادن,Sie stellt die Vase auf den Tisch.او گلدان را روی میز قرار می‌دهد.
+hängen,آویزان کردن,Er hängt das Bild auf.او تصویر را آویزان می‌کند.
+setzen,نشاندن,Setzen Sie sich!بنشینید!
+stehen,ایستادن,Er steht am Fenster.او کنار پنجره ایستاده است.
+liegen,قرار داشتن (افقی),Das Buch liegt auf dem Tisch.کتاب روی میز قرار دارد.
+sitzen,نشستن,Wir sitzen im Café.ما در کافه نشسته‌ایم.
+schlafen,خوابیدن,Er schläft im Bett.او در تخت می‌خوابد.
+aufstehen,بلند شدن,Ich stehe um 7 Uhr auf.من ساعت ۷ بلند می‌شوم.
+sich anziehen,لباس پوشیدن,Sie zieht sich an.او لباس می‌پوشد.
+sich ausziehen,لباس درآوردن,Er zieht sich aus.او لباس درمی‌آورد.
+duschen,دوش گرفتن,Ich dusche morgens.من صبح دوش می‌گیرم.
+rasieren,اصلاح کردن,Er rasiert sich.او خودش را اصلاح می‌کند.
+sich kämmen,شانه کردن,Er kämmt sich.او خودش را شانه می‌کند.
+frühstücken,صبحانه خوردن,Wir frühstücken zusammen.ما با هم صبحانه می‌خوریم.
+zubereiten,آماده کردن (غذا),Sie bereitet das Essen zu.او غذا را آماده می‌کند.
+einpacken,بسته‌بندی کردن,Ich packe den Koffer ein.من چمدان را بسته‌بندی می‌کنم.
+auspacken,خارج کردن از بسته,Er packt die Taschen aus.او کیف‌ها را خالی می‌کند.
+aufräumen,مرتب کردن,Ich räume mein Zimmer auf.من اتاقم را مرتب می‌کنم.
+abwaschen,ظرف شستن,Er wäscht ab.او ظرف می‌شوید.
+putzen,تمیز کردن,Sie putzt die Fenster.او پنجره‌ها را تمیز می‌کند.
+kehlen,گردگیری کردن,Er kehlt den Boden.او زمین را جارو می‌کند.
+bügeln,اتو کشیدن,Ich bügle die Wäsche.من لباس‌ها را اتو می‌کشم.
+waschen,شستن,Sie wäscht die Wäsche.او لباس‌ها را می‌شوید.
+trocknen,خشک کردن,Er trocknet die Hände.او دست‌هایش را خشک می‌کند.
+einkaufen,خرید کردن,Wir kaufen ein.ما خرید می‌کنیم.
+backen,پختن (نان),Der Bäcker backt Brot.نانوا نان می‌پزد.
+braten,سرخ کردن,Er brät das Fleisch.او گوشت را سرخ می‌کند.
+kochen,آشپزی کردن,Sie kocht Suppe.او سوپ می‌پزد.
+zubereiten,آماده کردن (غذا),Ich bereite den Salat zu.من سالاد را آماده می‌کنم.
+schälen,پوست کندن,Er schält die Kartoffeln.او سیب‌زمینی‌ها را پوست می‌کند.
+schneiden,بریدن,Sie schneidet das Brot.او نان را می‌برد.
+mischen,مخلوط کردن,Er mischt die Zutaten.او مواد را مخلوط می‌کند.
+umrühren,هم زدن,Sie rührt die Suppe um.او سوپ را هم می‌زند.
+abschmecken,چشیدن و تنظیم طعم,Er schmeckt die Soße ab.او سس را می‌چشد و تنظیم می‌کند.
+würzen,ادویه زدن,Sie würzt das Essen.او به غذا ادویه می‌زند.
+servieren,سرو کردن,Er serviert das Essen.او غذا را سرو می‌کند.
+abräumen,جمع کردن (ظروف),Er räumt den Tisch ab.او میز را جمع می‌کند.
+spülen,ظرف شستن (با آب),Ich spüle das Geschirr.من ظرف‌ها را آب می‌کشم.
+trocknen,خشک کردن,Er trocknet das Geschirr.او ظرف‌ها را خشک می‌کند.
+wegstellen,برگشتن به جای خود,Sie stellt die Tassen weg.او فنجان‌ها را سر جای خود می‌گذارد.
+aufbewahren,نگهداری کردن,Er bewahrt das Brot auf.او نان را نگهداری می‌کند.
+wegwerfen,دور انداختن,Er wirft den Müll weg.او زباله را دور می‌اندازt.
+recyceln,بازیافت کردن,Wir recyceln den Müll.ما زباله را بازیافت می‌کنیم.
+verbrauchen,مصرف کردن,Er verbraucht viel Energie.او انرژی زیادی مصرف می‌کند.
+sparen,صرفه‌جویی کردن,Wir sparen Strom.ما در مصرف برق صرفه‌جویی می‌کنیم.
+zahlen,پرداخت کردن,Ich zahle die Rechnung.من صورتحساب را پرداخت می‌کنم.
+geben,پرداخت کردن,Er gibt Geld.او پول پرداخت می‌کند.
+wechseln,تعویض کردن,Sie wechselt das Geld.او پول را تعویض می‌کند.
+abheben,برداشت کردن (پول),Er hebt Geld ab.او پول برداشت می‌کند.
+einzahlen,واریز کردن,Sie zahlt Geld ein.او پول واریز می‌کند.
+überweisen,انتقال دادن (پول),Ich überweise das Geld.من پول را انتقال می‌دهم.
+German,Persian,Example,Example Persian
+das Gepäck,بار و بندیل,Ich habe viel Gepäck.,بار و بندیل زیادی دارم.
+das Bildlexikon,فرهنگ تصویری,Die Wörter sind im Bildlexikon.,واژه‌ها در فرهنگ تصویری هستند.
+das Satzpuzzle,پازل جمله,Wir machen ein Satzpuzzle.,یک پازل جمله درست می‌کنیم.
+zerschneiden,بریدن (به قطعات),Zerschneiden Sie die Sätze.,جملات را ببرید.
+abholen,بردن / برداشتن (با وسیله),Holst du mich am Bahnhof ab?,مرا از ایستگاه می‌بری؟
+abfahren,حرکت کردن (قطار و غیره),Wann fährt der Zug ab?,قطار کی حرکت می‌کند؟
+einsteigen,سوار شدن,Steigst du in den Bus ein?,سوار اتوبوس می‌شوی؟
+aussteigen,پیاده شدن,Wo steigen wir aus?,کجا پیاده می‌شویم؟
+umsteigen,تعویض کردن,Ich steige in den Bus um.,به اتوبوس تعویض می‌کنم.
+mitbringen,با خود آوردن,Bringst du einen Cappuccino mit?,یک کاپوچینو با خودت می‌آوری؟
+anrufen,تلفن زدن,Rufst du mich an?,به من تلفن می‌زنی؟
+fernsehen,تلویزیون دیدن,Wir sehen heute Abend fern.,امشب تلویزیون می‌بینیم.
+einkaufen,خرید کردن,Er kauft Brot ein.,او نان می‌خرد.
+der Hauptbahnhof,ایستگاه اصلی قطار,Fährt ein Bus vom Hauptbahnhof?,آیا اتوبوسی از ایستگاه اصلی می‌رود؟
+die Straßenbahn,تراموا,Die Straßenbahn fährt zum Flughafen.,تراموا به فرودگاه می‌رود.
+das Taxi,تاکسی,Nimmst du ein Taxi?,تاکسی می‌گیری؟
+die S-Bahn,قطار شهری,Ich nehme die S-Bahn.,قطار شهری می‌گیرم.
+der Bus,اتوبوس,Steigst du in den Bus ein?,سوار اتوبوس می‌شوی؟
+der Zug,قطار,Wo fährt der Zug ab?,قطار از کجا حرکت می‌کند؟
+das Gleis,سکو,Der Zug fährt auf Gleis 10.,قطار در سکوی ۱۰ حرکت می‌کند.
+der Bahnhof,ایستگاه قطار,Ich bin am Bahnhof.,من در ایستگاه قطار هستم.
+der Flughafen,فرودگاه,Der Bus fährt zum Flughafen.,اتوبوس به فرودگاه می‌رود.
+der Ausstieg,خروج / پیاده شدن,Wo ist der Ausstieg?,خروجی کجاست؟
+die Durchsage,اعلامیه,Die Durchsage ist wichtig.,اعلامیه مهم است.
+sich verabschieden,خداحافظی کردن,Wir verabschieden uns.,ما خداحافظی می‌کنیم.
+verabschieden,بدرقه کردن / خداحافظی کردن,Sie verabschiedet sich.,او خداحافظی می‌کند.
+sich informieren,اطلاعات گرفتن / پرسیدن,Ich informiere mich am Bahnhof.,در ایستگاه اطلاعات می‌گیرم.
+aufpassen,مراقب بودن / مواظب بودن,Pass auf dich auf!,مراقب خودت باش!
+zurückbleiben,عقب ایستادن / عقب ماندن,Bitte zurückbleiben!,لطفاً عقب بایستید!
+anhalten,ایستادن / متوقف کردن,Der Zug hält an.,قطار می‌ایستد.
+ein Telefonat beenden,تمام کردن تماس تلفنی,Also dann, beende ich das Telefonat.,پس، تماس را تمام می‌کنم.
+bis bald,به زودی می‌بینمت,Bis bald!,به زودی می‌بینمت!
+bis morgen,تا فردا,Bis morgen!,تا فردا!
+Mach's gut!,موفق باشی! / خوب باش! (خداحافظی غیررسمی),Mach's gut! Tschüss!,موفق باشی! خداحافظ!
+Pass auf dich auf!,مراقب خودت باش!,Pass auf dich auf!,مراقب خودت باش!
+Tschüs,خداحافظ (غیررسمی),Tschüs, bis später!,خداحافظ، تا بعد!
+Auf Wiedersehen,خداحافظ (رسمی),Also dann, auf Wiedersehen!,پس، خداحافظ!
+trennbare Verben,افعال جداشدنی,Die trennbaren Verben sind wichtig.,افعال جداشدنی مهم هستند.
+der Aussagesatz,جمله خبری,Das ist ein Aussagesatz.,این یک جمله خبری است.
+der Fragesatz,جمله سوالی,Das ist ein Fragesatz.,این یک جمله سوالی است.
+die W-Frage,سوال با کلمه سوالی,Wann kommst du an?,کی می‌رسی؟
+die Ja/Nein-Frage,سوال بله/خیر,Rufst du mich an?,به من تلفن می‌زنی؟
+die Verben,افعال,Die Verben sind wichtig.,افعال مهم هستند.
+German,Persian,Example,Example Persian
+einsteigen in,سوار شدن به,Ich steige in die U-Bahn ein.,من سوار مترو می‌شوم.
+aussteigen,پیاده شدن,Er steigt aus.,او پیاده می‌شود.
+umsteigen,تعویض کردن,Du musst umsteigen.,تو باید تعویض کنی.
+ankommen,رسیدن,Wann kommst du in Hamburg an?,کی در هامبورگ می‌رسی؟
+anrufen,تلفن زدن,Ich rufe dich an.,به تو تلفن می‌زنم.
+einkaufen,خرید کردن,Ich kaufe noch was ein.,یک چیز دیگر می‌خرم.
+fernsehen,تلویزیون دیدن,Siehst du noch ein bisschen fern?,کمی دیگر تلویزیون نگاه می‌کنی؟
+telefonieren,تلفن کردن,Der Mann telefoniert.,مرد تلفن می‌کند.
+zurückbleiben,عقب ماندن / عقب ایستادن,Bitte zurückbleiben!,لطفاً عقب بایستید!
+anhalten,ایستادن / متوقف شدن,Bitte halten!,لطفاً توقف کن!
+der Bahnhof,ایستگاه قطار,Er ist am Bahnhof.,او در ایستگاه قطار است.
+der Flughafen,فرودگاه,Der Mann ist am Flughafen.,مرد در فرودگاه است.
+die U-Bahn,مترو,Ich steige in die U-Bahn ein.,سوار مترو می‌شوم.
+die S-Bahn,قطار شهری,Er steigt in die S-Bahn ein.,او سوار قطار شهری می‌شود.
+der Zug,قطار,Der Zug fährt ab.,قطار حرکت می‌کند.
+der Bahnsteig,سکو/سکوی ایستگاه,Am Bahnsteig 2 fährt die U-Bahn ein.,مترو در سکوی ۲ وارد می‌شود.
+der Halt,ایستگاه (توقف),Nächster Halt: Innsbrucker Ring.,ایستگاه بعدی: اینسبروکر رینگ.
+die Durchsage,اعلامیه,Die Durchsage ist laut.,اعلامیه بلند است.
+das Verkehrsmittel,وسیله نقلیه,Das Verkehrsmittel ist schnell.,وسیله نقلیه سریع است.
+reisen,سفر کردن,Wir reisen nach Hamburg.,ما به هامبورگ سفر می‌کنیم.
+der Koffer,چمدان,Ich habe den Koffer.,چمدان را دارم.
+die Tasche,کیف/چمدان کوچک,Die Tasche habe ich auch.,کیف را هم دارم.
+das Gleis,سکو (ریل),Der Zug fährt auf Gleis 2.,قطار در سکوی ۲ حرکت می‌کند.
+die Minute,دقیقه,In vierzig Minuten komme ich an.,چهل دقیقه دیگر می‌رسم.
+zu Hause,در خانه,Ich bin noch nicht zu Hause.,هنوز در خانه نیستم.
+jemanden anrufen,به کسی تلفن زدن,Rufst du mich an?,به من تلفن می‌زنی؟
+noch etwas,یک چیز دیگر / هنوز چیزی,Ach, vielleicht kaufe ich noch was ein.,آه، شاید یک چیز دیگر بخرم.
+ein bisschen,یک کمی,Siehst du noch ein bisschen fern?,یک کمی دیگر تلویزیون نگاه می‌کنی？
+aber,اما,Er ist müde, aber er arbeitet.,او خسته است اما کار می‌کند.
+also dann,پس پس / خب پس,Also dann, bis morgen!,پس پس، تا فردا!
+German,Persian,Example,Example Persian
+ankommen,رسیدن,Wann kommst du an?,کی می‌رسی؟
+abfahren,حرکت کردن (قطار و غیره),Der Zug fährt ab.,قطار حرکت می‌کند.
+anrufen,تلفن زدن,Ich rufe dich an.,به تو تلفن می‌زنم.
+aussteigen,پیاده شدن,Wo steigen Sie aus?,کجا پیاده می‌شوید؟
+einsteigen,سوار شدن,Ich steige auf Gleis 10 ein.,من در سکو ۱۰ سوار می‌شوم.
+einkaufen,خرید کردن,Wir kaufen ein.,ما خرید می‌کنیم.
+mitbringen,با خود آوردن,Bringst du Schokolade mit?,آیا شکلات با خودت می‌آوری؟
+fernsehen,تلویزیون دیدن,Wir sehen heute Abend fern.,امشب تلویزیون می‌بینیم.
+feiern,جشن گرفتن,Marc feiert gern.,مارک دوست دارد جشن بگیرد.
+gehen,رفتن,Sie ist in ein Konzert gegangen.,او به یک کنسرت رفته بود.
+fliegen,پرواز کردن,Er ist geflogen.,او پرواز کرده بود.
+fahren,سفر کردن (با وسیله نقلیه),Er ist Auto gefahren.,او با ماشین رفته بود.
+umsteigen,تعویض کردن (قطار و غیره),Steigen Sie um?,تعویض می‌کنید؟
+einladen,دعوت کردن,Sie hat mich eingeladen.,او مرا دعوت کرده بود.
+vorschlagen,پیشنهاد کردن,Was schlägst du vor?,چه پیشنهاد می‌دهی？
+besuchen,ملاقات کردن,Er hat seine Oma besucht.,او از مادربزرگش ملاقات کرده بود.
+gratulieren,تبریک گفتن,Wir gratulieren dir.,به تو تبریک می‌گوییم.
+abholen,بردن (با وسیله نقلیه),Ich hole dich ab.,تو را می‌برم.
+beginnen,شروع کردن,Der Kurs beginnt um 10 Uhr.,کلاس ساعت ۱۰ شروع می‌شود.
+bekommen,دریافت کردن,Er bekommt einen Punkt.,او یک امتیاز دریافت می‌کند.
+erzählen,تعریف کردن,Erzähl mir etwas.,چیزی برایم تعریف کن.
+Geburtstag feiern,تولد جشن گرفتن,Ich habe Geburtstag gefeiert.,تولد جشن گرفتم.
+Abschiedsparty,مهمانی خداحافظی,Er war auf der Abschiedsparty.,او در مهمانی خداحافظی بود.
+Einweihungsparty,مهمانی افتتاحیه,Wir feiern eine Einweihungsparty.,ما مهمانی افتتاحیه برگزار می‌کنیم.
+Hochzeit,عروسی,Warst du auf der Hochzeit?,آیا در عروسی بودی؟
+Konzert,کنسرت,Sie war im Konzert.,او در کنسرت بود.
+Taxi fahren,با تاکسی رفتن,Wir sind Taxi gefahren.,ما با تاکسی رفتیم.
+Zug fahren,با قطار رفتن,Er ist Zug gefahren.,او با قطار رفت.
+Bus fahren,با اتوبوس رفتن,Sie sind Bus gefahren.,آن‌ها با اتوبوس رفتند.
+Auto fahren,با ماشین رفتن,Ich bin Auto gefahren.,من با ماشین رفتم.
+unterwegs,در راه,Wir sind unterwegs.,ما در راه هستیم.
+Gleis,سکو,Der Zug fährt auf Gleis 10.,قطار در سکو ۱۰ حرکت می‌کند.
+Hauptbahnhof,ایستگاه اصلی قطار,Wir steigen am Hauptbahnhof aus.,ما در ایستگاه اصلی پیاده می‌شویم.
+letzte Woche,هفته گذشته,Was hast du letzte Woche gemacht?,هفته گذشته چه کردی？
+am Montag,روز دوشنبه,Am Montag war ich in Köln.,دوشنبه در کلن بودم.
+am Dienstag,روز سه‌شنبه,Am Dienstag hatte ich Kurs.,سه‌شنبه کلاس داشتم.
+am Mittwoch,روز چهارشنبه,Am Mittwoch war Party.,چهارشنبه مهمانی بود.
+am Donnerstag,روز پنج‌شنبه,Am Donnerstag bin ich geflogen.,پنج‌شنبه پرواز کردم.
+am Freitag,روز جمعه,Am Freitag habe ich gearbeitet.,جمعه کار کردم.
+am Samstag,روز شنبه,Am Samstag war Hochzeit.,شنبه عروسی بود.
+am Sonntag,روز یک‌شنبه,Am Sonntag bin ich zu Hause.,یک‌شنبه در خانه هستم.
+um 12 Uhr 45,ساعت ۱۲:۴۵,Der Zug kommt um 12 Uhr 45 an.,قطار ساعت ۱۲:۴۵ می‌رسد.
+heute Abend,امشب,Wir sehen heute Abend fern.,امشب تلویزیون می‌بینیم.
+Punkt,امتیاز,Sie bekommt einen Punkt.,او یک امتیاز می‌گیرد.
+richtig,درست,Der Satz ist richtig.,جمله درست است.
+falsch,غلط,Das ist falsch.,این غلط است.
+die Antwort,پاسخ,Die Antwort ist richtig.,پاسخ درست است.
+die Frage,سؤال,Stell die Frage!,سؤال را بپرس!
+die Satzstellung,ترتیب کلمات,Achte auf die Satzstellung.,به ترتیب کلمات توجه کن.
+die Spielfigur,مهره بازی,Wir ziehen die Spielfigur.,مهره را حرکت می‌دهیم.
+würfeln,تاس انداختن,Würfeln Sie!,تاس بیندازید!
+überprüfen,بررسی کردن,Überprüfen Sie den Satz.,جمله را بررسی کنید.
+die Schokolade,شکلات,Bringst du Schokolade mit?,آیا شکلات با خودت می‌آوری？
+die Butter,کره,Wir kaufen Butter.,ما کره می‌خریم.
+das Brot,نان,Ich kaufe Brot.,نان می‌خرم.
+das Obst,میوه,Er kauft Obst.,او میوه می‌خرد.
+die Türkei,ترکیه,Sie fliegt in die Türkei.,او به ترکیه پرواز می‌کند.
+die Schweiz,سوئیس,Marc war in der Schweiz.,مارک در سوئیس بود.
+Österreich,اتریش,Er fährt nach Österreich.,او به اتریش می‌رود.
+Wien,وین,Der Bus fährt nach Wien.,اتوبوس به وین می‌رود.
+Köln,کلن,Sie war in Köln.,او در کلن بود.
+München,مونیخ,Er steigt in München aus.,او در مونیخ پیاده می‌شود.
+Berlin,برلین,Wir fahren nach Berlin.,ما به برلین می‌رویم.
+Hamburg,هامبورگ,Er ist nach Hamburg gefahren.,او به هامبورگ رفته بود.
+Bonn,بن,Die Oma wohnt in Bonn.,مادربزرگ در بن زندگی می‌کند.
+die Oma,مادربزرگ,Er besucht seine Oma.,او از مادربزرگش ملاقات می‌کند.
+der Opa,پدربزرگ,Mein Opa ist alt.,پدربزرگم پیر است.
+die Einladung,دعوتنامه,Hast du die Einladung?,آیا دعوتنامه را داری؟
+die Party,مهمانی,Die Party war toll.,مهمانی عالی بود.
+das Geschenk,هدیه,Ich kaufe ein Geschenk.,یک هدیه می‌خرم.
+die Blumen,گل‌ها,Er bringt Blumen mit.,او گل با خود می‌آورد.
+der Sekt,شراب گازدار,Wir trinken Sekt.,ما شراب گازدار می‌نوشیم.
+der Kuchen,کیک (خشک),Es gibt Kuchen.,کیک وجود دارد.
+die Torte,کیک خامه‌ای,Meine Mutter backt eine Torte.,مادرم یک کیک خامه‌ای می‌پزد.
+das Buffet,بوفه,Das Buffet ist groß.,بوفه بزرگ است.
+die Musik,موسیقی,Die Musik ist laut.,موسیقی بلند است.
+tanzen,رقصیدن,Wir tanzen gern.,ما دوست داریم برقصیم.
+lachen,خندیدن,Das Kind lacht.,بچه می‌خندد.
+singt,آواز خواندن,Sie singt im Konzert.,او در کنسرت آواز می‌خواند.
+spielen,بازی کردن,Die Kinder spielen.,بچه‌ها بازی می‌کنند.
+vorbereiten,آماده کردن,Ich bereite die Party vor.,مهمانی را آماده می‌کنم.
+aufräumen,مرتب کردن,Wir räumen auf.,ما مرتب می‌کنیم.
+eindecken,سفره چیدن,Er deckt den Tisch ein.,او سفره را می‌چیند.
+abwaschen,ظرف شستن,Sie wäscht ab.,او ظرف می‌شوید.
+aufhören,تمام کردن,Wann hörst du auf?,کی تمام می‌کنی؟
+weiter,ادامه دادن,Er arbeitet weiter.,او ادامه می‌دهد.
+German,Persian,Example,Example Persian
+begrüßen,سلام کردن,Ich begrüße meinen Lehrer.من به معلمم سلام می‌کنم.
+heißen,اسم داشتن,Wie heißen Sie?اسم شما چیست؟
+wohnen,زندگی کردن,Ich wohne in Berlin.من در برلین زندگی می‌کنم.
+kommen,آمدن,Kommen Sie aus Deutschland?آیا شما از آلمان می‌آیید？
+sprechen,صحبت کردن,Sprichst du Deutsch?آیا تو آلمانی صحبت می‌کنی？
+verstehen,فهمیدن,Ich verstehe nicht.من متوجه نمی‌شوم.
+sagen,گفتن,Was sagen Sie?شما چه می‌گویید？
+lesen,خواندن,Ich lese ein Buch.من یک کتاب می‌خوانم.
+schreiben,نوشتن,Sie schreibt eine E-Mail.او یک ایمیل می‌نویسد.
+arbeiten,کار کردن,Arbeitest du heute?آیا امروز کار می‌کنی？
+kochen,آشپزی کردن,Ich koche gern.من آشپزی را دوست دارم.
+essen,خوردن,Was essen Sie gern?شما چه چیزی دوست دارید بخورید؟
+trinken,نوشیدن,Er trinkt Wasser.او آب می‌نوشد.
+kaufen,خریدن,Ich kaufe Milch.من شیر می‌خرم.
+zahlen,پرداخت کردن,Ich zahle mit Karte.من با کارت پرداخت می‌کنم.
+kosten,قیمت داشتن,Was kostet das?قیمت این چقدر است？
+finden,پیدا کردن,Ich finde das interessant.من این را جالب می‌دانم.
+glauben,باور کردن,Ich glaube nicht.من باور نمی‌کنم.
+wissen,دانستن,Weißt du das?آیا تو این را می‌دانی？
+können,توانستن,Ich kann Englisch sprechen.من می‌توانم انگلیسی صحبت کنم.
+wollen,خواستن,Er will Kaffee trinken.او می‌خواهد قهوه بنوشد.
+möchten,می‌خواستن (مؤدبانه),Ich möchte ein Brötchen.من یک نان کوچک می‌خواهم.
+müssen,باید بودن,Sie müssen hier warten.شما باید اینجا منتظر بمانید.
+dürfen,اجازه داشتن,Darf ich reinkommen?آیا من اجازه دارم وارد شوم؟
+sollen,باید بودن (تکلیف),Wir sollen das Buch lesen.ما باید این کتاب را بخوانیم.
+mögen,دوست داشتن,Magst du Musik?آیا تو موسیقی دوست داری？
+brauchen,نیاز داشتن,Ich brauche Hilfe.من به کمک نیاز دارم.
+feiern,جشن گرفتن,Wir feiern Geburtstag.ما تولد جشن می‌گیریم.
+reisen,سفر کردن,Sie reisen nach München.آن‌ها به مونیخ سفر می‌کنند.
+spazieren,قدم زدن,Gehen wir spazieren?برویم قدم بزنیم؟
+Tisch,میز,Das Buch liegt auf dem Tisch.کتاب روی میز قرار دارد.
+Stuhl,صندلی,Der Stuhl ist neu.صندلی نو است.
+Buch,کتاب,Das Buch ist interessant.کتاب جالب است.
+Haus,خانه,Das Haus ist groß.خانه بزرگ است.
+Wohnung,آپارتمان,Die Wohnung ist klein.آپارتمان کوچک است.
+Zimmer,اتاق,Mein Zimmer ist sauber.اتاق من تمیز است.
+Tür,در,Schließen Sie die Tür.در را ببندید.
+Fenster,پنجره,Das Fenster ist offen.پنجره باز است.
+Straße,خیابان,Die Straße ist lang.خیابان طولانی است.
+Platz,میدان,Der Platz ist schön.میدان زیباست.
+Stadt,شهر,Die Stadt ist groß.شهر بزرگ است.
+Land,کشور,Deutschland ist ein Land.آلمان یک کشور است.
+Mann,مرد,Der Mann liest die Zeitung.مرد روزنامه می‌خواند.
+Frau,زن,Die Frau kocht Kaffee.زن قهوه درست می‌کند.
+Kind,بچه,Das Kind spielt im Garten.بچه در باغ بازی می‌کند.
+Familie,خانواده,Die Familie ist glücklich.خانواده خوشحال است.
+Eltern,والدین,Meine Eltern sind zu Hause.والدین من در خانه هستند.
+Mutter,مادر,Meine Mutter kocht gut.مادرم خوب آشپزی می‌کند.
+Vater,پدر,Mein Vater arbeitet.پدرم کار می‌کند.
+Freund,دوست (مرد),Er ist mein Freund.او دوست من است.
+Freundin,دوست (زن),Sie ist meine Freundin.او دوست من است.
+Name,اسم,Mein Name ist Müller.اسم من مولر است.
+Nummer,شماره,Was ist Ihre Telefonnummer?شماره تلفن شما چیست？
+Adresse,آدرس,Wie ist Ihre Adresse?آدرس شما چیست؟
+Sprache,زبان,Deutsch ist eine Sprache.آلمانی یک زبان است.
+Monat,ماه,Der Monat ist Juni.ماه ژوئن است.
+Woche,هفته,Die Woche hat sieben Tage.هفته هفت روز دارد.
+Tag,روز,Der Tag ist lang.روز طولانی است.
+Minute,دقیقه,Eine Minute bitte.یک دقیقه لطفاً.
+Uhr,ساعت (زمان),Es ist zwei Uhr.ساعت دو است.
+Zeit,وقت,Die Zeit vergeht schnell.زمان سریع می‌گذرد.
+groß,بزرگ,Das Haus ist groß.خانه بزرگ است.
+klein,کوچک,Das Zimmer ist klein.اتاق کوچک است.
+neu,جدید,Das Auto ist neu.ماشین نو است.
+alt,قدیم,Mein Handy ist alt.تلفن همراه من قدیمی است.
+gut,خوب,Das Essen ist gut.غذا خوب است.
+schlecht,بد,Das Wetter ist schlecht.هوا بد است.
+schnell,سریع,Der Zug ist schnell.قطار سریع است.
+langsam,آهسته,Er ist langsam.او آهسته است.
+teuer,گران,Die Tasche ist teuer.کیف گران است.
+billig,ارزان,Das Essen ist billig.غذا ارزان است.
+schön,زیبا,Die Stadt ist schön.شهر زیبا است.
+hässlich,زشت,Das Wetter ist hässlich.هوا زشت است.
+warm,گرم,Das Wetter ist warm.هوا گرم است.
+kalt,سرد,Es ist kalt heute.امروز سرد است.
+hungrig,گرسنه,Ich bin hungrig.من گرسنه هستم.
+durstig,تشنه,Ich bin durstig.من تشنه هستم.
+müde,خسته,Ich bin müde.من خسته هستم.
+krank,بیمار,Sie ist krank.او بیمار است.
+gesund,سالم,Mein Vater ist gesund.پدرم سالم است.
+glücklich,خوشحال,Wir sind glücklich.ما خوشحال هستیم.
+traurig,ناراحت,Er ist traurig.او ناراحت است.
+früh,زود,Heute stehe ich früh auf.امروز زود بیدار می‌شوم.
+spät,دیر,Der Zug kommt spät.قطار دیر می‌رسد.
+morgens,صبح‌ها,Er arbeitet morgens.او صبح‌ها کار می‌کند.
+nachmittags,بعدازظهرها,Wir lernen nachmittags.ما بعدازظهرها درس می‌خوانیم.
+abends,عصرها,Wir essen abends warm.ما عصرها غذای گرم می‌خوریم.
+heute,امروز,Heute scheint die Sonne.امروز خورشید می‌تابد.
+morgen,فردا,Morgen fährt er weg.فردا او می‌رود.
+gestern,دیروز,Gestern war ich im Kino.دیروز من در سینما بودم.
+zuerst,اول,Zuerst lese ich.اول من می‌خوانم.
+dann,بعد,Dann gehe ich nach Hause.بعد به خانه می‌روم.
+danach,بعد از آن,Danach schlafe ich.بعد از آن می‌خوابم.
+trotzdem,با این حال,Er hat kein Geld, trotzdem kauft er.او پول ندارد، با این حال می‌خرد.
+gerne,با کمال میل,Trinken Sie gerne Kaffee?آیا با کمال میل قهوه می‌نوشید؟
+vielleicht,شاید,Vielleicht kommt sie morgen.شاید فردا بیاید.
+zusammen,با هم,Wir lernen zusammen.ما با هم درس می‌خوانیم.
+man,انسان (اشخاص),Wie lernt man Deutsch?چگونه آلمانی یاد می‌گیرند؟
+Hallo,سلام,Hallo, wie geht es dir?سلام، حالت چطور است؟
+Tschüss,خداحافظ (غیررسمی),Tschüss, bis morgen!خداحافظ، تا فردا!
+Auf Wiedersehen,خداحافظ (رسمی),Auf Wiedersehen, Frau Schmidt.خداحافظ، خانم اشمیت.
+Danke,متشکرم,Danke für deine Hilfe.متشکرم برای کمکت.
+Bitte,خواهش می‌کنم (هم درخواست و هم پاسخ تشکر),Bitte schön.خواهش می‌کنم.
+Ja,بله,Ja, das stimmt.بله، درست است.
+Nein,نه,Nein, das ist falsch.نه، اشتباه است.
+wieder,دوباره,Kannst du das wiederholen?میشه دوباره تکرار کنی؟
+oder,یا,Kaffee oder Tee?قهوه یا چای؟
+und,و,Ich und mein Bruder.من و برادرم.
+oder,یا,Kaffee oder Tee?قهوه یا چای؟
+Weißwein,شراب سفید,Trinkst du Weißwein?آیا شراب سفید می‌نوشی؟
+Rotwein,شراب قرمز,Er bestellt Rotwein.او شراب قرمز سفارش می‌دهد.
+Sekt,شراب گازدار,Wir trinken Sekt.ما شراب گازدار می‌نوشیم.
+Salat,سالاد,Isst du Salat?آیا سالاد می‌خوری؟
+Pasta,پاستا,Die Pasta ist gut.پاستا خوب است.
+Pizza,پیتزا,Wir essen Pizza.ما پیتزا می‌خوریم.
+Torte,کیک,Meine Mutter backt Torte.مادرم کیک می‌پزد.
+Kuchen,کیک (خشک),Zum Kaffee gibt es Kuchen.با قهوه کیک هم هست.
+Kaffee,قهوه,Er trinkt Kaffee.او قهوه می‌نوشد.
+Tee,چای,Magst du Tee?آیا چای دوست داری؟
+Milch,شیر,Er trinkt Milch.او شیر می‌نوشد.
+Wasser,آب,Trinkst du Wasser?آیا آب می‌نوشی？
+Saft,آب میوه,Ich trinke Apfelsaft.من آب پرتقال می‌نوشم.
+Bier,آبجو,Sie trinken Bier.آنها آبجو می‌نوشند.
+Wein,شراب,Er trinkt Wein.او شراب می‌نوشد.
+Abfahrt,حرکت (قطار),Die Abfahrt ist um 10 Uhr.حرکت ساعت ۱۰ است.
+Ankunft,ورود (قطار),Die Ankunft ist um 12 Uhr.ورود ساعت ۱۲ است.
+Bahnhof,ایستگاه قطار,Der Bahnhof ist groß.ایستگاه قطار بزرگ است.
+Bus,اتوبوس,Der Bus kommt.اتوبوس می‌رسد.
+Straßenbahn,تراموا,Die Straßenbahn fährt ab.تراموا حرکت می‌کند.
+U-Bahn,مترو,Wir fahren mit der U-Bahn.ما با مترو می‌رویم.
+Zug,قطار,Der Zug fährt schnell.قطار سریع می‌رود.
+Flugzeug,هواپیما,Das Flugzeug fliegt.هواپیما پرواز می‌کند.
+Flughafen,فرودگاه,Der Flughafen ist weit.فرودگاه دور است.
+Hotel,هتل,Wir wohnen im Hotel.ما در هتل اقامت داریم.
+Restaurant,رستوران,Das Restaurant ist gut.رستوران خوب است.
+Café,کافه,Wir treffen uns im Café.ما در کافه ملاقات می‌کنیم.
+Kino,سینما,Wir gehen ins Kino.ما به سینما می‌رویم.
+Supermarkt,سوپرمارکت,Der Supermarkt ist geschlossen.سوپرمارکت بسته است.
+Bäckerei,نانوایی,Ich gehe zur Bäckerei.من به نانوایی می‌روم.
+Apotheke,داروخانه,Die Apotheke hat geöffnet.داروخانه باز است.
+Krankenhaus,بیمارستان,Er ist im Krankenhaus.او در بیمارستان است.
+Goethe,گوته (نویسنده),Er liest Goethe.او گوته می‌خواند.
+Deutsch,آلمانی (زبان),Ich lerne Deutsch.من آلمانی یاد می‌گیرم.
+Englisch,انگلیسی,Sprichst du Englisch?آیا انگلیسی صحبت می‌کنی？
+lesen,خواندن,Ich lese Zeitung.من روزنامه می‌خوانم.
+schreiben,نوشتن,Er schreibt einen Brief.او یک نامه می‌نویسد.
+hören,شنیدن,Hörst du Musik?آیا موسیقی گوش می‌دهی？
+sehen,دیدن,Ich sehe fern.من تلویزیون می‌بینم.
+reisen,سفر کردن,Wir reisen nach Italien.ما به ایتالیا سفر می‌کنیم.
+besuchen,ملاقات کردن,Ich besuche meine Oma.من از مادربزرگم ملاقات می‌کنم.
+mitbringen,با خود آوردن,Bringst du Getränke mit?آیا نوشیدنی با خودت می‌آوری؟
+wegfahren,رفتن (با وسیله نقلیه),Wir fahren morgen weg.ما فردا می‌رویم.
+aussteigen,پیاده شدن,Steigen Sie hier aus?آیا اینجا پیاده می‌شوید؟
+einsteigen,سوار شدن,Wir steigen ein.ما سوار می‌شویم.
+umsteigen,تعویض کردن (وسایل نقلیه),Sie steigen in Berlin um.آن‌ها در برلین تعویض می‌کنند.
+ankommen,رسیدن,Wann kommen Sie an?کی می‌رسید؟
+losfahren,حرکت کردن,Wir fahren los.ما حرکت می‌کنیم.
+Zeitung,روزنامه,Er liest die Zeitung.او روزنامه می‌خواند.
+Brief,نامه,Sie schreibt einen Brief.او یک نامه می‌نویسد.
+Zettel,کاغذ یادداشت,Gib mir einen Zettel.به من یک کاغذ یادداشت بده.
+Geld,پول,Hast du Geld?آیا پول داری؟
+Portemonnaie,کیف پول,Mein Portemonnaie ist weg.کیف پولم گم شده است.
+Tasche,کیف,Die Tasche ist schwer.کیف سنگین است.
+Rucksack,کوله پشتی,Mein Rucksack ist blau.کوله پشتی من آبی است.
+Schlüssel,کلید,Wo sind deine Schlüssel?کلیدهایت کجا هستند؟
+Handy,تلفن همراه,Mein Handy klingelt.تلفن همراه من زنگ می‌خورد.
+Computer,کامپیوتر,Der Computer ist neu.کامپیوتر جدید است.
+Internet,اینترنت,Das Internet ist schnell.اینترنت سریع است.
+Glück,خوش شانسی,Viel Glück!موفق باشی!
+Pech,بدشانسی,Er hat Pech gehabt.او بدشانسی آورده است.
+Wetter,آب و هوا,Das Wetter ist schön.هوا خوب است.
+Sonne,خورشید,Die Sonne scheint.خورشید می‌تابد.
+Regen,باران,Heute gibt es Regen.امروز باران می‌آید.
+Schnee,برف,Es schneit.برف می‌بارد.
+Winter,زمستان,Im Winter ist es kalt.در زمستان هوا سرد است.
+Sommer,تابستان,Der Sommer ist warm.تابستان گرم است.
+Frühling,بهار,Der Frühling beginnt.بهار شروع می‌شود.
+Herbst,پاییز,Im Herbst ist es bunt.در پاییز رنگارنگ است.
+Montag,دوشنبه,Heute ist Montag.امروز دوشنبه است.
+Dienstag,سه‌شنبه,Morgen ist Dienstag.فردا سه‌شنبه است.
+Mittwoch,چهارشنبه,Mittwoch ist ein Tag.چهارشنبه یک روز است.
+Donnerstag,پنج‌شنبه,Donnerstag habe ich Deutschkurs.پنج‌شنبه کلاس آلمانی دارم.
+Freitag,جمعه,Freitag ist ein Tag.جمعه یک روز است.
+Samstag,شنبه,Am Samstag schlafe ich lange.شنبه دیر بیدار می‌شوم.
+Sonntag,یک‌شنبه,Am Sonntag gehe ich in die Kirche.یک‌شنبه به کلیسا می‌روم.
+Stunde,ساعت (واحد زمان),Eine Stunde hat 60 Minuten.یک ساعت ۶۰ دقیقه دارد.
+Viertel,یک‌چهارم,Es ist Viertel nach zehn.ساعت ده و ربع است.
+halbe,نیم,Es ist halb elf.ساعت ده و نیم است.
+Zeit,وقت,Hast du Zeit?آیا وقت داری؟
+Kultur,فرهنگ,Die Kultur ist interessant.فرهنگ جالب است.
+Sport,ورزش,Er treibt Sport.او ورزش می‌کند.
+Fernsehen,تلویزیون,Er sieht fern.او تلویزیون می‌بیند.
+Radio,رادیو,Wir hören Radio.ما رادیو گوش می‌دهیم.
+Musik,موسیقی,Die Musik ist laut.موسیقی بلند است.
+Museum,موزه,Wir gehen ins Museum.ما به موزه می‌رویم.
+Theater,تئاتر,Sie geht ins Theater.او به تئاتر می‌رود.
+Konzert,کنسرت,Er spielt im Konzert.او در کنسرت اجرا می‌کند.
+Eintritt,ورودیه,Der Eintritt kostet 5 Euro.ورودیه ۵ یورو است.
+Reservierung,رزرو,Ich habe eine Reservierung.من یک رزرو دارم.
+Anmeldung,ثبت نام,Die Anmeldung ist am Montag.ثبت نام دوشنبه است.
+Adresse,آدرس,Das ist meine Adresse.این آدرس من است.
+Wohnort,محل سکونت,Ihr Wohnort ist Berlin.محل سکونت شما برلین است.
+Geburtsdatum,تاریخ تولد,Mein Geburtsdatum ist der 5. Mai.تاریخ تولد من ۵ مه است.
+Beruf,شغل,Was ist dein Beruf?شغل شما چیست؟
+Arzt,پزشک (مرد),Der Arzt arbeitet hier.پزشک اینجا کار می‌کند.
+Ärztin,پزشک (زن),Die Ärztin ist freundlich.پزشک زن خوش‌برخورد است.
+Lehrer,معلم (مرد),Der Lehrer kommt heute nicht.معلم امروز نمی‌آید.
+Lehrerin,معلم (زن),Die Lehrerin spricht Deutsch.معلم زن آلمانی صحبت می‌کند.
+Student,دانشجو (مرد),Er ist Student.او دانشجو است.
+Studentin,دانشجو (زن),Sie ist Studentin.او دانشجو است.
+Kind,بچه,Das Kind spielt.بچه بازی می‌کند.
+Mädchen,دختر,Das Mädchen lacht.دختر می‌خندد.
+Junge,پسر,Der Junge liest.پسر می‌خواند.
+Katze,گربه,Die Katze schläft.گربه می‌خوابد.
+Hund,سگ,Der Hund bellt.سگ پارس می‌کند.
+Name,اسم,Ich heiße Anna.اسم من آنا است.
+Vorname,نام کوچک,Ihr Vorname ist Julia.نام کوچک شما جولیا است.
+Nachname,نام خانوادگی,Mein Nachname ist Müller.نام خانوادگی من مولر است.
+Geburtstag,تولد,Heute ist mein Geburtstag.امروز تولد من است.
+Feier,جشن,Die Feier ist groß.جشن بزرگ است.
+Einladung,دعوتنامه,Hast du die Einladung?آیا دعوتنامه را داری؟
+Erwachsener,بزرگسال,Der Erwachsene trinkt Kaffee.بزرگسال قهوه می‌نوشد.
+Familie,خانواده,Die Familie ist groß.خانواده بزرگ است.
+Ehemann,همسر (مرد),Ihr Ehemann ist nett.همسر شما خوش‌برخورد است.
+Ehefrau,همسر (زن),Seine Ehefrau ist Ärztin.همسر او پزشک است.
+Freund,دوست (مرد),Das ist mein Freund.این دوست من است.
+Kollege,همکار (مرد),Mein Kollege hilft mir.همکارم به من کمک می‌کند.
+Kollegin,همکار (زن),Die Kollegin ist nett.همکار زن خوش‌برخورد است.
+Termin,وقت ملاقات,Ich habe einen Termin.من یک وقت ملاقات دارم.
+Sprechstunde,ساعات مشاوره,Die Sprechstunde ist um 10 Uhr.ساعات مشاوره ساعت ۱۰ است.
+Krankheit,بیماری,Die Krankheit ist schwer.بیماری شدید است.
+Fieber,تب,Er hat Fieber.او تب دارد.
+Kopfschmerzen,سردرد,Ich habe Kopfschmerzen.من سردرد دارم.
+Schmerzen,درد,Er hat Schmerzen im Bein.او در پا درد دارد.
+Bitte,خواهش می‌کنم (درخواست),Bitte hilf mir!لطفاً به من کمک کن!
+Danke,متشکرم,Danke, das ist nett!متشکرم، این لطف است!
+Entschuldigung,ببخشید,Entschuldigung, wo ist der Bahnhof?ببخشید، ایستگاه قطار کجاست？
+Guten Morgen,صبح بخیر,Guten Morgen! Wie geht's?صبح بخیر! چطوری؟
+Guten Tag,روز بخیر,Guten Tag! Ich heiße Anna.روز بخیر! اسم من آنا است.
+Guten Abend,عصر بخیر,Guten Abend! Setzen Sie sich.عصر بخیر! بنشینید.
+Gute Nacht,شب بخیر,Gute Nacht! Schlaf gut.شب بخیر! خوب بخواب.
+Entschuldigung,ببخشید,Entschuldigung, bin ich hier richtig?ببخشید، اینجا درست است؟
+Vielen Dank,خیلی متشکرم,Vielen Dank für Ihre Hilfe!خیلی متشکرم از کمک شما!
+Kein Problem,مشکلی نیست,Kein Problem! Das mache ich gern.مشکلی نیست! با کمال میل انجام می‌دهم.
+Bis bald,به زودی می‌بینمت,Bis bald! Wir sehen uns.به زودی می‌بینمت! می‌بینمت.
+Bis morgen,تا فردا,Bis morgen! Tschüss.تا فردا! خداحافظ.
+Tschüss,خداحافظ (غیررسمی),Tschüss, bis später!خداحافظ، تا بعد!
+Auf Wiedersehen,خداحافظ (رسمی),Auf Wiedersehen und vielen Dank.خداحافظ و خیلی متشکرم.
+Wie geht's?,حالت چطور است؟,Wie geht's? Alles gut?حالت چطور است؟ همه‌چیز خوب است؟
+Mir geht's gut,من خوب هستم,Mir geht's gut, danke!من خوب هستم، متشکرم!
+Und dir?,و تو؟,Mir geht's gut, und dir?من خوب هستم، و تو؟
+Freut mich,خوشبختم,Freut mich, Sie kennenzulernen!از ملاقات شما خوشبختم!
+Ja, klar,بله، حتماً,Ja, klar! Das kann ich machen.بله، حتماً! می‌توانم انجام دهم.
+Nein, danke,نه، متشکرم,Nein, danke, ich habe schon gegessen.نه، متشکرم، قبلاً غذا خورده‌ام.
+Ja, bitte,بله، لطفاً,Ja, bitte! Ich möchte Wasser.بله، لطفاً! آب می‌خواهم.
+Vielleicht,شاید,Vielleicht komme ich morgen.شاید فردا بیایم.
+Sorry,متاسفم,Sorry! Das war mein Fehler.متاسفم! این اشتباه من بود.
+Gerne,خوشحال می‌شوم,Gerne! Das mache ich.خوشحال می‌شوم! انجام می‌دهم.
+Keine Ahnung,نمی‌دانم,Keine Ahnung, wo er ist.نمی‌دانم کجاست.
+Ehrlich,صادقانه,Das ist ehrlich gesagt schwer.صادقانه بگویم، سخت است.
+Naja,خب, ach, Naja...خب...
+Hm,هوم,Hm, ich weiß nicht.هوم، نمی‌دانم.
+Ach ja,آه، بله,Ach ja, das stimmt.آه، بله، درست است.
+Moment,یک لحظه,Moment, ich komme gleich.یک لحظه، الان می‌آیم.
+Warte,صبر کن,Warte! Ich muss etwas sagen.صبر کن! باید چیزی بگویم.
+Hilfe,کمک!,Hilfe! Ich brauche Hilfe!کمک! به کمک نیاز دارم!
+Zusammen,با هم,Wir gehen zusammen.ما با هم می‌رویم.
+Los,برو/بزن بریم,Los! Wir sind spät.بزن بریم! دیرمان شده.
+Hallo,سلام,Hallo! Wer ist da?سلام! کی آنجاست?
+Servus,سلام/خداحافظ (در جنوب آلمان),Servus! Wie geht's?سلام! چطوری؟
+Mahlzeit,نوش جان, Mahlzeit! (هنگام غذا),Mahlzeit! Guten Appetit!نوش جان! اشتها آور باشید!
+Prost,به سلامتی!,Prost! Zum Wohl!به سلامتی! به سلامت!
+Zum Wohl,به سلامتی (برای نوشیدنی),Zum Wohl! Trinken wir!به سلامتی! بنوشیم!
+Alles Gute,همه‌چیز خوب (تبریک),Alles Gute zum Geburtstag!تولدت مبارک!
+Herzlichen Glückwunsch,تبریک می‌گویم,Herzlichen Glückwunsch! Toller Job!تبریک می‌گویم! کار عالی!
+Viel Erfolg,موفق باشی,Viel Erfolg bei der Prüfung!در امتحان موفق باشی!
+Gute Besserung,بهبودی حاصل کن,Gute Besserung! Du schaffst das!بهبودی حاصل کن! می‌توانی!
+Gesundheit,عافیت باشه (بعد از عطسه),Gesundheit! Danke.عافیت باشه! متشکرم.
+Guten Appetit,نوش جان,Guten Appetit! Das Essen ist fertig.نوش جان! غذا آماده است.
+Guten Rutsch,سال نو مبارک (برای شب سال نو),Guten Rutsch ins neue Jahr!سال نو مبارک!
+Frohe Weihnachten,کریسمس مبارک,Frohe Weihnachten und ein gutes neues Jahr!کریسمس مبارک و سال نو خوب!
+Glück,خوش‌شانسی,Er hat Glück im Spiel.او در بازی خوش‌شانس است.
+Pech,بدشانسی,Er hat Pech gehabt.او بدشانسی آورده است.
+Schade,حیف,Schade, dass du nicht kommen kannst.حیف که نمی‌توانی بیایی.
+Toll,عالی,Das ist toll!عالی است!
+Super,فوق‌العاده,Super! Das klappt.فوق‌العاده! جواب می‌دهد.
+Wunderbar,فوقالعاده,Wunderbar! Das ist perfekt.فوقالعاده! عالی است.
+Herr,آقا,Herr Müller ist Lehrer.آقای مولر معلم است.
+Frau,خانم,Frau Schmidt ist Ärztin.خانم اشمیت پزشک است.
+Doktor,دکتر,Dr. Weber ist Arzt.دکتر وبر پزشک است.
+Professor,استاد (مرد),Der Professor lehrt an der Uni.استاد در دانشگاه تدریس می‌کند.
+Professorin,استاد (زن),Die Professorin forscht.استاد زن تحقیق می‌کند.
+Präsident,رئیس جمهور,Der Präsident spricht.رئیس جمهور صحبت می‌کند.
+König,پادشاه,Der König regiert.پادشاه حکومت می‌کند.
+Königin,ملکه,Die Königin ist beliebt.ملکه محبوب است.
+Mitarbeiter,کارمند (مرد),Der Mitarbeiter arbeitet hier.کارمند اینجا کار می‌کند.
+Mitarbeiterin,کارمند (زن),Die Mitarbeiterin ist neu.کارمند زن جدید است.
+Angestellte,کارمند (زن و مرد),Die Angestellte macht Pause.کارمند استراحت می‌کند.
+Sekretärin,منشی (زن),Die Sekretärin tippt.منشی تایپ می‌کند.
+Fahrer,راننده (مرد),Der Fahrer wartet.راننده منتظر است.
+Fahrerin,راننده (زن),Die Fahrerin fährt schnell.راننده زن سریع می‌راند.
+Pilot,خلبان (مرد),Der Pilot steuert das Flugzeug.خلبان هواپیما را هدایت می‌کند.
+Pilotin,خلبان (زن),Die Pilotin ist erfahren.خلبان زن با تجربه است.
+Polizist,پلیس (مرد),Der Polizist hilft.پلیس کمک می‌کند.
+Polizistin,پلیس (زن),Die Polizistin fragt.پلیس زن سوال می‌پرسد.
+Feuerwehrmann,آتش‌نشان,Der Feuerwehrmann löscht den Brand.آتش‌نشان آتش را خاموش می‌کند.
+Feuerwehrfrau,آتش‌نشان (زن),Die Feuerwehrfrau eilt herbei.آتش‌نشان زن می‌شتابد.
+Soldat,سرباز (مرد),Der Soldat marschiert.سرباز رژه می‌رود.
+Soldatin,سرباز (زن),Die Soldatin trainiert.سرباز زن تمرین می‌کند.
+Friseur,آرایشگر (مرد),Der Friseur schneidet die Haare.آرایشگر موها را کوتاه می‌کند.
+Friseurin,آرایشگر (زن),Die Friseurin färbt die Haare.آرایشگر زن موها را رنگ می‌کند.
+Koch,آشپز (مرد),Der Koch bereitet das Essen zu.آشپز غذا را آماده می‌کند.
+Köchin,آشپز (زن),Die Köchin kocht gut.آشپز زن خوب آشپزی می‌کند.
+Kellner,گارسون (مرد),Der Kellner bringt die Speisekarte.گارسون منوی غذا را می‌آورد.
+Kellnerin,گارسون (زن),Die Kellnerin bringt die Getränke.گارسون زن نوشیدنی‌ها را می‌آورد.
+Verkäufer,فروشنده (مرد),Der Verkäufer berät mich.فروشنده به من مشاوره می‌دهد.
+Verkäuferin,فروشنده (زن),Die Verkäuferin packt ein.فروشنده زن بسته‌بندی می‌کند.
+Bäcker,نانوا (مرد),Der Bäcker backt Brot.نانوا نان می‌پزد.
+Bäckerin,نانوا (زن),Die Bäckerin verkauft Brötchen.نانوا زن نان کوچک می‌فروشد.
+Metzger,قصاب (مرد),Der Metzger verkauft Wurst.قصاب سوسیس می‌فروشد.
+Metzgerin,قصاب (زن),Die Metzgerin wiegt das Fleisch.قصاب زن گوشت را وزن می‌کند.
+Bauer,کشاورز (مرد),Der Bauer arbeitet auf dem Feld.کشاورز در مزرعه کار می‌کند.
+Bäuerin,کشاورز (زن),Die Bäuerin melkt die Kühe.کشاورز زن گاوها را می‌دوشد.
+Schriftsteller,نویسنده (مرد),Der Schriftsteller schreibt einen Roman.نویسنده یک رمان می‌نویسد.
+German,Persian,Example,Example Persian
+zu Hause sein,در خانه بودن,Jetzt bin ich zu Hause.,الان در خانه هستم.
+einkaufen,خرید کردن,Vielleicht kaufe ich noch was ein.,شاید یک چیز دیگر بخرم.
+fernsehen,تلویزیون دیدن,Siehst du noch ein bisschen fern?,"آیا کمی دیگر تلویزیون نگاه می‌کنی؟"
+anrufen,تلفن زدن,Rufst du mich morgen mal an?,فردا به من تلفن می‌زنی؟
+sich lieb haben,یکدیگر را دوست داشتن,Ich hab dich auch lieb.,من هم تو را دوست دارم.
+die Durchsage,اعلامیه,Die Durchsage ist vom Bahnhof.,اعلامیه از ایستگاه است.
+der Bahnsteig,سکوی ایستگاه,Am Bahnsteig zwei fährt die U-Bahn ein.,مترو در سکوی دو وارد می‌شود.
+einfahren,وارد شدن (قطار به ایستگاه),Die U-Bahn fährt ein.,مترو وارد می‌شود.
+die Bahnsteigkante,لبه سکو,Bitte Vorsicht an der Bahnsteigkante.,لطفاً در لبه سکو احتیاط کنید.
+vorsichtig sein,مراقب بودن,Sei vorsichtig!,مراقب باش!
+zurückbleiben,عقب ایستادن,Bitte zurückbleiben!,لطفاً عقب بایستید!
+der Halt,ایستگاه (توقف),Nächster Halt: Innsbrucker Ring.,ایستگاه بعدی: اینسبروکر رینگ.
+die Fahrtrichtung,جهت حرکت,Steigen Sie in Fahrtrichtung links aus.,در جهت حرکت سمت چپ پیاده شوید.
+aussteigen,پیاده شدن,"Steigen Sie in Fahrtrichtung links aus.",در جهت حرکت سمت چپ پیاده شوید.
+das Telefonat,تماس تلفنی,Das Telefonat ist kurz.,تماس تلفنی کوتاه است.
+die Verabschiedung,خداحافظی,Die Verabschiedung ist freundlich.,خداحافظی دوستانه است.
+lieb haben,دوست داشتن (صمیمی),Ich hab dich lieb.,تو را دوست دارم.

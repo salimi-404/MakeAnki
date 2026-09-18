@@ -1,0 +1,938 @@
+﻿German,Type,Article,Plural,Persian,Example,Example Persian,Tags
+was,Fragewort,,,چه؟,Was?!,چی؟!,A1_Lektion_2
+wer ist wer,Phrase,,,چه کسی، چه کسی است؟,Wer ist wer?,چه کسی، چه کسی است؟,A1_Lektion_2
+was meinen sie,Phrase,,,نظر شما چیست؟ / نظرتان چیه؟,Was meinen Sie?,نظر شما چیست؟,A1_Lektion_2
+leben,Verb,,,زندگی کردن,Ich lebe getrennt.,من جدا زندگی می‌کنم.,A1_Lektion_2
+getrennt,Adjektiv,,,جدا / به‌طور جداگانه,Wir leben getrennt.,ما جدا از هم زندگی می‌کنیم.,A1_Lektion_2
+glauben,Verb,,,باور داشتن,"Ja, das glaube ich auch.",بله، من هم همین‌طور فکر می‌کنم / باور دارم.,A1_Lektion_2
+auch,Adverb,,,هم / نیز,Ich wohne auch in Berlin!,من هم در برلین زندگی می‌کنم!,A1_Lektion_2
+nein,Adverb,,,نه,"Nein, das ist meine Mutter.",نه، این مادر من است.,A1_Lektion_3
+"Journalistin, ""-nen""",Nomen,die,,روزنامه‌نگار (زن),Ich arbeite als Journalistin.,من به عنوان روزنامه‌نگار کار می‌کنم.,A1_Lektion_2
+"Diplom-informatiker, ""-""",Nomen,der,,مهندس کامپیوتر (مرد),Ich bin Diplom-Informatiker.,من مهندس کامپیوتر هستم.,A1_Lektion_2
+"It-spezialist, ""-en""",Nomen,der,,متخصص فناوری اطلاعات (مرد),Ich bin IT-Spezialist.,من متخصص آی‌تی هستم.,A1_Lektion_2
+"Architekt, ""-en""",Nomen,der,,معمار (مرد),Ich bin Architekt.,من معمار هستم.,A1_Lektion_2
+Berufe,Nomen,die,,حرفه,Wortfelder: Berufe.,حوزه‌های واژگانی: مشاغل.,A1_Lektion_2
+Familienstand,Nomen,der,,وضعیت تاهل,Familienstand: verheiratet,وضعیت تاهل: متاهل,A1_Lektion_3
+Zahlen,Nomen,,,عددها / اعداد,Zahlen üben.,تمرین اعداد.,A1_Lektion_1
+sprechen,Verb,,,صحبت کردن,"Er spricht vier Fremdsprachen perfekt: Englisch, Französisch, Spanisch und Italienisch.",او چهار زبان خارجی را به‌طور کامل صحبت می‌کند: انگلیسی، فرانسوی، اسپانیایی و ایتالیایی.,A1_Lektion_1
+lesen,Verb,,,خواندن,Ich lese Bücher.,من کتاب می‌خوانم.,A1_Lektion_7
+schreiben,Verb,,,نوشتن,Schreiben Sie Uhrzeiten auf.,ساعت‌ها را بنویسید.,A1_Lektion_8
+haben,Verb,,,داشتن,Onkel Harry hat keinen Schinken.,عمو هری ژامبون ندارد.,A1_Lektion_9
+sein,Verb,,,بودن,Wer sind Sie?,شما چه کسی هستید؟,A1_Lektion_9
+arbeiten,Verb,,,کار کردن,Ich arbeite als Journalistin.,من به عنوان روزنامه‌نگار کار می‌کنم.,A1_Lektion_2
+nicht,Adverb,,,نفی فعل,Er ist nicht verheiratet.,او متاهل نیست.,A1_Lektion_2
+Ingenieur,Nomen,der,,مهندس,Er arbeitet als Ingenieur.,او به عنوان مهندس کار می‌کند.,A1_Lektion_2
+"Mechatroniker, ""-""",Nomen,der,,مهندس مکاترونیک,Er ist Mechatroniker.,او مکانیک است.,A1_Lektion_2
+"Schauspieler, ""-""",Nomen,der,,بازیگر (مرد),Sie arbeiten als Schauspieler.,آن‌ها به عنوان بازیگر کار می‌کنند.,A1_Lektion_3
+"Student, ""-en""",Nomen,der,,دانشجو,Er ist Student.,او دانشجو است.,A1_Lektion_2
+"Friseurin, ""-nen""",Nomen,die,,آرایشگر (مونث),Sie ist Friseurin.,او آرایشگر است.,A1_Lektion_2
+"Architektin, ""-nen""",Nomen,die,,معمار (مونث),Sie ist Architektin.,او معمار است.,A1_Lektion_2
+machen,Verb,,,انجام دادن / کردن,Ich mache ein Praktikum.,من کارآموزی می‌کنم.,A1_Lektion_2
+"Beruf, -e",Nomen,der,,شغل,Sie ist Friseurin von Beruf.,او از نظر شغلی آرایشگر است.,A1_Lektion_3
+"Ausbildung, ""-en""",Nomen,die,,آوس بیلدونگ,Ausbildung und Beruf.,آموزش و شغل.,A1_Lektion_2
+"Praktikum, ""praktika""",Nomen,das,,دوره کارآموزی,Ich mache ein Praktikum bei NeXtrom.,من یک دوره کارآموزی در شرکت نِکست‌رام می‌گذرانم.,A1_Lektion_2
+"Historiker, ""-""",Nomen,der,,مورخ (مذکر),Er ist Historiker.,او مورخ است.,A1_Lektion_2
+"Historikerin, ""-nen""",Nomen,die,,تاریخ‌نگار (زن),Ich bin Historikerin.,من تاریخ‌نگار هستم.,A1_Lektion_2
+"Arzt, ""ärzte""",Nomen,der,,پزشک,Er ist Arzt.,او پزشک است.,A1_Lektion_2
+"Ärztin, ""-nen""",Nomen,die,,پزشک (زن),Die Ärztin arbeitet im Krankenhaus.,پزشک در بیمارستان کار می‌کند.,A1_Lektion_2
+verheiratet,Adjektiv,,,متأهل,Bist du verheiratet?,آیا تو متاهل هستی؟,A1_Lektion_3
+geschieden,Adjektiv,,,طلاق‌گرفته,Wir sind nicht geschieden.,ما طلاق نگرفته‌ایم.,A1_Lektion_2
+"Kind, -er",Nomen,das,,بچه / فرزند,"Tschüs, mein Kind!",خداحافظ، فرزند من!,A1_Lektion_1
+"Single, ""-s""",Nomen,der,,مجرد,Ich bin Single.,من مجرد هستم.,A1_Lektion_3
+allein,Adverb,,,تنها,Ich lebe allein.,من تنها زندگی می‌کنم.,A1_Lektion_3
+zusammen,Adverb,,,باهم / همراه هم,Wir leben nicht zusammen.,ما با هم زندگی نمی‌کنیم.,A1_Lektion_2
+aber,Konjunktion,,,اما,"Wir sind nicht verheiratet, aber wir leben zusammen.",ما متأهل نیستیم، اما با هم زندگی می‌کنیم.,A1_Lektion_2
+"Sekretärin, ""-nen""",Nomen,die,,"منشی<br><img src=""17830734416041726702300553517923.jpeg"">",Sie ist Sekretärin.,او منشی است.,A1_Lektion_2
+"Lehrer, ""-""",Nomen,der,,معلم,Er ist Lehrer.,او معلم است.,A1_Lektion_2
+"Verkäufer, ""-""",Nomen,der,,فروشنده,Er ist Verkäufer.,او فروشنده است.,A1_Lektion_2
+"Kellnerin, ""-nen""",Nomen,die,,گارسون (زن),Sie ist Kellnerin.,او گارسون است.,A1_Lektion_2
+"Interview, ""-s""",Nomen,das,,مصاحبه,Hören Sie das Interview.,مصاحبه را گوش دهید.,A1_Lektion_2
+richtig,Adjektiv,,,درست,richtig oder falsch?,درست یا غلط؟,A1_Lektion_2
+kreuzen,Verb,,,علامت زدن,Hören Sie und kreuzen Sie an: richtig oder falsch?,گوش دهید و علامت بزنید: درست یا غلط؟,A1_Lektion_2
+Kinder (pl.),Nomen,die,,فرزندان,Wir haben zwei Kinder.,ما دو فرزند داریم.,A1_Lektion_3
+keine,Pronomen,,,نفی اسم,Keine Lust.,میل ندارم.,A1_Lektion_8
+gemeinsam,Adverb,,,با هم / مشترکاً,Planen Sie gemeinsam.,با هم برنامه‌ریزی کنید.,A1_Lektion_9
+Alter,Nomen,das,,سن,Alter: 35,سن: ۳۵,A1_Lektion_3
+"Wohnort, ""-e""",Nomen,der,,محل سکونت,Wohnort: Berlin,محل سکونت: برلین,A1_Lektion_3
+"Herkunft, ""-e""",Nomen,die,,اصالت / ریشه,Herkunft: Deutschland,اصالت: آلمان,A1_Lektion_3
+"Arbeitgeber, ""-""",Nomen,der,,کارفرما,Arbeitgeber.,کارفرما.,A1_Lektion_2
+Jahre,Nomen,die,,سال / ساله,Er ist 51 Jahre alt.,او ۵۱ ساله است.,A1_Lektion_2
+Null,Nomen,,,صفر,null,صفر,A1_Lektion_2
+Eins,Nomen,,,یک,eins,یک,A1_Lektion_2
+Zwanzig,Nomen,,,بیست,zwanzig,بیست,A1_Lektion_2
+Hundert,Nomen,,,صد,hundert,صد,A1_Lektion_2
+Vorname,Nomen,,,نام کوچک,Vorname und Familienname -> Sagen Sie Sie!,نام کوچک و نام خانوادگی -> شما را محترمانه خطاب کنید!,A1_Lektion_1
+Familienname,Nomen,,,نام خانوادگی,Vorname und Familienname -> Sagen Sie Sie!,نام کوچک و نام خانوادگی -> شما را محترمانه خطاب کنید!,A1_Lektion_1
+"Steckbrief, ""-e""",Nomen,der,,شرح حال<br>Profile,Schreiben Sie einen Steckbrief.,یک شناسنامه (مشخصات) بنویسید.,A1_Lektion_3
+"Konjugation, ""-en""",Nomen,die,,صرف فعل,Modalverb können: Konjugation.,فعل کمکی توانستن: صرف فعل.,A1_Lektion_7
+Kommunikation,Nomen,die,,ارتباطات,Kommunikation.,ارتباطات.,A1_Lektion_7
+Präposition,,die,,حرف اضافه,Präpositionen als,حرف اضافه als,A1_Lektion_1
+"Negation, ""-en""",Nomen,die,,منفی کردن,Negation mit nicht.,منفی کردن با nicht.,A1_Lektion_2
+hallo,Interjektion,,,سلام,Hallo? Verena?,الو؟ ورنا؟,A1_Lektion_1
+guten tag,Phrase,,,روز بخیر,"Guten Tag, Frau Wachter!",روز بخیر خانم واختر!,A1_Lektion_1
+guten morgen,Phrase,,,صبح بخیر,Guten Morgen.,صبح بخیر.,A1_Lektion_1
+guten abend,Phrase,,,عصر بخیر,Guten Abend.,عصر بخیر.,A1_Lektion_1
+auf wiedersehen,Phrase,,,خداحافظ /<br>دوباره میبینمت,"Auf Wiedersehen, Herr Rodriguez!",خداحافظ آقای رودریگز!,A1_Lektion_1
+tschüs,Interjektion,,,خداحافظ,"Tschüs, mein Kind!",خداحافظ، فرزند من!,A1_Lektion_1
+ich,Pronomen,,,من,Ich bin 25.,من ۲۵ ساله‌ام.,A1_Lektion_2
+heißen,Verb,,,نام داشتن / نامیده شدن,Wie heißt du?,اسمت چیست؟,A1_Lektion_2
+kommen,Verb,,,آمدن,Ich komme aus Belgien.,من اهل بلژیک هستم.,A1_Lektion_2
+woher,Adverb,,,از کجا,Woher kommt Bartan?,بارتان از کجا می‌آید؟,A1_Lektion_3
+wer,Pronomen,,,چه کسی,Wer ist das?,این چه کسی است؟,A1_Lektion_3
+wie,Fragewort,,,چطور / چگونه,Wie heißt du?,اسمت چیست؟,A1_Lektion_2
+aus,Präposition,,,اهلِ / از,Ich komme aus Mexiko.,من اهل مکزیک هستم.,A1_Lektion_1
+gut,Adjektiv,,,خوب,... schmeckt sehr gut.,... خیلی خوشمزه است.,A1_Lektion_9
+danke,Phrase,,,ممنون,Aha!... Danke!...,آها!... ممنون!...,A1_Lektion_3
+wie bitte,Phrase,,,ببخشید؟ / چی فرمودید؟,Wie bitte.,ببخشید؟,A1_Lektion_5
+"Name, ""-n""",Nomen,der,,اسم,Name: Sven,اسم: سون,A1_Lektion_3
+"Buchstabe, -n",Nomen,der,,حرف (الفبا),Buchstabe 1.,حرف اول.,A1_Lektion_1
+"Alphabet, ""-e""",Nomen,das,,الفبا,Wortfelder: Alphabet.,حوزه‌های واژگان: الفبا.,A1_Lektion_1
+buchstabieren,Verb,,,هجی کردن,Ich buchstabiere: V-a-l-...,من هجی می‌کنم: وی-آ-ال-...,A1_Lektion_1
+Länder,Nomen,die,,کشورها,"Deutschland, Spanien, Österreich.",آلمان، اسپانیا، اتریش.,A1_Lektion_1
+kennen,Verb,,,شناختن / آشنا بودن,Das kenne ich nicht.,آن را نمی‌شناسم.,A1_Lektion_9
+hören,Verb,,,شنیدن,"Hörst du, wo ich bin?",می‌شنوی من کجا هستم؟,A1_Lektion_1
+notieren,Verb,,,یادداشت کردن,Notieren Sie die Namen.,نام‌ها را یادداشت کنید.,A1_Lektion_1
+begrüßen,Verb,,,سلام و احوال پرسی,Sich begrüßen.,سلام کردن به یکدیگر.,A1_Lektion_1
+verabschieden,Verb,,,خداحافظی کردن,Sich verabschieden.,خداحافظی کردن از یکدیگر.,A1_Lektion_1
+vorstellen,Verb,,,معرفی کردن,Stellen Sie andere Personen vor.,دیگران را معرفی کنید.,A1_Lektion_2
+du,Pronomen,,,تو,Du magst Müsli.,تو موسلی دوست داری.,A1_Lektion_9
+er/sie,Pronomen,,,او,Er kommt aus Mexiko.,او اهل مکزیک است.,A1_Lektion_1
+"Sternzeichen, ""-""",Nomen,das,,نشانه‌ی ستاره‌ای,Mein Sternzeichen ist Waage.,برج من میزان است.,A1_Lektion_1
+"Bruder, ""-""",Nomen,der,,برادر,Das ist mein Bruder Miguel.,این برادر من، میگل است.,A1_Lektion_1
+Krankenschwester,Nomen,die,,پرستار,Sonja Wilkens ist Krankenschwester und 32 Jahre alt.,سونیا ویلکنس پرستار است و ۳۲ سال دارد.,A1_Lektion_2
+"Nichte, ""-n""",Nomen,die,,خواهرزاده / برادرزاده‌ی دختر,Das Baby ist meine Nichte Eliza.,این نوزاد، خواهرزاده‌ام الیزاست.,A1_Lektion_1
+"Heimatstadt, ""-e""",Nomen,die,,زادگاه,Meine Heimatstadt ist Wien.,زادگاه من وین است.,A1_Lektion_1
+singen,Verb,,,آواز خواندن,"Wir können tanzen, können singen.",ما می‌توانیم برقصیم، می‌توانیم آواز بخوانیم.,A1_Lektion_3
+Fremdsprache,Nomen,die,,زبان‌های خارجی,Er spricht vier Fremdsprachen perfekt.,او چهار زبان خارجی را عالی صحبت می‌کند.,A1_Lektion_1
+perfekt,Adjektiv,,,عالی / کامل,"Er spricht vier Fremdsprachen perfekt: Englisch, Französisch, Spanisch und Italienisch.",او چهار زبان خارجی را به‌طور کامل صحبت می‌کند: انگلیسی، فرانسوی، اسپانیایی و ایتالیایی.,A1_Lektion_1
+fertig,Adjektiv,,,آماده,Er ist bald fertig und geht dann zurück nach Österreich.,او به‌زودی تمام می‌کند و بعد به اتریش برمی‌گردد.,A1_Lektion_1
+Sprache,Nomen,die,,زبان,Ein Land - viele Sprachen.,یک کشور - چندین زبان.,A1_Lektion_1
+Gebiet,Nomen,das,,منطقه,Markieren Sie die Gebiete farbig.,مناطق را رنگی علامت‌گذاری کنید.,A1_Lektion_1
+Wörterbuch,Nomen,das,,فرهنگ لغت,Hilfe finden Sie im Bildlexikon oder im Wörterbuch.,کمک را در فرهنگ تصویری یا در فرهنگ لغت پیدا می‌کنید.,A1_Lektion_9
+Aussage,Nomen,die,,جمله خبری,Aussage.,جمله خبری.,A1_Lektion_1
+Geschwister,Nomen,die,,خواهر و برادر,Hast du Geschwister?,آیا خواهر و برادر داری؟,A1_Lektion_3
+Großvater,Nomen,der,,پدربزرگ,Mein Großvater heißt Carl.,نام پدربزرگ من کارل است.,A1_Lektion_3
+Großmutter,Nomen,die,,مادربزرگ,Meine Großmutter heißt Helga.,نام مادربزرگ من هلگا است.,A1_Lektion_3
+"Vater, -",Nomen,der,,پدر,Das ist mein Vater.,این پدر من است.,A1_Lektion_1
+"Mutter, ""-e""",Nomen,die,,مادر,Das ist meine Mutter.,این مادر من است.,A1_Lektion_3
+"Schwester, ""-n""",Nomen,die,,خواهر,Meine Schwester Angelina.,خواهرم آنجلینا.,A1_Lektion_3
+Sohn,Nomen,der,,پسر (فرزند),Das ist mein Sohn.,این پسر من است.,A1_Lektion_3
+Enkel,Nomen,der,,نوه (مذکر),Er ist mein Enkel.,او نوه من است.,A1_Lektion_3
+Kollege,Nomen,der,,همکار مرد,"Sind Sie Kollegen, Nachbarn, Freunde, ...?",آیا شما همکار، همسایه، دوست، ... هستید؟,A1_Lektion_9
+Kollegin,Nomen,die,,همکار زن,Gast: Jutta (Kollegin).,مهمان: جوتا (همکار).,A1_Lektion_9
+Freund,Nomen,der,,دوست / رفیق,Das da sind meine Freunde.,این‌ها دوستان من هستند.,A1_Lektion_8
+Freundin,Nomen,die,,دوست (دختر),Ist sie deine Freundin?,آیا او دوست تو است؟,A1_Lektion_3
+Partner,Nomen,der,,پارتنرآقا,Schreiben Sie auf den Rücken Ihres Partners.,روی پشت همکار آقای خود بنویسید.,A1_Lektion_8
+Partnerin,Nomen,die,,پارتنرخانم,Schreiben Sie auf den Rücken Ihrer Partnerin.,روی پشت همکار خانم خود بنویسید.,A1_Lektion_8
+Familiengeschichte,Nomen,die,,داستان‌های خانوادگی,Familiengeschichten.,داستان‌های خانوادگی.,A1_Lektion_1
+Notiz,Nomen,die,,یادداشت,Machen Sie Notizen.,یادداشت‌برداری کنید.,A1_Lektion_1
+"Familienmitglied, ""-er""",Nomen,das,,عضو خانواده,Schreiben Sie einen Steckbrief zu einem Familienmitglied.,برای یکی از اعضای خانواده یک شناسنامه بنویسید.,A1_Lektion_3
+Mann,Nomen,der,,مرد,Nein ... oh Mann!,نه ... آخ مرد حسابی!,A1_Lektion_6
+"Frau, ""-en""",Nomen,die,,همسر / زن,Ist das deine Frau?,آیا این همسر توست؟,A1_Lektion_3
+skaten,Verb,,,اسکیت‌سواری کردن,Meine Hobbys sind Skaten und Fotografie.,سرگرمی‌های من اسکیت‌سواری و عکاسی است.,A1_Lektion_1
+Fotografie,Nomen,die,,عکاسی,Meine Hobbys sind Skaten und Fotografie.,سرگرمی‌های من اسکیت‌سواری و عکاسی است.,A1_Lektion_1
+heiraten,Adjektiv,,,ازدواج کردن,Bist du verheiratet?,آیا تو متاهل هستی؟,A1_Lektion_1
+Oma,Nomen,die,,مادربزرگ,Das ist meine Oma.,این مادربزرگ من است.,A1_Lektion_3
+"Opa, ""-s""",Nomen,der,,پدربزرگ,Mein Opa Carl.,پدربزرگم کارل.,A1_Lektion_3
+Schweiz,Nomen,die,,سوئیس,Ich komme aus der Schweiz.,من اهل سوئیس هستم.,A1_Lektion_2
+Englisch,Nomen,,,انگلیسی,"Er spricht vier Fremdsprachen perfekt: Englisch, Französisch, Spanisch und Italienisch.",او چهار زبان خارجی را به‌طور کامل صحبت می‌کند: انگلیسی، فرانسوی، اسپانیایی و ایتالیایی.,A1_Lektion_1
+Russisch,Nomen,,,زبان روسی,Er lernt Russisch.,او روسی یاد می‌گیرد.,A1_Lektion_3
+Finnisch,Nomen,,,زبان فنلاندی,Sie spricht Finnisch.,او فنلاندی صحبت می‌کند.,A1_Lektion_3
+Luxemburgisch,Nomen,,,زبان لوکزامبورگی,Das ist Luxemburgisch.,این زبان لوکزامبورگی است.,A1_Lektion_3
+Niederländisch,Nomen,,,زبان هلندی,Er spricht Niederländisch.,او هلندی صحبت می‌کند.,A1_Lektion_3
+Polnisch,Nomen,,,زبان لهستانی,Polnisch ist schwer.,لهستانی دشوار است.,A1_Lektion_3
+Schwedisch,Nomen,,,زبان سوئدی,Sie lernt Schwedisch.,او سوئدی یاد می‌گیرد.,A1_Lektion_3
+Slowakisch,Nomen,,,زبان اسلواکی,Das ist Slowakisch.,این زبان اسلواکی است.,A1_Lektion_3
+Slowenisch,Nomen,,,زبان اسلوونیایی,Sie spricht Slowenisch.,او اسلوونیایی صحبت می‌کند.,A1_Lektion_3
+Tschechisch,Nomen,,,زبان چکی,Tschechisch ist schön.,چکی زیباست.,A1_Lektion_3
+Ungarisch,Nomen,,,زبان مجاری,Ich lerne Ungarisch.,من مجاری یاد می‌گیرم.,A1_Lektion_3
+"Tisch, ""-e""",Nomen,der,,میز,Der Tisch ist modern.,میز مدرن است.,A1_Lektion_4
+"Bett, ""-en""",Nomen,das,,تختخواب,Das Bett ist nicht schlecht!,تختخواب بد نیست!,A1_Lektion_4
+brauchen,Verb,,,نیاز داشتن,Brauchen Sie Hilfe?,آیا به کمک نیاز دارید؟,A1_Lektion_4
+viel,Adverb,,,زیاد,Wie viel kostet das?,این چقدر قیمت دارد؟,A1_Lektion_1
+schön,Adjektiv,,,خوب / زیبا,Das ist schön!,این خوب است!,A1_Lektion_1
+groß,Adjektiv,,,بزرگ,Der Schrank ist zu groß.,کمد خیلی بزرگ است.,A1_Lektion_4
+klein,Adjektiv,,,کوچک,Das Zimmer ist klein.,اتاق کوچک است.,A1_Lektion_4
+modern,Adjektiv,,,مدرن / جدید,Der Tisch ist modern.,میز مدرن است.,A1_Lektion_4
+schlecht,Adjektiv,,,بد,Das Bett ist nicht schlecht!,تختخواب بد نیست!,A1_Lektion_4
+praktisch,Adjektiv,,,کاربردی,Modern und praktisch.,مدرن و کاربردی.,A1_Lektion_4
+geboren,Adjektiv,,,متولد شدن,Sie ist am 1.6.1973 in Bergisch Gladbach geboren.,او در تاریخ ۱۹۷۳/۶/۱ در برگیش گلادباخ متولد شده است.,A1_Lektion_1
+"Chemiefacharbeiter, ""-""",Compound Nomen,der,,کارگر متخصص صنایع شیمیایی,Heidi Klums Vater ist Chemiefacharbeiter.,پدر هایدی کلوم کارگر متخصص صنایع شیمیایی است.,A1_Lektion_1
+"Moderatorin, ""-nen""",Nomen,die,,مجری زن,Heidi Klum ist Model und Moderatorin.,هایدی کلوم مدل و مجری است.,A1_Lektion_1
+"Sänger, ""-""",Nomen,der,,خواننده مرد,Seal ist von Beruf Sänger.,سیل شغلش خواننده است.,A1_Lektion_1
+Belgien,Nomen,,,بلژیک,Ich komme aus Belgien.,من اهل بلژیک هستم.,A1_Lektion_2
+Dänemark,Nomen,,,دانمارک,Ich komme aus Dänemark.,من از دانمارک می‌آیم.,A1_Lektion_2
+Frankreich,Nomen,,,فرانسه,Frankreich.,فرانسه.,A1_Lektion_1
+Italien,Nomen,,,ایتالیا,Sie kommt aus Italien.,او اهل ایتالیا است.,A1_Lektion_4
+Liechtenstein,Nomen,,,لیختن‌اشتاین,Liechtenstein ist ein kleines Land.,لیختن‌اشتاین کشور کوچکی است.,A1_Lektion_1
+Österreich,Nomen,,,اتریش,Österreich.,اتریش.,A1_Lektion_1
+Tschechien,Nomen,,,جمهوری چک,Prag ist in Tschechien.,پراگ در جمهوری چک است.,A1_Lektion_1
+Ungarn,Nomen,,,مجارستان,Budapest liegt in Ungarn.,بوداپست در مجارستان قرار دارد.,A1_Lektion_1
+Journalist,Nomen,der,,روزنامه‌نگار,Er arbeitet als Journalist.,او به عنوان روزنامه‌نگار کار می‌کند.,A1_Lektion_2
+servus,Interjektion,,,سلام / خداحافظ<br>(در جنوب و اتریش),Servus!,سلام / خداحافظ!,A1_Lektion_1
+grüß gott,Phrase,,,سلام (محلی) / خدا نگهدار<br>جنوب ولی رسمی تر مثلا سلام علیکم,Grüß Gott!,سلام (محلی)!,A1_Lektion_1
+"Nachtflohmarkt, ""-e""",Nomen,der,,"بازار شبانه دست دوم(فلومارکت)<br><img src=""b-nachtflohmarkt-rindermarkthalle.webp"">",Der Nachtflohmarkt ist in Leipzig.,بازار شبانه دست‌دوم در لایپزیگ است.,A1_Lektion_2
+"Trödelmarkt, ""-e""",Nomen,der,,بازار سمساری,Deutschlands schönster Trödelmarkt bei Nacht.,زیباترین بازار دست‌دوم آلمان در شب.,A1_Lektion_2
+"Händler, -",Nomen,der,,"فروشنده/دلال<br><img src=""topbillede-2imwfrylznh4rs3dypjpsa.jpg"">",200 Händler kommen zum Trödel-Event.,۲۰۰ فروشنده به رویداد دست‌دوم‌فروشی می‌آیند.,A1_Lektion_2
+"Besucher, -",Nomen,der,,بازدیدکنندگان <br>visitors,Geöffnet für Besucher.,برای بازدیدکنندگان باز است.,A1_Lektion_2
+"Buch, ""-er""",Nomen,das,,کتاب‌ها,"Omas Zeiten: Bücher, Taschen, Uhren.",زمان مادربزرگ‌ها: کتاب‌ها، کیف‌ها، ساعت‌ها.,A1_Lektion_1
+"Tasche, ""-n""",Nomen,die,,کیف‌ها,"Omas Zeiten: Bücher, Taschen, Uhren.",زمان مادربزرگ‌ها: کتاب‌ها، کیف‌ها، ساعت‌ها.,A1_Lektion_1
+"Uhr, ""-en""",Nomen,die,,ساعت‌ها,"Omas Zeiten: Bücher, Taschen, Uhren.",زمان مادربزرگ‌ها: کتاب‌ها، کیف‌ها، ساعت‌ها.,A1_Lektion_1
+Möbel (plural),Nomen,die,,مبلمان / اثاثیه,Das sind schöne Möbel.,این‌ها مبلمان زیبایی هستند.,A1_Lektion_4
+"Kleidung, -en",Nomen,die,,لباس,Hier finden Sie Kleidung.,در اینجا شما لباس پیدا می‌کنید.,A1_Lektion_2
+"Neuware, -n",Nomen,die,,کالای نو,KEINE NEUWARE!,هیچ کالای جدیدی مجاز نیست!,A1_Lektion_2
+"Standpreis, ""-e""",Compound Nomen,der,,قیمت غرفه,"Standpreise: 7, – Euro pro Meter.",قیمت غرفه: 7 یورو برای هر متر.,A1_Lektion_1
+"Kugelschreiber, ""-""",Nomen,der,,خودکار,Ich brauche einen Kugelschreiber.,من به یک خودکار نیاز دارم.,A1_Lektion_2
+leicht,Adjektiv,,,سبک,Sie ist aus Plastik und sehr leicht!,آن از پلاستیک است و خیلی سبک است!,A1_Lektion_5
+"Fehler, -",Nomen,der,,اشتباه,Er macht keine Fehler.,آن هیچ اشتباهی ندارد.,A1_Lektion_2
+Brille,Nomen,die,,"عینک<br><img src=""17830736712521314028416509562795.jpeg"">",Die Brille ist rot.,عینک قرمز است.,A1_Lektion_2
+Suche,Nomen,die,,جستجو,Suche nach Liebe.,جستجو برای عشق.,A1_Lektion_2
+kochen,Verb,,,آشپزی کردن,Du kannst wirklich toll kochen!,تو واقعاً خیلی خوب آشپزی می‌کنی!,A1_Lektion_6
+tanzen,Verb,,,رقصیدن,Wow! Du kannst ja super tanzen!,واو! تو واقعاً خیلی خوب می‌توانی برقصی!,A1_Lektion_7
+Augen,Nomen,die,,چشم‌ها,Deine Augen sind sehr schön!,چشمانت خیلی زیبا هستند!,A1_Lektion_7
+"Bild, ""-er""",Nomen,das,,تصویر / تابلو,Das ist ein Bild.,این یک تصویر است.,A1_Lektion_4
+"Bleistift, ""-e""",Nomen,der,,"مداد<br><img src=""17830744137892073498311385067935.jpeg"">",Der Bleistift liegt hier.,مداد اینجا قرار دارد.,A1_Lektion_2
+"Bierglas, ""-er""",Nomen,das,,"لیوان آبجو<br><img src=""17830736388845652094543745058274.jpeg"">",Das ist ein Bierglas.,این یک لیوان آبجو است.,A1_Lektion_2
+"Teller, ""-""",Nomen,der,,"بشقاب<br><img src=""17830755169556033105258566658207.jpeg"">",Das ist ein Teller.,این یک بشقاب است.,A1_Lektion_2
+Ring,Nomen,der,,"حلقه <br><img src=""1783075430265746390673340134894.jpeg"">",Das ist ein Ring.,این یک انگشتر است.,A1_Lektion_5
+"Tasse, ""-n""",Nomen,die,,فنجان,Das ist eine Tasse.,این یک فنجان است.,A1_Lektion_2
+Kette,Nomen,die,,گردنبند / زنجیر,Hier: eine super Kette!,این‌جاست: یک گردنبند عالی!,A1_Lektion_5
+"Regenschirm, ""-e""",Nomen,der,,چتر,Das ist ein Regenschirm.,این یک چتر است.,A1_Lektion_2
+"Feuerzeug, ""-e""",Nomen,das,,فندک,Kann ich das Feuerzeug haben?,می‌توانم فندک را داشته باشم؟,A1_Lektion_7
+Schlüsselanhänger,Nomen,der,,جاکلیدی,Das ist ein Schlüsselanhänger.,این یک جاکلیدی است.,A1_Lektion_2
+"Handtuch, ""-er""",Nomen,das,,"حوله<br><img src=""17830737986275437494661355700171.jpeg"">",Das ist ein Handtuch.,این یک حوله است.,A1_Lektion_2
+"Postkarte, ""-n""",Nomen,die,,"کارت پستال<br><img src=""handwritten-postcards-A6-by-PENSAKI-08.webp"">",Das ist eine Postkarte.,این یک کارت پستال است.,A1_Lektion_2
+"König, ""-e""",Nomen,der,,"پادشاه<br><img src=""dd4dae623cc6aa16532c244436bf38dd.jpg"">",Das ist ein König.,این یک پادشاه است.,A1_Lektion_2
+"Puppe, ""-n""",Nomen,die,,"عروسک<br><img src=""3002158_M.jpg"">",Das ist eine Puppe.,این یک عروسک است.,A1_Lektion_2
+"Drucker, -",Nomen,der,,پرینتر,Ich habe keinen Drucker.,من پرینتر ندارم.,A1_Lektion_6
+Papier,Nomen,das,,کاغذ,Das ist ein Stück Papier.,این یک تکه کاغذ است.,A1_Lektion_2
+Rechnung,Nomen,die,,صورت‌حساب / فاکتور,Wo sind denn die Rechnungen und die Formulare?,پس صورت‌حساب‌ها و فرم‌ها کجا هستند؟,A1_Lektion_6
+"Autor, -en",Nomen,der,,نویسنده,Ich arbeite als Autor.,من به عنوان نویسنده کار می‌کنم.,A1_Lektion_2
+Psychologie,Nomen,die,,روان‌شناسی,Ich studiere Psychologie.,من روان‌شناسی تحصیل می‌کنم.,A1_Lektion_2
+"Männeruhr, ""-en""",Compound Nomen,die,,ساعت مردانه,Es ist eine Männeruhr.,این یک ساعت مردانه است.,A1_Lektion_2
+hübsch,Adjektiv,,,قشنگ,Die Farbe ist doch sehr hübsch.,رنگ آن واقعاً خیلی زیباست.,A1_Lektion_2
+einfach,Adjektiv,,,ساده,Sie ist so einfach und so praktisch!,آن خیلی ساده و خیلی کاربردی است!,A1_Lektion_2
+"Stuhl, ""stühle""",Nomen,der,,"صندلی<br><img src=""Main_SG-DX-BOS4-GE-SO90_1.webp"">",Der Stuhl ist hier.,صندلی اینجا است.,A1_Lektion_6
+Schrank,Nomen,der,,کمد,Der Schrank ist praktisch.,کمد کاربردی است.,A1_Lektion_4
+Formular,Nomen,das,,فرم,Wo sind denn die Rechnungen und die Formulare?,پس صورت‌حساب‌ها و فرم‌ها کجا هستند؟,A1_Lektion_6
+"Briefmarke, -n",Nomen,die,,"تمبر پستی<br><img src=""IMG_20260703_132355.jpg"">",Ich brauche eine Briefmarke.,من به یک تمبر نیاز دارم.,A1_Lektion_6
+"Bildschirm, -e",Nomen,der,,"مانیتور / صفحه نمایش<br><img src=""1113060_9_600x600_t_g.webp"">",Der Bildschirm ist groß.,مانیتور بزرگ است.,A1_Lektion_6
+"Notizbuch, ""-bücher""",Nomen,das,,"دفتر یادداشت<br><img src=""81K6RsBAufL._AC_UF1000,1000_QL80_.jpg"">",Ich schreibe in mein Notizbuch.,من در دفتر یادداشتم می‌نویسم.,A1_Lektion_6
+"Kalender, -",Nomen,der,,"تقویم<br><img src=""17830733845001673195500311148645.jpeg"">",Wo ist der Kalender?,تقویم کجاست؟,A1_Lektion_6
+"Maus, ""mäuse""",Nomen,die,,موش (کامپیوتر),Die Maus ist kaputt.,موش کامپیوتر خراب است.,A1_Lektion_6
+Handy,Nomen,das,,گوشی همراه / موبایل,Ich habe einen Laptop und drei Handys.,من یک لپ‌تاپ و سه گوشی دارم.,A1_Lektion_6
+Laptop,Nomen,der,,رایانهٔ همراه / لپ‌تاپ,Ich habe einen Laptop und drei Handys.,من یک لپ‌تاپ و سه گوشی دارم.,A1_Lektion_6
+"E-mail, ""-s""",Nomen,die,,ایمیل,Schreiben Sie eine E-Mail.,یک ایمیل بنویسید.,A1_Lektion_6
+Termin,Nomen,der,,وقت / قرار / نوبت,Termine?,قرارها؟,A1_Lektion_6
+"Firma, firmen",Nomen,die,,"شرکت<br><img src=""creative-logo-design-for-real-estate-company-vector.jpg"">",Ich arbeite bei der Firma.,من در آن شرکت کار می‌کنم.,A1_Lektion_6
+Stress,Nomen,der,,"استرس / فشار کاری<br><img src=""1783075343359939487711069676285.jpeg"">",Ich habe nur Stress.,من فقط استرس دارم.,A1_Lektion_6
+"Flasche, ""-n""",Nomen,die,,"بطری<br><img src=""17830754699012166639292775594033.jpeg"">",Das ist eine Flasche.,این یک بطری است.,A1_Lektion_2
+Schirm,Nomen,der,,چتر,Der Schirm. Das ist ein Schirm.,چتر. این یک چتر است.,A1_Lektion_5
+Seife,Nomen,die,,صابون,Das ist eine Seife. Richtig?,این یک صابون است. درست است؟,A1_Lektion_5
+Streichholz,Compound Nomen,das,,کبریت,"Entschuldigung, das ist ein Streichholz oder?",ببخشید، این یک کبریت است، مگه نه؟,A1_Lektion_5
+Geldbörse,Compound Nomen,die,,کیف پول,"Ach, das! Na, das ist eine Geldbörse.",آهان، آن! خب، آن یک کیف پول است.,A1_Lektion_5
+"Wanduhr, ""-en""",Nomen,die,,"ساعت دیواری<br><img src=""5bfb09715b7f405bb1c697765304e850.jpg"">",Die Wanduhr ist digital.,ساعت دیواری دیجیتال است.,A1_Lektion_2
+"Kuckucksuhr, ""-en""",Nomen,die,,"ساعت کوکو<br><img src=""kuckucksuhr-mit-haus.jpg"">",Das ist eine Kuckucksuhr.,این یک ساعت کوکو است.,A1_Lektion_2
+Holz,Nomen,das,,"چوب<br><img src=""csm_Holzpolter_Esche_Glaser_34a8fd9d26.jpg"">",Der Tisch ist aus Holz.,میز از چوب است.,A1_Lektion_2
+Metall,Nomen,das,,فلز,Die Brille ist aus Metall.,عینک از فلز ساخته شده است.,A1_Lektion_2
+"Kunststoff, ""-e""",Nomen,der,,"مواد مصنوعی<br><img src=""10452dcb-4916-4db3-99b8-51f423b4582a_w1200_r1.778_fpx39_fpy49.jpg"">",Das Gestell ist aus Kunststoff.,قاب از پلاستیک است.,A1_Lektion_2
+Plastik,Nomen,das,,پلاستیک,Material: Plastik.,جنس: پلاستیک.,A1_Lektion_5
+"Glas, ""gläser""",Nomen,das,,شیشه,Die Brille ist ohne Glas.,عینک بدون شیشه است.,A1_Lektion_2
+Farbe,Nomen,die,,رنگ,"Welche Farbe haben deine Augen, Rebekka?",رنگ چشمانت چه رنگی است، ربکا؟,A1_Lektion_7
+rot,Adjektiv,,,قرمز,rot,قرمز,A1_Lektion_1
+blau,Adjektiv,,,آبی,blau,آبی,A1_Lektion_1
+grün,Adjektiv,,,سبز,grün,سبز,A1_Lektion_1
+gelb,Adjektiv,,,زرد,gelb,زرد,A1_Lektion_1
+orange,Adjektiv,,,نارنجی,orange,نارنجی,A1_Lektion_1
+schwarz,Adjektiv,,,مشکی / سیاه,schwarz,مشکی / سیاه,A1_Lektion_1
+weiß,Adjektiv,,,سفید,weiß,سفید,A1_Lektion_1
+braun,Adjektiv,,,قهوه‌ای,braun,قهوه‌ای,A1_Lektion_1
+eckig,Adjektiv,,,"گوشه‌دار / چهارگوش<br><img src=""temp_file_-91d243b38720a6ddf95ac0e6df80ce34884ebcc6.jpg"">",Form: eckig.,شکل: گوشه‌دار.,A1_Lektion_5
+rund,Adjektiv,,,گرد,Die Form ist rund.,شکل آن گرد است.,A1_Lektion_2
+"Sofa, ""-s""",Nomen,das,,"مبل<br><img src=""Luxurious-Sofa-Set-Design-SF-0005C-A.jpg"">",Das Sofa ist bequem.,کاناپه راحت است.,A1_Lektion_4
+"Teppich, ""-e""",Nomen,der,,فرش,Der Teppich kostet nur 9 Euro 98.,فرش فقط ۹ یورو و ۹۸ سنت قیمت دارد.,A1_Lektion_4
+"Entschuldigung, ""-en""",Nomen,die,,عذرخواهی / ببخشید,"Ähm, Entschuldigung?",اِم، ببخشید؟,A1_Lektion_4
+"Lampe, ""-n""",Nomen,die,,لامپ / چراغ,Was kostet die Lampe?,قیمت لامپ چقدر است؟,A1_Lektion_4
+"Stuhl, ""-e""",Nomen,der,,صندلی,Auf Bild A sind drei Stühle.,در تصویر A سه صندلی هستند.,A1_Lektion_6
+lang,Adjektiv,,,بلند / طولانی,Das Bett ist zu lang.,تخت خیلی بلند است.,A1_Lektion_4
+kurz,Adjektiv,,,کوتاه,Das Bett ist zu kurz.,تخت خیلی کوتاه است.,A1_Lektion_4
+billig,Adjektiv,,,ارزان,Das ist aber billig!,اما این ارزان است!,A1_Lektion_4
+teuer,Adjektiv,,,گران,Das ist aber sehr teuer!,اما این خیلی گران است!,A1_Lektion_4
+Augenarzt,Nomen,der,,چشم‌پزشک,"Gut, Frau Paulig. Und jetzt bitte hier weiter.",خوب، خانم پاولیگ. و حالا لطفاً اینجا ادامه دهید.,A1_Lektion_5
+"Sonderangebot, ""-e""",Compound Nomen,das,,پیشنهاد ویژه,Ein Sonderangebot.,یک پیشنهاد ویژه.,A1_Lektion_4
+wirklich,Adverb,,,واقعاً,Das ist wirklich sehr günstig.,این واقعاً خیلی مقرون‌به‌صرفه است.,A1_Lektion_4
+Uhr,Nomen,die,,ساعت,14 Uhr?,ساعت ۱۴؟,A1_Lektion_6
+wohnen,Verb,,,سکونت داشتن / زندگی کردن,Er wohnt in Bonn.,او در بن زندگی می‌کند.,A1_Lektion_2
+Eltern (pl.),Nomen,die,,والدین,Das sind meine Eltern.,این‌ها پدر و مادر من هستند.,A1_Lektion_3
+cool,Adjektiv,,,باحال/خفن,Ist sie nicht richtig cool?,آیا خیلی باحال نیست؟,A1_Lektion_2
+studieren,Verb,,,تحصیل کردن,Ich studiere Marketing Management.,من مدیریت بازاریابی می‌خوانم.,A1_Lektion_2
+kosten,Verb,,,قیمت داشتن,Wie viel kostet denn der Tisch?,قیمت این میز چقدر است؟,A1_Lektion_4
+Trödler,Nomen,der,,سمساری / فروشنده اجناس دست دوم,Beim Trödler.,نزد فروشنده اجناس دست دوم.,A1_Lektion_2
+"T-shirt, ""-s""",Nomen,das,,تی‌شرت,Das ist ein T-Shirt.,این یک تی‌شرت است.,A1_Lektion_2
+"Tasche, -n",Nomen,die,,کیف / ساک,Und die Tasche auch.,و کیف هم همین‌طور.,A1_Lektion_1
+"Buch, ""bücher""",Nomen,das,,کتاب,Das Buch ist rot.,کتاب قرمز است.,A1_Lektion_2
+suchen,Verb,,,جستجو کردن / گشتن,Suchen Sie die Wörter im Bildlexikon.,کلمات را در واژه‌نامه تصویری پیدا کنید.,A1_Lektion_7
+Problem,Nomen,das,,مشکل,Kein Problem.,هیچ مشکلی نیست.,A1_Lektion_8
+"Flohmarkt, ""-e""",Nomen,der,,"بازار دست‌دوم‌فروشی / فلومارکت<br><img src=""musikerflohmaerkte_flohmarkt_fuer_musiker_100.jpg"">",In Leipzig ist der Nachtflohmarkt schon Tradition.,در لایپزیگ بازار دست‌دوم شبانه از قبل یک سنت است.,A1_Lektion_2
+stöbern,Verb,,,"مرورکردن<br>browse<br><img src=""temp_file_-e38f41f7f68ea1e5246895ffad50e95b9d36058d.jpg"">",Sie stöbern gern?,آیا دوست دارید در میان اجناس بگردید؟,A1_Lektion_2
+handeln,Verb,,,چانه زدن,Sie handeln gern?,آیا دوست دارید چانه بزنید؟,A1_Lektion_2
+"Tradition, -en",Nomen,die,,سنت,In Leipzig ist der Nachtflohmarkt schon Tradition.,در لایپزیگ بازار شبانه دست‌دوم یک سنت است.,A1_Lektion_2
+"Aufbau, -ten",Nomen,der,,آماده‌سازی,Der Aufbau ist ab 13 Uhr.,آماده‌سازی غرفه‌ها از ساعت ۱۳ است.,A1_Lektion_2
+"Standpreis, -e",قیمت غرفه: ۷ یورو برای هر متر.,der,,هزینه غرفه,Standpreise: 7,- Euro pro Meter.,A1_Lektion_Nomen
+mitbringen,Verb,,,همراه آوردن,Tische bitte selbst mitbringen!,لطفاً میزها را خودتان همراه بیاورید!,A1_Lektion_2
+"Eintritt, -e",Nomen,der,,هزینه‌ی ورودی,Eintritt: 2 Euro.,ورودی: ۲ یورو.,A1
+"Schlüssel, ""-""",Nomen,der,,کلید,Wo ist der Schlüssel?,کلید کجاست؟,A1_Lektion_2
+"Stift, -e",Nomen,der,,قلم (خودکار / مداد),Er braucht Stifte.,او به خودکار نیاز دارد.,A1_Lektion_6
+kaufen,Verb,,,خریدن,Vielleicht kaufe ich noch was ein.,شاید هنوز چیزی بخرم.,A1_Lektion_1
+finden,Verb,,,پیدا کردن,Hilfe finden Sie im Bildlexikon oder im Wörterbuch.,کمک را در فرهنگ تصویری یا در فرهنگ لغت پیدا می‌کنید.,A1_Lektion_9
+schnell,Adverb,,,سریع,Wir lernen sehr schnell.,ما خیلی سریع یاد می‌گیریم.,A1_Lektion_2
+"See, -n",Nomen,der,,دریاچه,Wir arbeiten am See.,ما کنار دریاچه کار می‌کنیم.,A1_Lektion_6
+"Arbeitsplatz, -e",Nomen,der,,محل کار,Der Arbeitsplatz ist sehr schön.,محل کار بسیار زیبا است.,A1_Lektion_6
+Büro,Nomen,das,,دفتر / اداره,Ich brauche kein Büro.,من به دفتر نیاز ندارم.,A1_Lektion_6
+"Computer, -",Nomen,der,,کامپیوتر,Der Computer ist neu.,کامپیوتر جدید است.,A1_Lektion_6
+Grammatik,Nomen,die,,دستور زبان,Grammatik.,دستور زبان.,A1_Lektion_7
+Singular,Nomen,der,,مفرد,Das Wort ist im Singular.,این کلمه مفرد است.,A1_Lektion_4
+"Plural, -e",Nomen,der,,جمع,Bilden Sie den Plural.,جمع کلمه را بسازید.,A1_Lektion_6
+"Akkusativ, -e",Nomen,der,,حالت مفعولی,Das ist Akkusativ.,این حالت مفعولی است.,A1_Lektion_6
+möchten,Modal Verb,,,خواستن / مایل بودن,Möchtest du noch ein Glas Wein?,آیا هنوز یک لیوان شراب می‌خواهی؟,A1_Lektion_3
+Chef,Nomen,der,,رئیس,Hallo Chef? Hier ist Christian Schmidt.,سلام رئیس؟ کریستیان اشمیت هستم.,A1_Lektion_6
+Zeit,Nomen,die,,وقت / زمان,Ich habe Zeit!,من وقت دارم!,A1_Lektion_8
+"Telefon, -e",Nomen,das,,تلفن,Ich telefoniere viel.,من زیاد تلفن می‌کنم.,A1_Lektion_6
+Wörter,Nomen,die,,کلمات,Wie heißt das auf Deutsch?,این به آلمانی چه می‌شود؟,A1_Lektion_2
+"Wiederholung, -en",Nomen,die,,درخواست تکرار,Wie bitte? Das ist eine Wiederholung.,ببخشید؟ این یک درخواست تکرار است.,A1_Lektion_1
+bitten,Verb,,,پرسیدن / ask,Um etwas bitten.,درخواست کردن برای چیزی.,A1_Lektion_7
+beschreiben,Verb,,,توصیف کردن,"Beschreiben Sie Ihr Produkt, die anderen bieten.",محصول خود را توصیف کنید، دیگران قیمت پیشنهاد می‌دهند.,A1_Lektion_5
+bedanken,Verb,,,تشکر کردن,"Sich bedanken: Oh, danke!",تشکر کردن: اوه، ممنون!,A1_Lektion_7
+bitte,Interjektion,,,بفرمایید / لطفاً,Bitte sehr.,بفرمایید.,A1_Lektion_9
+Farben,Nomen,die,,رنگ‌ها,Wortfelder Farben.,حوزه واژگانی رنگ‌ها.,A1_Lektion_2
+Dinge,Nomen,die,,چیزها,Dinge beschreiben.,توصیف اشیاء.,A1_Lektion_2
+Materialien,Nomen,die,,مواد,Materialien nennen.,نام بردن مواد.,A1_Lektion_2
+Formen,Nomen,die,,شکل‌ها,Formen beschreiben.,توصیف شکل‌ها.,A1_Lektion_2
+Indefinitartikel,Nomen,der,,حرف تعریف نامعین,Grammatik Indefinitartikel.,گرامر حرف تعریف نامعین.,A1_Lektion_2
+Negativartikel,Nomen,der,,حرف نفی,Grammatik Negativartikel.,گرامر حرف نفی.,A1_Lektion_2
+stimmen,Verb,,,درست بودن<br>correct,Stimmt das?,آیا این درست است؟,A1_Lektion_2
+schwierig,Adjektiv,,,سخت / دشوار,Oh! ... Das ist jetzt schwierig ...,اوه! ... این الان دشوار است ...,A1_Lektion_5
+weiter,Adverb,,,ادامه,Hören Sie das Gespräch weiter.,به ادامه گفتگو گوش دهید.,A1_Lektion_1
+verkaufen,Verb,,,فروختن,Wir verkaufen diese Brille.,ما این عینک را می‌فروشیم.,A1_Lektion_2
+elegant,Adjektiv,,,شیک,Das Modell ist elegant.,مدل شیک است.,A1_Lektion_2
+"Angebot, ""-e""",Nomen,das,,پیشنهاد,Das ist ein Sonderangebot.,این یک پیشنهاد ویژه است.,A1_Lektion_2
+Lager,Nomen,das,,انبار,Wir haben das auf Lager.,ما این را در انبار داریم.,A1_Lektion_2
+"Fotoapparat, ""-e""",Nomen,der,,دوربین,Das ist mein Fotoapparat.,این دوربین من است.,A1_Lektion_2
+verstanden,Verb,,,"متوجه شدن<br><img src=""360_F_17835398_KPvgA9kxJRX3FUAVFqxaR9XBcBCRSHod.jpg"">",Haben Sie mich verstanden?,آیا متوجه من شدید؟,A1_Lektion_2
+Geld,Nomen,das,,پول,"Was? Naja, das ist Geld.",چی؟ خب، این پول است.,A1_Lektion_5
+genau,Adverb,,,دقیقاً / درست است,"Ja, genau!",بله، دقیقاً!,A1_Lektion_1
+bestellen,Verb,,,"سفارش دادن<br><img src=""v4-460px-Order-Italian-Food-Step-7.jpg"">",Ich möchte das bestellen.,من می‌خواهم این را سفارش دهم.,A1_Lektion_2
+"Bestellnummer, ""-n""",Nomen,die,,شماره سفارش,Wie ist die Bestellnummer?,شماره سفارش چیست؟,A1_Lektion_2
+"Produktname, ""-n""",Nomen,der,,نام محصول,Wie ist der Produktname?,نام محصول چیست؟,A1_Lektion_2
+"Menge, ""-n""",Nomen,die,,مقدار / تعداد,Die Menge ist zwei.,مقدار دو تا است.,A1_Lektion_2
+"Preis, ""-e""",Nomen,der,,قیمت,Wie hoch ist der Preis?,قیمت چقدر است؟,A1_Lektion_4
+"Adresse, ""-n""",Nomen,die,,آدرس,Wie ist Ihre Adresse?,آدرس شما چیست؟,A1_Lektion_2
+"Anrede, ""-n""",Nomen,die,,عنوان (جناب/سرکار),Wie ist die Anrede?,عنوان شما چیست؟,A1_Lektion_2
+"Geburtsdatum, ""-daten""",Nomen,das,,تاریخ تولد,Wie ist Ihr Geburtsdatum?,تاریخ تولد شما چیست؟,A1_Lektion_2
+"Straße, ""-n""",Nomen,die,,خیابان,Wie ist die Straße?,خیابان چیست؟,A1_Lektion_2
+"Hausnummer, ""-n""",Nomen,die,,شماره پلاک,Wie ist die Hausnummer?,شماره پلاک چیست؟,A1_Lektion_2
+Plz<br>,Nomen,die,,کد پستی,Wie ist die PLZ?,کد پستی چیست؟,A1_Lektion_1
+"Beratungsgespräch, ""-e""",Compound Nomen,das,,جلسات مشاوره,Wir führen Beratungsgespräche.,ما جلسات مشاوره انجام می‌دهیم.,A1_Lektion_4
+wie viel,Phrase,,,چقدر / چند,Wie viel kostet der Tisch?,میز چقدر قیمت دارد؟,A1_Lektion_4
+naja,Interjektion,,,خب,"Naja, es geht.","Well, it's OK.",A1_Lektion_4
+wie geht's,Phrase,,,حالت چطور است؟,Wie geht's?,حالت چطور است؟,A1_Lektion_1
+"Sessel, ""-""",Nomen,der,,صندلی راحتی / مبل تک‌نفره,Der Sessel ist bequem.,صندلی راحتی راحت است.,A1_Lektion_4
+"Designer, ""-""",Nomen,der,,طراح,Der Designer heißt Enzo Carotti.,طراح اسمش انزو کاروتی است.,A1_Lektion_4
+günstig,Adjektiv,,,مناسب / مقرون‌به‌صرفه,Das ist sehr günstig.,این خیلی مقرون‌به‌صرفه است.,A1_Lektion_4
+"Couch, ""-en / -es""",Nomen,die,,"کاناپه<br><img src=""17830749779523805173422358013403.jpeg"">",Die Couch ist modern.,مبل مدرن است.,A1_Lektion_4
+Tausend,Nomen,,,هزار,Das kostet tausend Euro.,آن هزار یورو قیمت دارد.,A1_Lektion_4
+"Million, ""-en""",Nomen,die,,میلیون,Eine Million ist eine große Zahl.,یک میلیون عدد بزرگی است.,A1_Lektion_4
+"Euro, ""-s""",Nomen,der,,یورو,Das Bett kostet 99 Euro.,تخت ۹۹ یورو قیمت دارد.,A1_Lektion_4
+"Cent, ""-s""",Nomen,der,,سنت,Das sind 50 Cent.,این ۵۰ سنت است.,A1_Lektion_4
+okay,Interjektion,,,اوکی/باشه,Okay. Dann bis später.,باشه. پس تا بعد.,A1_Lektion_8
+bewerten,Verb,,,"ارزیابی کردن<br><img src=""7381710-kunden-feedback-geben-bewertung-basierend-auf-erfahrung-oder-qualitat-aus-produkt-und-service-umfr...d-bewe.jpg"">",Gespräche üben: etwas bewerten.,تمرین گفتگوها: ارزیابی کردن چیزی.,A1_Lektion_4
+zu,Adverb,,,خیلی / بیش از حد,Der Tisch ist zu groß.,میز خیلی بزرگ است.,A1_Lektion_4
+vielen dank,Phrase,,,خیلی ممنون,"Ah, vielen Dank.",آه، خیلی ممنون.,A1_Lektion_4
+Nominativ,Nomen,der,,"حالت فاعلی <br><img src=""17830742223043359165536489049685.jpeg"">",Der Tisch steht im Nominativ.,کلمه Tisch در حالت فاعلی است.,A1_Lektion_4
+maskulin,Adjektiv,,,مذکر,Der Tisch ist maskulin.,کلمه میز مذکر است.,A1_Lektion_4
+neutral,Adjektiv,,,خنثی,Das Bett ist neutral.,کلمه تخت خنثی است.,A1_Lektion_4
+feminin,Adjektiv,,,مونث,Die Lampe ist feminin.,کلمه لامپ مونث است.,A1_Lektion_4
+"Personalpronomen, ""-e""",Nomen,das,,ضمیر شخصی,Er ist ein Personalpronomen.,واژه Er یک ضمیر شخصی است.,A1_Lektion_4
+Physik,Nomen,,,فیزیک,Ich studiere Physik in Stuttgart.,من در اشتوتگارت فیزیک می‌خوانم.,A1_Lektion_2
+"Familie, -n",Nomen,die,,خانواده,Das ist meine Familie.,این خانواده‌ی من است.,A1_Lektion_1
+Sprachkenntnisse,Nomen,die,,دانش زبانی,Über Sprachkenntnisse sprechen.,درباره دانش زبانی صحبت کنید.,A1_Lektion_3
+"Tochter, ""-ü-""",Nomen,die,,دختر (فرزند),Heidi Klum ist die Tochter von Erna und Günther Klum.,هایدی کلوم دخترِ ارنا و گونتر کلوم است.,A1_Lektion_1
+ja,Partikel,,,بله,Ja! Und wo wohnst du?,بله! و کجا زندگی می‌کنی؟,A1_Lektion_2
+doch,Adverb,,,چرا (پاسخ مثبت به سوال منفی),Doch. Sie ist 74.,چرا. او ۷۴ ساله است.,A1_Lektion_3
+Großeltern,Nomen,die,,پدربزرگ و مادربزرگ,Das sind meine Großeltern.,این‌ها پدربزرگ و مادربزرگ من هستند.,A1_Lektion_3
+Enkelin,Nomen,die,,نوه (مونث),Sie ist meine Enkelin.,او نوه من است.,A1_Lektion_3
+Ehemann,Nomen,der,,شوهر,Er ist mein Ehemann.,او شوهر من است.,A1_Lektion_3
+Ehefrau,Nomen,die,,همسر (زن),Sie ist meine Ehefrau.,او همسر من است.,A1_Lektion_3
+Familienmitglieder,Nomen,die,,اعضای خانواده,Wer sind die Familienmitglieder?,اعضای خانواده چه کسانی هستند؟,A1_Lektion_3
+Zettel,Nomen,der,,کاغذ یادداشت,Schreiben Sie Namen auf einen Zettel.,نام‌ها را روی یک کاغذ بنویسید.,A1_Lektion_3
+Spanisch,Nomen,,,اسپانیایی,"Er spricht vier Fremdsprachen perfekt: Englisch, Französisch, Spanisch und Italienisch.",او چهار زبان خارجی را به‌طور کامل صحبت می‌کند: انگلیسی، فرانسوی، اسپانیایی و ایتالیایی.,A1_Lektion_1
+sehr gut,Phrase,,,خیلی خوب,Sehr gut.,خیلی خوب.,A1_Lektion_7
+ein bisschen,Phrase,,,یه کمی,Ein bisschen.,کمی.,A1_Lektion_7
+"Ausklang, ""-ä-e""",Nomen,der,,پایان,Ausklang: Modul 1.,بخش پایانی: پودمان ۱.,A1_Lektion_1
+"Lied, ""-er""",Nomen,das,,آهنگ / ترانه,Wie heißt das Lied?,نام این آهنگ چیست؟,A1_Lektion_1
+"Stadt, ""-e""",Nomen,die,,شهر,In welcher deutschen Stadt wohnen Sie?,شما در کدام شهر آلمانی زندگی می‌کنید؟,A1_Lektion_2
+"Karte, -n",Nomen,die,,نقشه,Suchen Sie die Städte auf der Karte.,شهرها را روی نقشه پیدا کنید.,A1_Lektion_1
+erinnern,Verb (reflexiv),,,به یاد آوردن<br>remember,Erinnern Sie sich an die Menschen?,آیا افراد را به خاطر می‌آورید؟,A1_Lektion_1
+"Mensch, ""-en""",Nomen,der,,شخص / فرد,Menschen lernen Deutsch.,افراد آلمانی یاد می‌گیرند.,A1_Lektion_1
+"Schauspielerin, -nen",Nomen,die,,بازیگر (زن),Sie arbeitet als Schauspielerin.,او به عنوان بازیگر کار می‌کند.,A1_Lektion_1
+"Nachname, -n",Nomen,der,,نام خانوادگی,"A, Nachname: Buchstabe 1.",A، نام خانوادگی: حرف اول.,A1_Lektion_1
+"Lösung, -en",Nomen,die,,راه‌حل,Wie heißt die Stadt? Lösung: ...,اسم شهر چیست؟ پاسخ: ...,A1_Lektion_1
+"Ländername, -n",Nomen,der,,نام کشور,Ergänzen Sie die Ländernamen.,نام کشورها را کامل کنید.,A1_Lektion_1
+Luxemburg,Nomen,,,لوکزامبورگ,Luxemburg ist ein Nachbarland.,لوکزامبورگ یک کشور همسایه است.,A1_Lektion_1
+Niederlande (pl.),Nomen,die,,هلند,Die Niederlande liegen im Westen.,هلند در غرب قرار دارد.,A1_Lektion_1
+Polen,Nomen,,,لهستان,Polen liegt im Osten.,لهستان در شرق قرار دارد.,A1_Lektion_1
+Slowakei,Nomen,die,,اسلواکی,Bratislava ist in der Slowakei.,براتیسلاوا در اسلواکی است.,A1_Lektion_1
+Slowenien,Nomen,,,اسلوونی,Slowenien ist ein Nachbarland.,اسلوونی یک کشور همسایه است.,A1_Lektion_1
+Deutschland,Nomen,,,آلمان,Sie kommt aus Deutschland.,او از آلمان می‌آید.,A1_Lektion_1
+"Manager, ""-s""",Nomen,der,,مدیر,Jetzt arbeitet er aber als Manager von Heidi Klum.,اما اکنون او به عنوان مدیر هایدی کلوم کار می‌کند.,A1_Lektion_1
+von,Präposition,,,مالِ,Er ist Manager von Heidi Klum.,او مدیرِ هایدی کلوم است.,A1_Lektion_1
+mehr,Adverb,,,بیشتر,"Erna Klum ist von Beruf Friseurin, aber sie arbeitet nicht mehr.",ارنا کلوم شغلش آرایشگر است، اما او دیگر کار نمی‌کند.,A1_Lektion_1
+"Model, ""-s""",Nomen,das,,مدل,Heidi Klum ist Model und Moderatorin.,هایدی کلوم مدل و مجری است.,A1_Lektion_1
+moderieren,Verb,,,اجرا کردن (برنامه),In Deutschland moderiert sie die Show Germany's Next Topmodel.,او در آلمان برنامه «مدل برتر بعدی آلمان» را اجرا می‌کند.,A1_Lektion_1
+"Show, ""-s""",Nomen,die,,نمایش / شو,In Deutschland moderiert sie die Show.,او در آلمان این شو را اجرا می‌کند.,A1_Lektion_1
+seit,Präposition,,,از (زمان),Seit 2005 ist Heidi Klum mit Seal verheiratet.,هایدی کلوم از سال ۲۰۰۵ با سیل ازدواج کرده است.,A1_Lektion_1
+mit,Präposition,,,با,Mit Lerner-DVD-ROM.,با دی‌وی‌دی آموزشی.,A1_Lektion_1
+London,Nomen,,,لندن,Seal kommt aus London.,سیل از لندن می‌آید.,A1_Lektion_1
+"Stammbaum, ""-ü-e""",Compound Nomen,der,,شجره‌نامه,Lesen Sie den Text und ergänzen Sie den Stammbaum.,متن را بخوانید و شجره‌نامه را کامل کنید.,A1_Lektion_1
+prominent,Adjektiv,,,برجسته,Prominente aus den deutschsprachigen Ländern.,افراد مشهور از کشورهای آلمانی‌زبان.,A1_Lektion_1
+"Land, ""-änder""",Nomen,das,,کشور,Wortfelder: Länder.,حوزه‌های واژگان: کشورها.,A1_Lektion_1
+deutschsprachig,Adjektiv,,,آلمانی‌زبان,Prominente aus den deutschsprachigen Ländern.,افراد مشهور از کشورهای آلمانی‌زبان.,A1_Lektion_1
+wählen,Verb,,,"انتخاب کردن<br><img src=""17830731516546525110641173043.jpeg"">",Wählen Sie ...,انتخاب کنید ...,A1_Lektion_9
+bekannt,Adjektiv,,,معروف / شناخته شده,Bekannte Persönlichkeiten.,شخصیت‌های معروف.,A1_Lektion_1
+"Person, ""-en""",Nomen,die,,فرد / شخص,Wählen Sie eine bekannte Person.,یک فرد مشهور را انتخاب کنید.,A1_Lektion_1
+"Information, ""-en""",Nomen,die,,اطلاعات,Suchen Sie Informationen im Internet.,در اینترنت به دنبال اطلاعات بگردید.,A1_Lektion_1
+Internet,Nomen,das,,اینترنت,Suchen Sie Informationen im Internet.,در اینترنت به دنبال اطلاعات بگردید.,A1_Lektion_1
+"Poster, ""-""",Nomen,das,,پوستر,Machen Sie ein Poster.,یک پوستر درست کنید.,A1_Lektion_1
+präsentieren,Verb,,,ارائه دادن,Präsentieren Sie Ihre Ergebnisse im Kurs.,نتایج خود را در کلاس ارائه دهید.,A1_Lektion_1
+"Ergebnis, ""-se""",Nomen,das,,نتیجه,Präsentieren Sie Ihre Ergebnisse.,نتایج خود را ارائه دهید.,A1_Lektion_1
+"Kurs , -e",Nomen,der,,کلاس / دوره آموزشی,Fragen Sie jetzt die anderen Paare im Kurs.,حالا از زوج‌های دیگر در کلاس بپرسید.,A1_Lektion_1
+auf wiederschauen,Phrase,,,به امید دیدار,Auf Wiederschauen!,خدانگهدار!,A1_Lektion_1
+moin moin,Phrase,,,سلام (شمال آلمان),Moin moin!,سلام!,A1_Lektion_1
+grüezi,Interjektion,,,سلام (سوئیسی),Grüezi!,سلام!,A1_Lektion_1
+uf wiederluege mitenand,Phrase,,,خداحافظ (سوئیسی),Uf Wiederluege mitenand!,خداحافظ!,A1_Lektion_1
+"Ingenieurin, -nen",Nomen,die,,مهندس زن,Beruf: Ingenieurin.,شغل: مهندس زن.,A1_Lektion_1
+"Amerikanerin, -nen",Nomen,die,,زن آمریکایی,Sie ist Amerikanerin.,او آمریکایی است.,A1_Lektion_1
+"Jahr, ""-e""",Nomen,das,,سال,Ich bin 34 Jahre alt.,من ۳۴ ساله هستم.,A1_Lektion_2
+Hobby,Nomen,das,,سرگرمی / علاقهٔ شخصی,Mein Hobby ist Fußball.,سرگرمی من فوتبال است.,A1_Lektion_8
+"Waage, ""-n""",Nomen,die,,میزان / ترازو,Mein Sternzeichen ist Waage.,برج من میزان است.,A1_Lektion_1
+Usa,Nomen,,,ایالات متحده آمریکا,"Er lebt in den USA, in Kalifornien.",او در آمریکا، در کالیفرنیا زندگی می‌کند.,A1_Lektion_1
+Kalifornien,Nomen,,,کالیفرنیا,"Er lebt in den USA, in Kalifornien.",او در آمریکا، در کالیفرنیا زندگی می‌کند.,A1_Lektion_1
+bei,Präposition,,,نزد / در (برای محل کار),Ich arbeite bei X-Media.,من در شرکت ایکس‌مدیا کار می‌کنم.,A1_Lektion_2
+"Baby, ""-s""",Nomen,das,,نوزاد,Das Baby ist meine Nichte Eliza.,این نوزاد، خواهرزاده‌ام الیزاست.,A1_Lektion_1
+zurzeit,Adverb,,,در حال حاضر,Zurzeit lebe und studiere ich aber in München.,در حال حاضر اما در مونیخ زندگی و تحصیل می‌کنم.,A1_Lektion_1
+Musik,Nomen,die,,موسیقی,Ich höre gern Musik.,من با علاقه موسیقی گوش می‌دهم.,A1_Lektion_8
+"Widder, ""-""",Nomen,der,,برج حَمَل / قوچ,Mein Sternzeichen ist Widder.,برج من حمل است.,A1_Lektion_1
+Spanien,Nomen,,,اسپانیا,Sie kommt aus Spanien.,او از اسپانیا می‌آید.,A1_Lektion_1
+Vier,Nomen,,,چهار,vier,چهار,A1_Lektion_2
+"Fremdsprache, ""-n""",Nomen,die,,زبان خارجی,Deutsch als Fremdsprache.,آلمانی به عنوان زبان خارجی.,A1_Lektion_1
+Französisch,Nomen,,,فرانسوی,"Er spricht vier Fremdsprachen perfekt: Englisch, Französisch, Spanisch und Italienisch.",او چهار زبان خارجی را به‌طور کامل صحبت می‌کند: انگلیسی، فرانسوی، اسپانیایی و ایتالیایی.,A1_Lektion_1
+Italienisch,Nomen,,,ایتالیایی,"Er spricht vier Fremdsprachen perfekt: Englisch, Französisch, Spanisch und Italienisch.",او چهار زبان خارجی را به‌طور کامل صحبت می‌کند: انگلیسی، فرانسوی، اسپانیایی و ایتالیایی.,A1_Lektion_1
+business management,Phrase,,,مدیریت بازرگانی,Florian studiert Business Management in Barcelona.,فلوریان در بارسلونا مدیریت بازرگانی می‌خواند.,A1_Lektion_1
+Barcelona,Nomen,,,بارسلونا,Florian studiert Business Management in Barcelona.,فلوریان در بارسلونا مدیریت بازرگانی می‌خواند.,A1_Lektion_1
+gehen,Verb,,,رفتن,Gehen wir ins Kino?,آیا به سینما برویم؟,A1_Lektion_8
+zurück,Adverb,,,بازگشت,Er ist bald fertig und geht dann zurück nach Österreich.,او به‌زودی تمام می‌کند و بعد به اتریش برمی‌گردد.,A1_Lektion_1
+meinen,Verb,,,نظر داشتن,Was meinen Sie?,نظر شما چیست؟,A1_Lektion_2
+ansehen,Separable Verb,,,تماشا کردن / نگاه کردن,Sehen Sie die Fotos an.,به عکس‌ها نگاه کنید.,A1_Lektion_2
+"Visitenkarte, ""-n""",Nomen,die,,کارت ویزیت,Sehen Sie die Visitenkarten an.,به کارت‌های ویزیت نگاه کنید.,A1_Lektion_2
+ich lebe getrennt,Phrase,,,جدا زندگی می‌کنم,Ich lebe getrennt.,من جدا زندگی می‌کنم.,A1_Lektion_2
+persönliches,Adjektiv,,,موارد شخصی,Sprechen Sie über Persönliches.,درباره مسائل شخصی صحبت کنید.,A1_Lektion_2
+ordnen,Verb,,,مرتب کردن,Ordnen Sie die Wörter.,کلمات را مرتب کنید.,A1_Lektion_7
+fragen,Verb,,,پرسیدن,Wie bitte?,ببخشید؟,A1_Lektion_3
+antworten,Verb,,,پاسخ دادن,Sehen Sie im Wörterbuch nach und antworten Sie.,در فرهنگ لغت نگاه کنید و پاسخ دهید.,A1_Lektion_5
+"Gespräch, ""-e""",Nomen,das,,گفتگو / مکالمه,Hören Sie das Gespräch.,به گفتگو گوش دهید.,A1_Lektion_1
+zwei,Zahlwort,,,دو,Sie haben zwei Kinder.,آنها دو فرزند دارند.,A1_Lektion_2
+drei,Zahlwort,,,سه,Er hat drei Kinder.,او سه فرزند دارد.,A1_Lektion_2
+Fünf,Nomen,,,پنج,fünf,پنج,A1_Lektion_2
+Sechs,Nomen,,,شش,sechs,شش,A1_Lektion_2
+Sieben,Nomen,,,هفت,sieben,هفت,A1_Lektion_2
+Acht,Nomen,,,هشت,Acht.,هشت.,A1_Lektion_1
+Neun,Nomen,,,نه,Neun.,نه.,A1_Lektion_1
+Zehn,Nomen,,,ده,Zehn.,ده.,A1_Lektion_1
+Elf,Nomen,,,یازده,Seite elf.,صفحه یازده.,A1_Lektion_1
+Zwölf,Nomen,,,دوازده,Zwölf.,دوازده.,A1_Lektion_1
+Dreizehn,Nomen,,,سیزده,dreizehn,سیزده,A1_Lektion_2
+Vierzehn,Nomen,,,چهارده,vierzehn,چهارده,A1_Lektion_2
+Fünfzehn,Nomen,,,پانزده,fünfzehn,پانزده,A1_Lektion_2
+Sechzehn,Nomen,,,شانزده,sechzehn,شانزده,A1_Lektion_2
+Siebzehn,Nomen,,,هفده,siebzehn,هفده,A1_Lektion_2
+Achtzehn,Nomen,,,هجده,achtzehn,هجده,A1_Lektion_2
+Neunzehn,Nomen,,,نوزده,neunzehn,نوزده,A1_Lektion_2
+Dreißig,Nomen,,,سی,dreißig,سی,A1_Lektion_2
+Vierzig,Nomen,,,چهل,vierzig,چهل,A1_Lektion_2
+Fünfzig,Nomen,,,پنجاه,fünfzig,پنجاه,A1_Lektion_2
+Sechzig,Nomen,,,شصت,sechzig,شصت,A1_Lektion_2
+Siebzig,Nomen,,,هفتاد,siebzig,هفتاد,A1_Lektion_2
+Achtzig,Nomen,,,هشتاد,achtzig,هشتاد,A1_Lektion_2
+Neunzig,Nomen,,,نود,neunzig,نود,A1_Lektion_2
+markieren,Verb,,,علامت زدن/ های لایت کردن<br>,Markieren Sie die Verben.,فعل‌ها را علامت بزنید.,A1_Lektion_2
+über sich selbst,Phrase,,,درباره خود,Schreiben Sie einen Text über sich selbst.,یک متن درباره خودتان بنویسید.,A1_Lektion_2
+als,Präposition,,,به عنوانِ,Ich arbeite als Journalistin.,من به عنوان روزنامه‌نگار کار می‌کنم.,A1_Lektion_2
+in,Präposition,,,در (مکان),Ich lebe in Köln.,من در کلن زندگی می‌کنم.,A1_Lektion_2
+"Job, ""-s""",Nomen,der,,شغل / کار,Ich habe einen Job als Kellnerin.,من شغلی به عنوان گارسون دارم.,A1_Lektion_2
+"Schülerin, ""-nen""",Nomen,die,,"دانش‌آموز (دختر)<br><img src=""schoolgirl-before-school-schlerin-vor-schulgebude-HXPHYX.jpg"">",Ich bin Schülerin.,من دانش‌آموز هستم.,A1_Lektion_2
+Kopenhagen,Nomen,,,کپنهاگ,Ich wohne in Kopenhagen.,من در کپنهاگ زندگی می‌کنم.,A1_Lektion_2
+sagen,Verb,,,گفتن,Kannst du das noch einmal sagen?,می‌توانی آن را یک بار دیگر بگویی؟,A1_Lektion_7
+Stunde,Nomen,die,,"ساعت (واحد زمان)<br>hour<br><img src=""360_F_40953956_HBGrCD5fMtbQwqlTpglAoOpwD70R5IzD.jpg"">",Verabreden Sie sich für eine Stunde.,برای یک ساعت قرار بگذارید.,A1_Lektion_8
+erst,Adjektiv,,,اولین<br>First,Die erste Stunde im Kurs: Hallo!,اولین ساعت در کلاس: سلام!,A1_Lektion_1
+Deutsch,Nomen,,,آلمانی / زبان آلمانی,Wie heißt das auf Deutsch.,این به آلمانی چه نام دارد؟,A1_Lektion_5
+"Kursbuch, ""-bücher""",Nomen,das,,کتاب درسی,Das ist ein Kursbuch.,این یک کتاب درسی است.,A1_Lektion_1
+lernen,Verb,,,یاد گرفتن,Lerne die Farben auf Deutsch.,رنگ‌ها را به آلمانی یاد بگیر.,A1_Lektion_1
+welche,Pronomen,,,کدام,Welche deutschen Namen kennen Sie noch?,دیگر چه نام‌های آلمانی را می‌شناسید؟,A1_Lektion_1
+noch,Adverb,,,هنوز / دیگر,Möchten Sie noch etwas?,آیا چیز دیگری میل دارید؟,A1_Lektion_9
+und,Konjunktion,,,و,Und wie heißt du?,و اسمت چیست؟,A1_Lektion_2
+Befinden,Nomen,,,حال و احوال / وضعیت,Nach dem Befinden fragen.,درباره حال و احوال پرسیدن.,A1_Lektion_1
+zeichnen,Verb,,,رسم کردن / کشیدن,Zeichnen Sie einen Sitzplan.,یک نقشه نشستن (در کلاس) بکشید.,A1_Lektion_1
+wissen,Verb,,,دانستن,Ich weiß nicht.,نمی‌دانم.,A1_Lektion_9
+meist,Adjektiv,,,بیشترین,Wer weiß die meisten Namen?,چه کسی بیشترین نام‌ها را می‌داند؟,A1_Lektion_1
+Mexiko,Nomen,,,مکزیک,Ich komme aus Mexiko.,من اهل مکزیک هستم.,A1_Lektion_1
+Iran,Nomen,der,,ایران,Aus dem Iran.,از ایران.,A1_Lektion_1
+Türkei,Nomen,die,,ترکیه,Aus der Türkei.,از ترکیه.,A1_Lektion_1
+Wien,Nomen,,,وین,Wien.,وین.,A1_Lektion_1
+ergänzen,Verb,,,کامل کردن / اضافه کردن,Suchen Sie die Artikel im Bildlexikon und ergänzen Sie.,حروف تعریف را در واژه‌نامه تصویری پیدا کنید و کامل کنید.,A1_Lektion_9
+vergleichen,Verb,,,مقایسه کردن,Vergleichen Sie mit a.,با قسمت a مقایسه کنید.,A1_Lektion_1
+ihnen,Pronomen,,,شما (محترمانه),Und wie geht's Ihnen?,و حال شما چطور است؟,A1_Lektion_1
+"Herr, ""-en""",Nomen,der,,آقا,Herr Rodriguez!,آقای رودریگز!,A1_Lektion_1
+gute Nacht,Phrase,die,,شب بخیر,Gute Nacht!,شب بخیر!,A1_Lektion_1
+bekannte,Adjektiv,,,مشهور / شناخته‌شده,Bekannte Persönlichkeiten.,شخصیت‌های مشهور.,A1_Lektion_1
+"Persönlichkeit, -en",Nomen,die,,شخصیت,Das sind bekannte Persönlichkeiten.,آن‌ها شخصیت‌های مشهوری هستند.,A1_Lektion_1
+sehr,Adverb,,,خیلی,Bitte sehr.,بفرمایید.,A1_Lektion_9
+so,Partikel,,,واقعاً؟,So?,واقعاً؟,A1_Lektion_2
+"Wendung, -en",Nomen,die,,عبارت / اصطلاح,Hören Sie die Wendungen.,به عبارت‌ها گوش دهید.,A1_Lektion_1
+"Aussage, -n",Nomen,die,,جمله خبری,Das ist eine Aussage.,این یک جمله خبری است.,A1_Lektion_1
+würfeln,Verb,,,تاس انداختن,Würfeln Sie und stellen Sie Ihre Speisekarte zusammen.,تاس بیندازید و منوی خود را کنار هم بچینید.,A1_Lektion_9
+rauchen,Verb,,,سیگار کشیدن,Ich rauche nicht.,من سیگار نمی‌کشم.,A1_Lektion_7
+klar,Adverb,,,البته,"Ja, klar.",بله، حتماً.,A1_Lektion_7
+leider,Adverb,,,متاسفانه,Ich habe leider keine Zeit.,من متاسفانه وقت ندارم.,A1_Lektion_8
+Karten,Nomen,die,,کارت‌ها / برگه‌ها,Legen Sie die Karten auf einen Stapel.,کارت‌ها را به صورت یک دسته قرار دهید.,A1_Lektion_3
+"Stapel, ""-""",Nomen,der,,"دسته (کاغذ/کارت)<br><img src=""stapel-med-tidningar_1263815-13331.jpg"">",Legen Sie die Karten auf einen Stapel.,کارت‌ها را به صورت یک دسته قرار دهید.,A1_Lektion_3
+ziehen,Verb,,,بیرون کشیدن (کارت),Ziehen Sie Karten.,کارت‌ها را بکشید.,A1_Lektion_7
+Fähigkeiten (pl.),Nomen,die,,توانایی‌ها,Fähigkeiten: Ich kann gut singen.,توانایی‌ها: من می‌توانم خوب آواز بخوانم.,A1_Lektion_7
+"Auto, ""-s""",Nomen,das,,ماشین,Kann ich das Auto haben?,می‌توانم ماشین را داشته باشم؟,A1_Lektion_7
+mal,Adverb,,,یک لحظه / اصلاً (برای لطیف کردن درخواست),Kann ich mal telefonieren?,می‌توانم (یک لحظه) تلفن کنم؟,A1_Lektion_7
+hier,Adverb,,,اینجا,Kann ich hier rauchen?,آیا می‌توانم اینجا سیگار بکشم؟,A1_Lektion_7
+"Sprechtraining, ""-s""",Nomen,das,,تمرین صحبت کردن,Sprechtraining.,تمرین صحبت کردن.,A1_Lektion_7
+musik hören,Verb,,,موسیقی گوش دادن,Ich höre Musik.,من موسیقی گوش می‌دهیم.,A1_Lektion_7
+spazieren gehen,Separable Verb,,,قدم زدن,"Tina, möchtest du spazieren gehen?",تینا، دوست داری قدم بزنیم؟,A1_Lektion_3
+rad fahren,Verb,,,دوچرخه سواری کردن,Ich fahre Rad.,من دوچرخه سواری می‌کنم.,A1_Lektion_7
+herzlichen dank,Phrase,,,صمیمانه ممنون / بسیار سپاسگزارم,Herzlichen Dank.,بسیار سپاسگزارم.,A1_Lektion_9
+ausflüge machen,Verb,,,"گردش کردن<br><img src=""17830762076305391702183642456059.jpeg"">",Ich mache Ausflüge.,من گردش می‌کنم.,A1_Lektion_7
+Natur,Nomen,die,,طبیعت,Ich liebe die Natur.,من طبیعت را دوست دارم.,A1_Lektion_8
+spaß machen,Phrase,,,لذت‌بخش بودن<br>have fun,Das macht Spaß!,این لذت‌بخش است!,A1_Lektion_7
+oft,Adverb,,,اغلب / زیاد,Wiederhole die Farben laut und oft!,رنگ‌ها را بلند و زیاد تکرار کن!,A1_Lektion_1
+gern,Adverb,,,با میل / با کمال میل,"Ja, sehr gern.",بله، با کمال میل.,A1_Lektion_9
+lieben,Verb,,,عاشق بودن,Ich liebe die Natur.,من عاشق طبیعت هستم.,A1_Lektion_7
+"Lieblingskomponist, ""-en""",Compound Nomen,der,,آهنگساز مورد علاقه,Mein Lieblingskomponist ist Johann Sebastian Bach.,آهنگساز مورد علاقه من یوهان سباستین باخ است.,A1_Lektion_7
+Freizeit,Nomen,die,,اوقات فراغت,In der Freizeit skatet Lilian.,در اوقات فراغت لیلیان اسکیت می‌کند.,A1_Lektion_3
+immer,Adverb,,,همیشه,Ich habe immer Milch im Kühlschrank.,من همیشه شیر در یخچال دارم.,A1_Lektion_9
+manchmal,Adverb,,,گاهی / بعضی وقت‌ها,(fast) immer | oft | manchmal | (fast) nie,(تقریباً) همیشه | اغلب | گاهی | (تقریباً) هیچ‌وقت,A1_Lektion_9
+nie,Adverb,,,هرگز,(fast) immer | oft | manchmal | (fast) nie,(تقریباً) همیشه | اغلب | گاهی | (تقریباً) هیچ‌وقت,A1_Lektion_9
+fast nie,Phrase,,,به ندرت / تقریبا هرگز,Ich schwimme fast nie.,من تقریباً هرگز شنا نمی‌کنم.,A1_Lektion_7
+Kino,Nomen,das,,سینما,Ins Kino?,به سینما؟,A1_Lektion_8
+"Theater, -",Nomen,das,,تئاتر,Ich gehe ins Theater.,من به تئاتر می‌روم.,A1_Lektion_8
+"Lieblingsfilm, ""-e""",Nomen,der,,فیلم مورد علاقه,Einmal im Jahr kommt mein absoluter Lieblingsfilm.,سالی یک بار فیلم کاملاً مورد علاقه من پخش می‌شود.,A1_Lektion_3
+treffen,Separable Verb,,,ملاقات کردن/دیدار کردن,Wann treffen Sie sich?,کی همدیگر را ملاقات می‌کنید؟,A1_Lektion_8
+vorgestellt,Verb,,,نمایش دادن<br>presented,Spielen Sie ein Hobby vor.,یک سرگرمی را نمایش دهید (اجرا کنید).,A1_Lektion_7
+"Diktat, ""-e""",Nomen,das,,دیکته / املا,Diktat.,دیکته.,A1_Lektion_7
+pause machen,Phrase,,,"استراحت کردن<br><img src=""17830763320451074137687152201914.jpeg"">",Pause machen.,استراحت کردن.,A1_Lektion_7
+natürlich,Adverb,,,البته / حتماً,"Ja, natürlich!",بله، البته!,A1_Lektion_1
+freunde treffen,Verb,,,دوستان را ملاقات کردن,Ich treffe Freunde.,من دوستانم را ملاقات می‌کنم.,A1_Lektion_7
+im internet surfen,Verb,,,در اینترنت گشتن,Ich surfe im Internet.,من در اینترنت می‌گردم.,A1_Lektion_7
+schwimmen,Verb,,,شنا کردن,Wie oft schwimmst du?,چند وقت یک بار شنا می‌کنی؟,A1_Lektion_7
+fotografieren,Verb,,,عکاسی کردن,Ich fotografiere die Natur.,من از طبیعت عکاسی می‌کنم.,A1_Lektion_7
+ski fahren,Phrase,,,اسکی کردن,Ski fahren.,اسکی کردن.,A1_Lektion_7
+tennis spielen,Verb,,,تنیس بازی کردن,Ich spiele Tennis.,من تنیس بازی می‌کنم.,A1_Lektion_7
+backen,Verb,,,"پختن<br>bake<br><img src=""backen-default.jpg"">",Backen.,پختن.,A1_Lektion_7
+Schach,Nomen,das,,شطرنج,Ich kann ein bisschen Schach spielen.,من می‌توانم کمی شطرنج بازی کنم.,A1_Lektion_7
+gar nicht,Phrase,,,اصلاً,Gar nicht.,اصلاً.,A1_Lektion_7
+super,Adverb,,,عالی,"Ja, Felix und Katja können super kochen.",بله، فلیکس و کاتیا می‌توانند خیلی خوب آشپزی کنند.,A1_Lektion_7
+nicht so gut,Phrase,,,نه‌چندان خوب,Nicht so gut.,نه‌چندان خوب.,A1_Lektion_7
+verwenden,Verb,,,استفاده کردن<br>use,Verwenden Sie die passende Form von können.,از شکل مناسب فعل توانستن استفاده کنید.,A1_Lektion_7
+"Tabelle, ""-n""",Nomen,die,,جدول,Schreiben Sie die Sätze in die Tabelle.,جملات را در جدول بنویسید.,A1_Lektion_7
+noch einmal,Phrase,,,یک بار دیگر، لطفاً,"Noch einmal, bitte.",یک بار دیگر، لطفاً.,A1_Lektion_5
+malen,Verb,,,نقاشی کردن,Heute Nachmittag male ich.,امروز بعد از ظهر نقاشی می‌کنم.,A1_Lektion_8
+fußball spielen,Phrase,,,فوتبال بازی کردن,Fußball spielen.,فوتبال بازی کردن.,A1_Lektion_7
+"Seite, ""-n""",Nomen,die,,صفحه,Auflösung zu Seite 20.,پاسخ مربوط به صفحه ۲۰.,A1_Lektion_1
+können,Modal Verb,,,توانستن,Hilfe finden Sie im Bildlexikon oder im Wörterbuch.,کمک را در فرهنگ تصویری یا در فرهنگ لغت پیدا می‌کنید.,A1_Lektion_9
+toll,Adjektiv,,,فوق‌العاده,Toll.,عالی.,A1_Lektion_7
+"Foto, ""-s""",Nomen,das,,عکس,Sehen Sie das Foto an.,به عکس نگاه کنید.,A1_Lektion_7
+"Kompliment, ""-e""",Nomen,das,,تعریف / تمجید,Was für ein Kompliment macht der Mann?,مرد چه تعریفی (از زن) می‌کند؟,A1_Lektion_7
+passen,Verb,,,مناسب بودن,Was passt?,چی مناسب است؟,A1_Lektion_7
+ankreuzen,Separable Verb,,,"تیک زدن<br><img src=""COLOURBOX41789859.jpg"">",Hören Sie und kreuzen Sie an.,گوش دهید و علامت بزنید.,A1_Lektion_7
+Freizeitaktivitäten (pl.),Nomen,die,,فعالیت‌های اوقات فراغت,Hören: Aussagen zu Freizeitaktivitäten.,شنیدن: جملاتی درباره فعالیت‌های اوقات فراغت.,A1_Lektion_7
+Hobbys (pl.),Nomen,die,,سرگرمی‌ها,Mein Hobby ist tanzen.,سرگرمی من رقصیدن است.,A1_Lektion_7
+telefonieren,Verb,,,تلفن زدن,Ich telefoniere mit dir.,من با تو تلفن می‌زنم.,A1_Lektion_7
+"Gitarre, ""-n""",Nomen,die,,گیتار,Du kannst super Gitarre spielen.,تو می‌توانی عالی گیتار بزنی.,A1_Lektion_7
+spielen,Verb,,,بازی کردن / نواختن,Du kannst super Gitarre spielen.,تو می‌توانی عالی گیتار بزنی.,A1_Lektion_7
+grau,Adjektiv,,,خاکستری,grau,خاکستری,A1_Lektion_1
+verstehen,Verb,,,فهمیدن,Verstehen.,فهمیدن.,A1_Lektion_7
+Männer (pl.),Nomen,die,,مردها,Männer.,مردها.,A1_Lektion_7
+Frauen (pl.),Nomen,die,,زن‌ها,Frauen.,زن‌ها.,A1_Lektion_7
+"Kellner, ""-""",Nomen,der,,گارسون(مذکر),"Ja, und wir sind Kellner von Beruf, okay?",بله، و ما از نظر شغل پیشخدمت هستیم، باشد؟,A1_Lektion_2
+"Internet-Profil, ""-e""",Compound Nomen,das,,پروفایل اینترنتی,Ein Internet-Profil schreiben.,نوشتن یک پروفایل اینترنتی.,A1_Lektion_2
+"Schule, ""-n""",Nomen,die,,"مدرسه<br><img src=""Privatschule-oder-staatliche-Schule.jpg"">",Schule.,مدرسه.,A1_Lektion_2
+"Hochschule, ""-n""",Nomen,die,,کالج,Hochschule/Universität.,دانشگاه / مؤسسه آموزش عالی.,A1_Lektion_2
+Universität,Nomen,die,,دانشگاه,Er studiert an der Universität.,او در دانشگاه تحصیل می‌کند.,A1_Lektion_2
+"Stelle, ""-n""",Nomen,die,,جایگاه<br>Place,Stelle.,موقعیت شغلی.,A1_Lektion_2
+"Paar, ""-e""",Nomen,das,,زوج / دو نفر<br>couples,Fragen Sie jetzt die anderen Paare im Kurs.,حالا از زوج‌های دیگر در کلاس بپرسید.,A1_Lektion_2
+jemand,Pronomen,,,کسی,Hat jemand etwas mit Ihnen gemeinsam?,آیا کسی چیزی مشترک با شما دارد؟,A1_Lektion_2
+etwas,Pronomen,,,چیزی / مقداری,Möchten Sie noch etwas?,آیا چیز دیگری میل دارید؟,A1_Lektion_9
+"Persönlichkeit, ""-en""",Nomen,die,,شخصیت‌ها,Bekannte Persönlichkeiten.,شخصیت‌های معروف.,A1_Lektion_1
+Ägypten,Nomen,,,مصر,Ägypten.,مصر.,A1_Lektion_1
+Indien,Nomen,,,هند,Indien.,هند.,A1_Lektion_1
+Mazedonien,Nomen,,,"مقدونیه<br><img src=""temp_file_-5d1579741e7fd44cb58f70e4d637f839f588169e.jpg"">",Mazedonien.,مقدونیه.,A1_Lektion_1
+fehlend,Adjektiv,,,ناقص,Ergänzen Sie die fehlenden Informationen.,اطلاعات ناقص را کامل کنید.,A1_Lektion_1
+"Auflösung, ""-en""",Nomen,die,,راه حل,Auflösung zu Seite 20.,پاسخ مربوط به صفحه ۲۰.,A1_Lektion_1
+Fünfundsiebzig,Nomen,,,هفتاد و پنج,Fünfundsiebzig.,هفتاد و پنج.,A1_Lektion_1
+schach spielen,Phrase,,,شطرنج بازی کردن,Schach spielen.,شطرنج بازی کردن.,A1_Lektion_7
+gitarre spielen,Phrase,,,گیتار زدن,Gitarre spielen.,گیتار زدن.,A1_Lektion_7
+informell,Adjektiv,,,غیررسمی,informell: du,غیررسمی: تو,A1_Lektion_1
+formell,Adjektiv,,,رسمی,formell: Sie,رسمی: شما,A1_Lektion_1
+Konferenz,Nomen,,,کنفرانس,Sie sind auf einer Konferenz.,شما در یک کنفرانس هستید.,A1_Lektion_1
+Party,Nomen,,,مهمانی,Sie sind auf einer Party.,شما در یک مهمانی هستید.,A1_Lektion_1
+Namensschilder,Nomen,,,برچسب‌های نام,Schreiben Sie Namensschilder und sprechen Sie.,برچسب‌های نام بنویسید و صحبت کنید.,A1_Lektion_1
+Rätsel,Nomen,,,معما,Machen Sie Rätsel.,معما بسازید.,A1_Lektion_1
+fehlt,Verb,,,"مفقود<br><img src=""17830732457237976093587380906340.jpeg"">",Welche Zahl fehlt?,کدام عدد کم است؟,A1_Lektion_1
+falsch,Adjektiv,,,غلط,richtig oder falsch?,درست یا غلط؟,A1_Lektion_2
+neu,Adjektiv,,,جدید,Zustand: Neu - mit Etikett!,وضعیت: نو - با برچسب!,A1_Lektion_5
+Material,Nomen,das,,جنس / ماده,Material: Plastik.,جنس: پلاستیک.,A1_Lektion_5
+Form,Nomen,die,,شکل / فرم,Form: eckig.,شکل: گوشه‌دار.,A1_Lektion_5
+Startpreis,Nomen,der,,قیمت پایه,"Startpreis: nur 1,99 Euro!",قیمت پایه: فقط ۱.۹۹ یورو!,A1_Lektion_5
+versteigern,Verb,,,"به مزایده گذاشتن<br><img src=""17830756967227722935021354738211.jpeg""><br>",Was möchten Sie versteigern?,می‌خواهید چه چیزی را به مزایده بگذارید؟,A1_Lektion_5
+Gegenstand,Nomen,der,,وسیله / شیء,Wählen Sie einen Gegenstand.,یک وسیله انتخاب کنید.,A1_Lektion_5
+bieten,Verb,,,قیمت پیشنهاد دادن,Ich biete 1 Euro 50!,من ۱ یورو و ۵۰ پیشنهاد می‌دهم!,A1_Lektion_5
+bekommen,Verb,,,دریافت کردن<br>receive,Anja bekommt die Kette für 3 Euro!,آنیا گردنبند را به قیمت ۳ یورو می‌گیرد!,A1_Lektion_5
+Rolle,Nomen,die,,نقش,Wählen Sie eine Rolle und sprechen Sie.,یک نقش انتخاب کنید و صحبت کنید.,A1_Lektion_5
+bitteschön,Interjektion,,,خواهش می‌کنم,Bitteschön.,خواهش می‌کنم.,A1_Lektion_5
+kein problem,Phrase,,,مشکلی نیست,Kein Problem.,مشکلی نیست.,A1_Lektion_5
+Armring,Compound Nomen,der,,دستبند حلقه‌ای,Armring.,دستبند حلقه‌ای.,A1_Lektion_5
+Dichtungsring,Compound Nomen,der,,"اورینگ / واشر<br>dichtung مهر و موم<br><img src=""51nS+LG1tiL.jpg"">",Dichtungsring.,حلقه آب‌بندی.,A1_Lektion_5
+Fingerring,Compound Nomen,der,,انگشتر,Fingerring.,انگشتر.,A1_Lektion_5
+Ohrring,Compound Nomen,der,,گوشواره,Ohrring.,گوشواره.,A1_Lektion_5
+Silberring,Compound Nomen,der,,حلقه نقره,Silberring.,حلقه نقره.,A1_Lektion_5
+Gardinenring,Compound Nomen,der,,"حلقه پرده<br><img src=""1783073044397462039225643372904.jpeg"">",Gardinenring.,حلقه پرده.,A1_Lektion_5
+Goldring,Compound Nomen,der,,حلقه طلا,Goldring.,حلقه طلا.,A1_Lektion_5
+Gummiring,Compound Nomen,der,,کش حلقه‌ای,Gummiring.,حلقه لاستیکی.,A1_Lektion_5
+Metallring,Compound Nomen,der,,حلقه فلزی,Metallring.,حلقه فلزی.,A1_Lektion_5
+Schlüsselring,Compound Nomen,der,,حلقه کلید,Schlüsselring.,حلقه جاکلیدی.,A1_Lektion_5
+nachsehen,Separable Verb,,,مراجعه کردن,Sehen Sie im Wörterbuch nach und antworten Sie.,در فرهنگ لغت نگاه کنید و پاسخ دهید.,A1_Lektion_5
+tauschen,Verb,,,جابه‌جا کردن,Tauschen Sie die Rollen.,نقش‌ها را عوض کنید.,A1_Lektion_5
+Text,Nomen,der,,متن,Ihre Partnerin liest Ihnen drei Texte vor.,همکلاسی مونث شما سه متن را برای شما می‌خواند.,A1_Lektion_2
+Norwegen,Nomen,,,نروژ,Bo Martinson kommt aus Norwegen.,بو مارتینسون اهل نروژ است.,A1_Lektion_2
+essen,Verb,,,خوردن,"Wir können essen, können trinken.",ما می‌توانیم بخوریم، می‌توانیم بنوشیم.,A1_Lektion_3
+sind,Verb,,,بودن / هستند,Peter und Franziska sind 28 und 27.,پیتر و فرانزیسکا ۲۸ و ۲۷ ساله هستند.,A1_Lektion_2
+Wolfsburg,Nomen,,,ولفسبورگ,Sie wohnen in Wolfsburg.,آنها در ولفسبورگ زندگی می‌کنند.,A1_Lektion_2
+Vw,Nomen,,,فولکس‌واگن,Sie arbeiten bei VW.,آنها در فولکس‌واگن کار می‌کنند.,A1_Lektion_2
+Rentnerin,Nomen,die,,بازنشسته (مونث),Helga Stiemer ist 67 und Rentnerin.,هلگا اشتیمر ۶۷ ساله و بازنشسته است.,A1_Lektion_2
+München,Nomen,,,مونیخ,Sie wohnt in München.,او در مونیخ زندگی می‌کند.,A1_Lektion_2
+Hannover,Nomen,,,هانوفر,Astrid lebt in Hannover.,آسترید در هانوفر زندگی می‌کند.,A1_Lektion_2
+Hamburg,Nomen,,,هامبورگ,Norbert und die Kinder leben in Hamburg.,نوربرت و بچه‌ها در هامبورگ زندگی می‌کنند.,A1_Lektion_2
+ähnlich,Adjektiv,,,"مشابه<br><img src=""17830760266532112572893156323577.jpeg"">",Machen Sie zu zweit ähnliche Aufgaben.,دو نفری تمرین‌های مشابه انجام دهید.,A1_Lektion_2
+Aufgaben,Nomen,die,,تکالیف,Machen Sie zu zweit ähnliche Aufgaben.,دو نفری تمرین‌های مشابه انجام دهید.,A1_Lektion_2
+Paar,Nomen,das,,زوج / جفت,Arbeiten Sie mit einem anderen Paar zusammen.,با یک زوج دیگر با هم کار کنید.,A1_Lektion_2
+Wort,Nomen,das,,کلمه,Verstehen Sie ein Wort nicht?,آیا یک کلمه را نمی‌فهمید؟,A1_Lektion_2
+Bildlexikon,Compound Nomen,das,,فرهنگ تصویری,Hilfe finden Sie im Bildlexikon oder im Wörterbuch.,کمک را در فرهنگ تصویری یا در فرهنگ لغت پیدا می‌کنید.,A1_Lektion_9
+auf bild A,Phrase,,,در تصویر A,Auf Bild A sind drei Stühle.,در تصویر A سه صندلی هستند.,A1_Lektion_6
+Unterschiede,Nomen,die,,تفاوت‌ها,Finden Sie die Unterschiede auf den zwei Bildern.,تفاوت‌ها را در دو تصویر پیدا کنید.,A1_Lektion_6
+arbeitslos,Adjektiv,,,بیکار,Sie ist arbeitslos.,او بیکار است.,A1_Lektion_2
+jahre alt,Phrase,,,ساله / به سن ... سال,Peter und Franziska sind 28 und 25 Jahre alt.,پیتر و فرانتسیسکا ۲۸ و ۲۵ ساله هستند.,A1_Lektion_2
+arbeitet als,Phrase,,,به عنوان ... کار می‌کند,Er arbeitet als Ingenieur.,او به عنوان مهندس کار می‌کند.,A1_Lektion_2
+kommt aus,Phrase,,,اهلِ ... بودن / از ... آمدن,Bo Martinson kommt aus Schweden und wohnt in Essen.,بو مارتینسون اهل سوئد است و در اسن زندگی می‌کند.,A1_Lektion_2
+wohnt in,Phrase,,,در ... زندگی می‌کند,Sie wohnt in Leipzig.,او در لایپزیگ زندگی می‌کند.,A1_Lektion_2
+keine kinder haben,Phrase,,,فرزندی نداشتن,Sie arbeiten bei VW und haben keine Kinder.,آن‌ها در فولکس‌واگن کار می‌کنند و فرزندی ندارند.,A1_Lektion_2
+vorlesen,Separable Verb,,,بلند خواندن,Lesen Sie Ihrer Partnerin / Ihrem Partner die Texte vor.,متن‌ها را برای شریک تمرین خود با صدای بلند بخوانید.,A1_Lektion_2
+ein wort verstehen,Phrase,,,یک کلمه را فهمیدن,Verstehen Sie ein Wort nicht?,آیا یک کلمه را نمی‌فهمید؟,A1_Lektion_2
+Fotos,Nomen,die,,عکس‌ها,Sehen Sie die Fotos an.,به عکس‌ها نگاه کنید.,A1_Lektion_3
+eine karte ziehen,Verb,,,یک کارت کشیدن,Person A zieht eine Karte.,شخص A یک کارت می‌کشد.,A1_Lektion_3
+beantworten,Verb,,,پاسخ دادن,Person A beantwortet die Frage.,شخص A به سوال پاسخ می‌دهد.,A1_Lektion_3
+richtig antworten,Verb,,,درست پاسخ دادن,Ist die Antwort richtig?,آیا پاسخ درست است؟,A1_Lektion_3
+behalten,Verb,,,نزد خود نگه داشتن,Person A behält die Karte.,شخص A کارت را نزد خود نگه می‌دارد.,A1_Lektion_3
+ja - nein - doch,Phrase,,,بله – نه – چرا (برای پاسخ به سوال منفی),Ja – nein – doch üben.,بله – نه – چرا را تمرین کنید.,A1_Lektion_3
+einen steckbrief schreiben,Verb,,,یک شناسنامه (مشخصات) نوشتن,Schreiben Sie einen Steckbrief.,یک شناسنامه (مشخصات) بنویسید.,A1_Lektion_3
+Falsche angaben,Nomen,,,اطلاعات غلط,Machen Sie zwei falsche Angaben.,دو اطلاعات غلط بدهید.,A1_Lektion_3
+an der reihe sein,Verb,,,نوبت .... بودن,Jetzt ist Person B an der Reihe.,حالا نوبت شخص B است.,A1_Lektion_3
+gewinnen / gewonnen,Verb,,,برنده شدن / برنده,Gewonnen hat die Person mit den meisten Karten.,کسی که بیشترین کارت را دارد برنده شده است.,A1_Lektion_3
+Meisten karten,Nomen,die,,بیشترین کارت‌ها,Gewonnen hat die Person mit den meisten Karten.,کسی که بیشترین کارت را دارد برنده شده است.,A1_Lektion_3
+wo wohnen,Verb,,,کجا زندگی کردن,Wo wohnst du?,تو کجا زندگی می‌کنی؟,A1_Lektion_3
+woher kommen,Verb,,,از کجا آمدن,Woher kommt Bartan?,بارتان از کجا می‌آید؟,A1_Lektion_3
+wo arbeiten,Verb,,,کجا کار کردن,Wo arbeitet Sven?,سون کجا کار می‌کند؟,A1_Lektion_3
+wo,Adverb,,,کجا,Wo arbeitet Sven?,سون کجا کار می‌کند؟,A1_Lektion_3
+nicht wahr? / oder?,Interjektion,,,مگر نه؟ / اینطور نیست؟,"Dein Bruder ist nicht verheiratet, oder?",برادرت مجرد است، اینطور نیست؟,A1_Lektion_3
+Dein bruder,Nomen,,,برادرت (صمیمی),Ist dein Bruder verheiratet?,آیا برادرت متاهل است؟,A1_Lektion_3
+bekannte persönlichkeiten,Phrase,,,چهره‌های مشهور,Wer ist das? Das ist Angela Merkel.,این کیست؟ این آنگلا مرکل است.,A1_Lektion_1
+kommen aus,Verb,,,اهل ... بودن / آمدن از,Sie kommt aus Deutschland.,او از آلمان می‌آید.,A1_Lektion_1
+Großbritannien,Nomen,,,بریتانیای کبیر,Er kommt aus Großbritannien.,او از بریتانیای کبیر می‌آید.,A1_Lektion_1
+sehr oft,Phrase,,,اکثر اوقات,Spielst du sehr oft Fußball?,آیا خیلی اوقات فوتبال بازی می‌کنی؟,A1_Lektion_7
+auto fahren,Verb,,,ماشین راندن,Ich fahre Auto.,من ماشین می‌رانم.,A1_Lektion_7
+musik machen,Verb,,,موسیقی ساختن,Ich mache Musik.,من موسیقی می‌سازم.,A1_Lektion_7
+freunde besuchen,Verb,,,به دیدار دوستان رفتن,Ich besuche Freunde.,من به دیدار دوستان می‌روم.,A1_Lektion_7
+radio hören,Verb,,,رادیو گوش دادن,Ich höre Radio.,من رادیو گوش می‌دهم.,A1_Lektion_7
+hässlich,Adjektiv,,,زشت,Das Zimmer ist hässlich.,اتاق زشت است.,A1_Lektion_4
+Zimmer,Nomen,das,,اتاق,Wie findest du das Zimmer?,تو اتاق را چطور می‌بینی؟,A1_Lektion_4
+Uhrzeit,Nomen,die,,زمان<br>Time,Wie spät ist es?,ساعت چند است؟,A1_Lektion_8
+spät,Adjektiv,,,دیر,Sechs Uhr ist zu spät.,ساعت شش خیلی دیر است.,A1_Lektion_8
+halb,Adjektiv,,,نیمه (برای ساعت),Es ist halb sechs.,ساعت پنج و نیم است.,A1_Lektion_8
+"Viertel, -",Nomen,das,,یک چهارم / ربع ساعت,Es ist Viertel vor sechs.,ساعت پنج و چهل و پنج دقیقه است.,A1_Lektion_8
+vor,Präposition,,,قبل از,Viertel vor sechs.,یک ربع مانده به شش.,A1_Lektion_8
+Rücken,Nomen,der,,"پشت<br><img src=""nackter-ruecken-eines-mannes-246874-5.jpg"">",Schreiben Sie auf den Rücken.,روی پشت بنویسید.,A1_Lektion_8
+verabreden,Verb,,,قرار گذاشتن<br>Make a date,Verabreden Sie sich im Chat.,در چت قرار بگذارید.,A1_Lektion_8
+Chat,Nomen,der,,چت/گفتگو,Was machst du im Chat?,در چت چه کار می‌کنی؟,A1_Lektion_8
+Profilname,Nomen,der,,نام کاربری,Ergänzen Sie Ihren Profilnamen.,نام کاربری خود را تکمیل کنید.,A1_Lektion_8
+Lust,Nomen,die,,حوصله / اشتیاق,Lust auf Schwimmbad?,حوصله استخر داری؟,A1_Lektion_8
+nö,Interjektion,,,نه (خیلی عامیانه),Nö. Keine Lust.,نه. میل ندارم.,A1_Lektion_8
+wann,Adverb,,,چه زمانی <br>When,Wann denn?,خب کی؟,A1_Lektion_8
+um,Präposition,,,در (برای ساعت),Um acht Uhr.,ساعت هشت.,A1_Lektion_8
+dann,Adverb,,,پس/سپس,Dann bis morgen.,پس تا فردا.,A1_Lektion_8
+bis,Präposition,,,تا,Bis später.,تا بعد.,A1_Lektion_8
+wollen,Modal Verb,,,خواستن,Was wollen Sie machen?,شما چه کاری می‌خواهید انجام دهید؟,A1_Lektion_8
+vielleicht,Adverb,,,شاید,Vielleicht kaufe ich noch was ein.,شاید هنوز چیزی بخرم.,A1_Lektion_1
+Abend,Nomen,der,,عصر / شب,Ich koche heute Abend etwas.,امشب چیزی می‌پزم.,A1_Lektion_9
+"Idee, ""-n""",Nomen,die,,ایده / نظر,Gute Idee!,ایده خوبی است!,A1_Lektion_8
+"Ausstellung, -en",Nomen,die,,نمایشگاه,Ich gehe in eine Ausstellung.,من به یک نمایشگاه می‌روم.,A1_Lektion_8
+Schwimmbad,Nomen,das,,استخر,Ins Schwimmbad?,به استخر؟,A1_Lektion_8
+Ausflug,Nomen,der,,سفر کوتاه / گردش,Ich mache sehr gern Ausflüge.,من خیلی دوست دارم گردش بروم.,A1_Lektion_8
+Geburtstag,Nomen,der,,تولد,Er hat heute Geburtstag.,او امروز تولد دارد.,A1_Lektion_8
+jobben,Verb,,,کار موقت کردن,Ich jobbe im Café.,من در کافه کار موقت می‌کنم.,A1_Lektion_8
+Tennis,Nomen,das,,تنیس,Wir spielen Tennis.,ما تنیس بازی می‌کنیم.,A1_Lektion_8
+"Konzert, ""-e""",Nomen,das,,کنسرت,Gehen wir ins Konzert?,آیا به کنسرت می‌رویم؟,A1_Lektion_8
+"Kneipe, ""-n""",Nomen,die,,بار <br>که غذا ام سرور میشه,Gehen wir in die Kneipe?,آیا به میخانه می‌رویم؟,A1_Lektion_8
+"Restaurant, ""-s""",Nomen,das,,رستوران,Gehen wir ins Restaurant?,آیا به رستوران می‌رویم؟,A1_Lektion_8
+"Bar, ""-s""",Nomen,die,,بار,Gehen wir in die Bar?,آیا به بار می‌رویم؟,A1_Lektion_8
+"Montag, ""-e""",Nomen,der,,دوشنبه,Am Montagabend spiele ich Fußball.,دوشنبه عصر فوتبال بازی می‌کنم.,A1_Lektion_8
+"Dienstag, ""-e""",Nomen,der,,سه‌شنبه,Am Dienstagabend tanze ich Salsa.,سه‌شنبه عصر سالسا می‌رقصم.,A1_Lektion_8
+"Mittwoch, ""-e""",Nomen,der,,چهارشنبه,Mein Lieblingstag ist der Mittwoch.,روز مورد علاقه من چهارشنبه است.,A1_Lektion_8
+"Donnerstag, ""-e""",Nomen,der,,پنجشنبه,Ich arbeite am Donnerstag.,من پنجشنبه کار می‌کنم.,A1_Lektion_8
+"Freitag, ""-e""",Nomen,der,,جمعه,Was machst du am Freitag?,جمعه چه کار می‌کنی؟,A1_Lektion_8
+"Samstag, ""-e""",Nomen,der,,شنبه,Am Samstag gehen wir ins Kino.,شنبه به سینما می‌رویم.,A1_Lektion_8
+"Sonntag, ""-e""",Nomen,der,,یکشنبه,Sonntag habe ich frei.,یکشنبه تعطیل هستم.,A1_Lektion_8
+morgen,Adverb,,,فردا,Rufst du mich morgen mal an?,فردا یک‌بار به من زنگ می‌زنی؟,A1_Lektion_1
+"Vormittag, ""-e""",Nomen,der,,قبل از ظهر,Ich arbeite am Vormittag.,من قبل از ظهر کار می‌کنم.,A1_Lektion_8
+"Mittag, ""-e""",Nomen,der,,ظهر,Ich esse am Mittag.,من ظهر غذا می‌خورم.,A1_Lektion_8
+Nachmittag,Nomen,der,,بعدازظهر,Heute Nachmittag?,امروز بعدازظهر؟,A1_Lektion_8
+"Nacht, ""-e""",Nomen,die,,شب (دیروقت),In der Nacht schlafe ich.,در شب من می‌خوابم.,A1_Lektion_8
+tut mir leid,Phrase,,,متاسفم,"Tut mir leid, ich habe keine Lust.",متاسفم، حوصله ندارم.,A1_Lektion_8
+bis dann,Phrase,,,تا بعد,"Ja, bis dann!",بله، تا بعد!,A1_Lektion_8
+halb vier,Phrase,,,"نیم ساعت به ۴<br><img src=""17830743523492329681365946735192.jpeg"">",Wann? Um halb vier.,کی؟ ساعت سه و نیم.,A1_Lektion_8
+gute idee,Phrase,,,ایده خوب,Gute Idee!,ایده خوبیه!,A1_Lektion_8
+keine lust,Phrase,,,بی‌حوصلگی,Nöö. Keine Lust.,نه. حوصله ندارم.,A1_Lektion_8
+"ja, klar",Phrase,,,بله، حتما,"Ja, klar.",بله، حتما.,A1_Lektion_8
+"Museum, -en",Nomen,das,,موزه,Heute Nachmittag gehe ich ins Museum.,امروز بعد از ظهر من به موزه می‌روم.,A1_Lektion_8
+"Café, -s",Nomen,das,,کافه,Wir treffen uns im Café.,ما همدیگر را در کافه می‌بینیم.,A1_Lektion_8
+"Disco, -s",Nomen,die,,دیسکو,Vielleicht in eine Disco gehen.,شاید رفتن به دیسکو.,A1_Lektion_3
+sehen,Verb,,,دیدن,Wir sehen uns bald.,ما همدیگر را به زودی می‌بینیم.,A1_Lektion_8
+liebe grüße,Phrase,,,با احترام / ارادت,"Liebe Grüße, Karina.",ارادت، کارینا.,A1_Lektion_8
+nach,Präposition,,,بعد از,Zwanzig nach drei.,بیست دقیقه بعد از سه.,A1_Lektion_8
+absagen,Verb,,,لغو کردن / کنسل کردن,Verabredungen absagen.,لغو کردن قرار ملاقات‌ها.,A1_Lektion_8
+höflich,Adjektiv,,,مؤدبانه,Die E-Mail ist höflich.,این ایمیل مؤدبانه است.,A1_Lektion_8
+unhöflich,Adjektiv,,,غیرمؤدبانه,Die E-Mail ist unhöflich.,این ایمیل غیرمؤدبانه است.,A1_Lektion_8
+einladen,Separable Verb,,,"دعوت کردن<br><img src=""17830739677344691168298095693143.jpeg"">",Wer lädt ein?,چه کسی دعوت می‌کند؟,A1_Lektion_9
+lieber timo,Phrase,,,تیموی عزیز,"Lieber Timo, ich habe keine Zeit.",تیموی عزیز، من وقت ندارم.,A1_Lektion_8
+herzliche grüße,Phrase,,,با سلام و احترام,"Herzliche Grüße, Sina.",با صمیمانه‌ترین درودها، سینا.,A1_Lektion_8
+zum essen,Phrase,,,برای غذا خوردن,Kommen Sie zum Essen?,آیا برای غذا خوردن می‌آیید؟,A1_Lektion_8
+zum kaffee,Phrase,,,برای قهوه,Markus و Svenja kommen um vier zum Kaffee.,مارکوس و سونیا ساعت چهار برای قهوه می‌آیند.,A1_Lektion_8
+sich verabreden,Verb,,,قرار گذاشتن,Sich verabreden: Hast du heute Abend Zeit?,قرار گذاشتن: آیا امروز عصر وقت داری؟,A1_Lektion_8
+einen vorschlag machen,Phrase,,,"پیشنهاد دادن<br>suggestion<br><img src=""vorschlagsszene-mit-einem-kniendigen-mann-und-einer-ueberraschten-frau-in-flacher-vektorkunst_771357-12949.jpg"">",Einen Vorschlag machen: Gehen wir ins Kino?,پیشنهاد دادن: آیا به سینما برویم؟,A1_Lektion_8
+reagieren,Verb,,,واکنش نشان دادن,Vorschlag machen und darauf reagieren.,پیشنهاد دادن و به آن واکنش نشان دادن.,A1_Lektion_8
+einen zeitpunkt angeben,Phrase,,,بیان یک زمان مشخص,Einen Zeitpunkt angeben: Am Dienstag um vier.,بیان یک زمان: روز سه‌شنبه ساعت چهار.,A1_Lektion_8
+wie viel uhr,Phrase,,,چه ساعتی,Wie viel Uhr ist es?,ساعت چند است؟,A1_Lektion_8
+wie spät,Phrase,,,چه ساعتی,Wie spät ist es?,ساعت چند است؟,A1_Lektion_8
+planen,Verb,,,برنامه‌ریزی کردن,Planen Sie gemeinsam.,با هم برنامه‌ریزی کنید.,A1_Lektion_9
+Nachbar,Nomen,der,,همسایه (مذکر)<br>neighbor,"Sind Sie Kollegen, Nachbarn, Freunde, ...?",آیا شما همکار، همسایه، دوست، ... هستید؟,A1_Lektion_9
+Gast,Nomen,der,,مهمان,Wer ist der Gast?,مهمان کیست؟,A1_Lektion_9
+schenken,Verb,,,هدیه دادن / تعارف کردن,Was schenkt der Gast?,مهمان چه چیزی هدیه می‌دهد؟,A1_Lektion_9
+Dank,Nomen,,,تشکر,"Oh, vielen Dank.",آه، خیلی ممنون.,A1_Lektion_9
+danke schön,Phrase,,,خیلی ممنون / متشکرم,Danke schön.,خیلی ممنون.,A1_Lektion_9
+lieb,Adjektiv,,,محبوب,"Ja, ... ist mein Lieblingsessen.",بله، ... غذای موردعلاقه‌ی من است.,A1_Lektion_9
+Lieblingsessen,Compound Nomen,das,,غذای موردعلاقه,"Ja, ... ist mein Lieblingsessen.",بله، ... غذای موردعلاقه‌ی من است.,A1_Lektion_9
+gleichfalls,Adverb,,,همچنین / متقابلاً,"Danke, gleichfalls.",ممنون، همچنین برای شما.,A1_Lektion_9
+ebenfalls,Adverb,,,همچنین / متقابلاً,"Danke, gleichfalls/ebenfalls.",ممنون، همچنین برای شما.,A1_Lektion_9
+schmecken,Verb,,,مزه دادن / خوشمزه بودن,Das schmeckt sehr gut.,این خیلی خوشمزه است.,A1_Lektion_6
+Appetit,Nomen,der,,اشتها,Guten Appetit.,نوش جان.,A1_Lektion_9
+mögen,Modal Verb,,,دوست داشتن / مایل بودن,Mögen Sie ...?,آیا ... را دوست دارید؟,A1_Lektion_9
+Kaffee,Nomen,der,,قهوه,Möchten Sie einen Kaffee?,آیا قهوه میل دارید؟,A1_Lektion_9
+Vorspeise,Nomen,die,,پیش‌غذا,Vorspeise: Eiersalat.,پیش‌غذا: سالاد تخم‌مرغ.,A1_Lektion_9
+Eiersalat,Compound Nomen,der,,سالاد تخم‌مرغ,Vorspeise: Eiersalat.,پیش‌غذا: سالاد تخم‌مرغ.,A1_Lektion_9
+Hauptgericht,Compound Nomen,das,,غذای اصلی,Hauptgericht: Fisch mit Zwiebeln.,غذای اصلی: ماهی با پیاز.,A1_Lektion_9
+Fisch,Nomen,der,,ماهی,Hauptgericht: Fisch mit Zwiebeln.,غذای اصلی: ماهی با پیاز.,A1_Lektion_9
+"Zwiebel, -n",Nomen,die,,پیاز,Sie können auch Zwiebeln dazugeben.,شما می‌توانید پیاز هم اضافه کنید.,A1_Lektion_3
+Dessert,Nomen,das,,دسر,Dessert: Zitroneneis.,دسر: بستنی لیمویی.,A1_Lektion_9
+Zitroneneis,Compound Nomen,das,,بستنی لیمویی,Dessert: Zitroneneis.,دسر: بستنی لیمویی.,A1_Lektion_9
+Schokolade,Nomen,die,,شکلات,Ich hab keine Schokolade.,من شکلات ندارم.,A1_Lektion_8
+Hunger,Nomen,der,,گرسنگی,Ich hab so Hunger.,من خیلی گرسنه‌ام.,A1_Lektion_8
+Durst,Nomen,der,,"تشنگی<br><img src=""81zUjJqfL-L._AC_UF1000,1000_QL80_.jpg"">",Tim hat Durst.,تیم تشنه است.,A1_Lektion_9
+Schinken,Nomen,der,,ژامبون,Tim mag keinen Schinken.,تیم ژامبون دوست ندارد.,A1_Lektion_9
+Käse,Nomen,der,,پنیر,Tim mag keinen Käse.,تیم پنیر دوست ندارد.,A1_Lektion_9
+Onkel,Nomen,der,,عمو / دایی,Onkel Harry hat keinen Schinken.,عمو هری ژامبون ندارد.,A1_Lektion_9
+Kuchen,Nomen,der,,کیک,Ich liebe Kuchen!,من کیک را خیلی دوست دارم!,A1_Lektion_8
+Schinkenbrot,Nomen,das,,ساندویچ ژامبون,Möchtest du ein Schinkenbrot?,آیا یک ساندویچ ژامبون می‌خواهی؟,A1_Lektion_8
+Käsebrot,Nomen,das,,ساندویچ پنیر,Möchtest du ein Käsebrot?,آیا یک ساندویچ پنیر می‌خواهی؟,A1_Lektion_8
+Stück,Nomen,das,,"تکه<br>piece<br><img src=""erdbeer-sahne.jpg"">",Tim isst ein Stück Kuchen.,تیم یک تکه کیک می‌خورد.,A1_Lektion_9
+Frühstück,Nomen,das,,صبحانه,Ich esse gern Müsli zum Frühstück.,من برای صبحانه موسلی را دوست دارم.,A1_Lektion_9
+Müsli,Nomen,das,,"موسلی / غلات صبحانه<br><img src=""knaprig_müsli.jpg"">",Ich esse gern Müsli zum Frühstück.,من برای صبحانه موسلی را دوست دارم.,A1_Lektion_9
+Milch,Nomen,die,,شیر,Ich habe immer Milch im Kühlschrank.,من همیشه شیر در یخچال دارم.,A1_Lektion_9
+Kühlschrank,Nomen,der,,"یخچال<br><img src=""temp_file_-e15fc5383070b31a5dcd7953fc7ccf7ab8eabfc9.jpg"">",Ich habe immer Milch im Kühlschrank.,من همیشه شیر در یخچال دارم.,A1_Lektion_9
+möchte,Modal Verb,,,می‌خواهم / مایلم,Ich möchte was essen.,من می‌خواهم چیزی بخورم.,A1_Lektion_9
+helfen,Verb,,,کمک کردن,Hilfe finden Sie im Bildlexikon oder im Wörterbuch.,کمک را در فرهنگ تصویری یا در فرهنگ لغت پیدا می‌کنید.,A1_Lektion_9
+Vorliebe,Nomen,die,,علاقه‌مندی‌ها,Gespräch über Vorlieben beim Essen.,گفت‌وگو درباره ترجیحات در غذا خوردن.,A1_Lektion_9
+Tee,Nomen,der,,چای,Möchten Sie Kaffee oder Tee?,قهوه می‌خواهید یا چای؟,A1_Lektion_9
+Tomatensalat,Compound Nomen,der,,"سالاد گوجه‌فرنگی<br><img src=""Tomatensalat_Dressing.jpg"">",der Tomatensalat,سالاد گوجه‌فرنگی,A1_Lektion_9
+Kartoffel,Nomen,die,,"سیب‌زمینی<br><img src=""kartoffel_1.jpg"">",Kartoffel,سیب‌زمینی,A1_Lektion_9
+Suppe,Nomen,die,,سوپ,Suppe,سوپ,A1_Lektion_9
+Apfel,Nomen,der,,سیب,Apfel,سیب,A1_Lektion_9
+Braten,Nomen,der,,"گوشت کبابی / بریان<br><img src=""4c2e7689e150744885fc08e00bdd6621-roastbeef-.jpg"">",Braten,گوشت کبابی,A1_Lektion_9
+Brot,Nomen,das,,نان,Brot,نان,A1_Lektion_9
+frühstücken,Verb,,,صبحانه خوردن,Oder schön frühstücken?,یا یک صبحانه دلچسب خوردن؟,A1_Lektion_3
+er,Pronomen,,,او,Er mag Käse.,او پنیر دوست دارد.,A1_Lektion_9
+Woche,Nomen,die,,هفته,in der Woche,در طول هفته,A1_Lektion_9
+Wochenende,Nomen,das,,آخر هفته,am Wochenende,آخر هفته,A1_Lektion_9
+Käsebrötchen,Compound Nomen,das,,رول پنیری,Käsebrötchen,"نان پنیر<br><img src=""temp_file_.jpg"">",A1_Lektion_9
+Wurstsuppe,Compound Nomen,die,,سوپ سوسیس,Das ist Wurstsuppe.,این سوپ سوسیس است.,A1_Lektion_9
+Tomatenkaffee,Compound Nomen,der,,قهوه گوجه‌فرنگی,Tomatenkaffee oder Kartoffelkaffee?,قهوه گوجه‌فرنگی یا قهوه سیب‌زمینی؟,A1_Lektion_9
+Wurst,Nomen,die,,سوسیس,Das ist Wurstsuppe.,این سوپ سوسیس است.,A1_Lektion_9
+"Brötchen, -",Nomen,das,,نان کوچک / نان گرد,"Es gibt Brötchen, Marmelade und Honig.",نان کوچک، مربا و عسل وجود دارد.,A1_Lektion_3
+Butter,Nomen,die,,کره,Butter,کره,A1_Lektion_9
+Tomate,Nomen,die,,گوجه‌فرنگی,Tomate,گوجه‌فرنگی,A1_Lektion_9
+Salat,Nomen,der,,سالاد,Salat,سالاد,A1_Lektion_9
+Schokoladenkuchen,Compound Nomen,der,,کیک شکلاتی,der Schokoladenkuchen,کیک شکلاتی,A1_Lektion_9
+Fischsuppe,Compound Nomen,die,,سوپ ماهی,die Fischsuppe,سوپ ماهی,A1_Lektion_9
+guten appetit,Phrase,,,نوش جان,Guten Appetit!,نوش جان!,A1_Lektion_9
+Speisekarte,Nomen,,,منوی غذا,Lesen Sie die Speisekarte und wählen Sie Ihre Favoriten.,منوی غذا را بخوانید و مورد علاقه‌های خود را انتخاب کنید.,A1_Lektion_9
+Hauptspeise,Nomen,die,,غذای اصلی,Was essen wir als Hauptgericht?,ما به‌عنوان غذای اصلی چه می‌خوریم؟,A1_Lektion_9
+Leberknödelsuppe,Nomen,die,,"سوپ کوفته جگر<br><img src=""leberknoedelsuppe-adobestock-394086769.jpg"">",Leberknödelsuppe,سوپ کوفته جگر,A1_Lektion_9
+Hamburger aalsuppe,Nomen,die,,"سوپ مارماهی هامبورگی<br><img src=""44fac3c3-0005-0004-e40d-57d2754e4e40_w1024_r0.667_fpx50_fpy47.jpg"">",Hamburger Aalsuppe,سوپ مارماهی هامبورگی,A1_Lektion_9
+Zürcher Geschnetzeltes,Compound Nomen,das,,"خوراک گوشت برش‌خورده زوریخی<br><img src=""zuercher-geschnetzeltes-jpg--63760-.jpg"">",Zürcher Geschnetzeltes mit Rösti.,خوراک گوشت برش‌خورده زوریخی با رُستی.,A1_Lektion_9
+"Rösti, -s",Nomen,das,,روستی (غذای سیب‌زمینی),Zürcher Geschnetzeltes mit Rösti.,خوراک گوشت زوریخی با روستی.,A1_Lektion_3
+Wiener Schnitzel,Compound Nomen,das,,"شنیتسل وینی<br><img src=""78117-wienerschnitzel-ddmfs-3X4-0200-ec06b882b575486ab7398957709413d2.jpg"">",Wiener Schnitzel (aus Kalbfleisch) mit Kartoffelsalat.,شنیتسل وینی (از گوشت گوساله) با سالاد سیب‌زمینی.,A1_Lektion_9
+Kalbfleisch,Nomen,das,,"گوشت گوساله<br><img src=""Senfbraten1KDK-scaled.jpg.webp"">",Wiener Schnitzel (aus Kalbfleisch) mit Kartoffelsalat.,شنیتسل وینی (از گوشت گوساله) با سالاد سیب‌زمینی.,A1_Lektion_9
+Kartoffelsalat,Compound Nomen,der,,"سالاد سیب‌زمینی<br><img src=""Kartoffelsalat-3.jpg"">",Wiener Schnitzel (aus Kalbfleisch) mit Kartoffelsalat.,شنیتسل وینی (از گوشت گوساله) با سالاد سیب‌زمینی.,A1_Lektion_9
+Apfelstrudel,Nomen,der,,"اشترودل سیب<br><img src=""Apple-Strudel-Recipe-2.jpg"">",Apfelstrudel mit Vanilleeis.,اشترودل سیب با بستنی وانیلی.,A1_Lektion_9
+Vanilleeis,Compound Nomen,das,,"بستنی وانیلی<br><img src=""vanilleeis.jpg"">",Apfelstrudel mit Vanilleeis.,اشترودل سیب با بستنی وانیلی.,A1_Lektion_9
+Rote Grütze,Phrase,die,,"پودینگ/دسر میوه‌ای قرمز<br><img src=""einfache-rote-gruetze.jpg"">",Rote Grütze mit Sahne.,پودینگ میوه‌ای قرمز با خامه.,A1_Lektion_9
+Sahne,Nomen,die,,"خامه<br><img src=""Sahne_Bild_2a.jpg"">",Rote Grütze mit Sahne.,پودینگ میوه‌ای قرمز با خامه.,A1_Lektion_9
+sprechübungen,Phrase,,,تمرین گفت‌وگو,Gespräche üben: Möchten Sie noch etwas ...?,تمرین گفت‌وگو: چیز دیگری هم میل دارید؟,A1_Lektion_9
+noch etwas,Phrase,,,یک چیز دیگر / باز هم کمی,Möchten Sie noch etwas ...?,چیز دیگری هم میل دارید؟,A1_Lektion_9
+Artikel,Nomen,die,,حروف تعریف,Suchen Sie die Artikel im Bildlexikon und ergänzen Sie.,حروف تعریف را در واژه‌نامه تصویری پیدا کنید و کامل کنید.,A1_Lektion_9
+stellen,Verb,,,قرار دادن / چیدن,Würfeln Sie und stellen Sie Ihre Speisekarte zusammen.,تاس بیندازید و منوی خود را کنار هم بچینید.,A1_Lektion_9
+fischeis,Compound Nomen,,,بستنی ماهی,Fischeis.,بستنی ماهی.,A1_Lektion_9
+laden,Verb,,,دعوت کردن,Laden Sie zwei Kursteilnehmer/-innen zum Essen ein.,دو نفر از شرکت‌کنندگان کلاس را برای غذا دعوت کنید.,A1_Lektion_9
+Kursteilnehmer,Nomen,,,"شرکت‌کنندگان کلاس<br><img src=""18551415-many-happy-students-with-teacher-holding-their-thumbs-up-in-university.jpg"">",Laden Sie zwei Kursteilnehmer/-innen zum Essen ein.,دو نفر از شرکت‌کنندگان کلاس را برای غذا دعوت کنید.,A1_Lektion_9
+leid,Adjektiv,,,متأسف,"Oh, das tut mir leid.",اوه، متأسفم.,A1_Lektion_9
+Obst,Nomen,,,میوه,Obst,میوه,A1_Lektion_9
+Reis,Nomen,,,"برنج<br><img src=""17830753815846059185134168765971.jpeg"">",Obstreis,برنج میوه‌ای,A1_Lektion_9
+Zitrone,Nomen,,,لیمو,Zitronensuppe,سوپ لیمویی,A1_Lektion_9
+lila,Adjektiv,,,یاسی,lila,بنفش (یاسی),A1_Lektion_1
+rosa,Adjektiv,,,صورتی,rosa,صورتی,A1_Lektion_1
+violett,Adjektiv,,,بنفش,violett,بنفش,A1_Lektion_1
+türkis,Adjektiv,,,فیروزه‌ای,türkis,فیروزه‌ای,A1_Lektion_1
+beige,Adjektiv,,,بژ,beige,کرم (بژ),A1_Lektion_1
+gold,Adjektiv,,,طلایی,gold,طلایی,A1_Lektion_1
+silber,Adjektiv,,,نقره‌ای,silber,نقره‌ای,A1_Lektion_1
+"Tipp, ""-s""",Nomen,der,,نکته / توصیه,Wiederhole die Farben laut und oft!,رنگ‌ها را بلند و زیاد تکرار کن!,A1_Lektion_1
+wiederholen,Verb,,,تکرار کردن,Wiederhole die Farben laut und oft!,رنگ‌ها را بلند و زیاد تکرار کن!,A1_Lektion_1
+laut,Adverb,,,بلند (با صدای بلند),Wiederhole die Farben laut und oft!,رنگ‌ها را بلند و زیاد تکرار کن!,A1_Lektion_1
+"Veranstaltung, ""-en""",Nomen,die,,رویداد / مناسبت,Welche Überschrift passt zu den Veranstaltungen?,کدام عنوان با رویدادها همخوانی دارد؟,A1_Lektion_3
+"Seebad, ""-er""",Nomen,das,,پلاژ ساحلی,Wir fahren mit dem Rad zum Seebad.,ما با دوچرخه به پلاژ ساحلی می‌رویم.,A1_Lektion_3
+grillen,Verb,,,کباب کردن,"Möchtest Du grillen, schwimmen und Beachvolleyball spielen?",آیا می‌خواهی کباب کنی، شنا کنی و والیبال ساحلی بازی کنی؟,A1_Lektion_3
+surfen,Verb,,,وب‌گردی کردن / موج‌سواری,Im Internet surfen?,در اینترنت چرخیدن؟,A1_Lektion_3
+"Marmelade, ""-n""",Nomen,die,,مربا,"Es gibt Brötchen, Marmelade und Honig.",نان کوچک، مربا و عسل وجود دارد.,A1_Lektion_3
+Honig,Nomen,der,,عسل,"Es gibt Brötchen, Marmelade und Honig.",نان کوچک، مربا و عسل وجود دارد.,A1_Lektion_3
+melden,Verb,,,ثبت نام کردن / خبر دادن,Wer möchte ein Ei? Bitte melden!,چه کسی یک تخم‌مرغ می‌خواهد؟ لطفاً خبر دهد!,A1_Lektion_3
+"Überschrift, ""-en""",Nomen,die,,عنوان / تیتر,Welche Überschrift passt zu den Veranstaltungen?,کدام عنوان با رویدادها همخوانی دارد؟,A1_Lektion_3
+nämlich,Adverb,,,در واقع / زیرا,Wir machen nämlich wieder ein Musikfrühstück.,در واقع ما دوباره یک صبحانه همراه با موسیقی داریم.,A1_Lektion_3
+schlafen,Verb,,,خوابیدن,Was machst Du am Sonntag um 10 Uhr? Schlafen?,روز یکشنبه ساعت ۱۰ چه کار می‌کنی؟ خوابیدن؟,A1_Lektion_3
+Inlineskaten,Nomen,das,,اینلاین اسکیت,Mein Hobby ist Inlineskaten.,سرگرمی من اینلاین اسکیت است.,A1_Lektion_3
+"Reportage, -n",Nomen,die,,گزارش,Sehen Sie die Reportage.,گزارش را تماشا کنید.,A1_Lektion_3
+"Kurzinterview, -s",Nomen,das,,مصاحبه کوتاه,Sehen Sie die Kurzinterviews.,مصاحبه‌های کوتاه را تماشا کنید.,A1_Lektion_3
+"Fußballspiel, -e",Nomen,das,,مسابقه فوتبال,Zu einem Fußballspiel gehen.,رفتن به مسابقه فوتبال.,A1_Lektion_3
+"Lieblingsrestaurant, -s",Nomen,das,,رستوران مورد علاقه,Mein Lieblingsrestaurant ist der Gasthof.,رستوران مورد علاقه من آن مهمان‌خانه است.,A1_Lektion_3
+"Getränk, -e",Nomen,das,,"نوشیدنی<br><img src=""alkoholfreie-getraenke-red-bull-coca-cola-evian-capri-sun-fuze-tea.jpg"">",Hier sind die Getränke.,اینجا نوشیدنی‌ها هستند.,A1_Lektion_3
+"Speise, -n",Nomen,die,,غذا,Hier sind die Speisen.,اینجا غذاها هستند.,A1_Lektion_3
+"Currywurst, -e",Nomen,die,,سوسیس کاری,Sie essen Currywurst mit Pommes.,آن‌ها سوسیس کاری با سیب‌زمینی سرخ‌کرده می‌خورند.,A1_Lektion_3
+"Schnitzel, -",Nomen,das,,"شنیتسل<br><img src=""French-pork-schnitzel-1.jpg"">",Ich esse Wiener Schnitzel.,من شنیتسل وین می‌خورم.,A1_Lektion_3
+"Erdäpfelsalat, -e",Nomen,der,,سالاد سیب‌زمینی,Wiener Schnitzel mit Erdäpfelsalat.,شنیتسل وین با سالاد سیب‌زمینی.,A1_Lektion_3
+"Gulasch, -e",Nomen,das,,"گولاش (خوراک گوشت)<br><img src=""gulasch-adobestock-545720089-hlphoto (1).jpg"">",Gulasch mit Knödel.,گولاش با دامپلینگ.,A1_Lektion_3
+"Knödel, -",Nomen,der,,"کوفته / دامپلینگ<br><img src=""Knoedel_1200x800.jpg"">",Gulasch mit Knödel.,گولاش با دامپلینگ.,A1_Lektion_3
+"Matjes, -e",Nomen,der,,"شاه‌ماهی نمک‌سود<br><img src=""Matjes-Pickled-Herring.png"">",Matjes in Sahnesoße.,شاه‌ماهی در سس خامه.,A1_Lektion_3
+"Sahnesoße, -n",Nomen,die,,"سس خامه<br><img src=""sahnesauce.jpg"">",Matjes in Sahnesoße.,شاه‌ماهی در سس خامه.,A1_Lektion_3
+"Pellkartoffel, -n",Nomen,die,,"سیب‌زمینی آب‌پز (با پوست)<br><img src=""279466--5989-.jpg"">",Matjes mit Pellkartoffeln.,شاه‌ماهی با سیب‌زمینی آب‌پز.,A1_Lektion_3
+Grünkohl,Nomen,der,,"کلم<br><img src=""asia-gruenkohl-7435.jpg"">",Grünkohl mit Kassler.,کلم پیچ با گوشت دودی.,A1_Lektion_3
+Kassler,Nomen,das,,"گوشت دودی<br><img src=""kasslertillfallig.jpg"">",Grünkohl mit Kassler.,کلم پیچ با گوشت دودی.,A1_Lektion_3
+"Schweinebraten, -",Nomen,der,,"کباب خوک<br><img src=""fjt202004058-senf-schweinebraten.jpg"">",Schweinebraten mit Rotkohl.,کباب خوک با کلم قرمز.,A1_Lektion_3
+Rotkohl,Nomen,der,,"کلم قرمز<br><img src=""rotkohl-geschnitten-524899086-istock.jpg"">",Schweinebraten mit Rotkohl.,کباب خوک با کلم قرمز.,A1_Lektion_3
+einkaufen,Verb,,,"خرید کردن<br><img src=""Nachhaltig_Einkaufen_Banner_1920x1080.jpg"">",Man kauft nicht extra ein.,آدم اضافه خرید نمی‌کند.,A1_Lektion_3
+"Spezialität, -en",Nomen,die,,غذای مخصوص / تخصص,Labskaus ist eine norddeutsche Spezialität.,لابس‌کاس یک غذای مخصوص شمال آلمان است.,A1_Lektion_3
+traditionell,Adjektiv,,,سنتی,Es ist ein traditionelles Seefahreressen.,این یک غذای سنتی ملوانان است.,A1_Lektion_3
+"Resteessen, -",Nomen,das,,غذای مانده,Früher war Labskaus ein Resteessen.,قبلاً لابس‌کاس یک غذای مانده بود.,A1_Lektion_3
+bedeuten,Verb,,,معنی دادن/ به این معنی,Resteessen bedeutet: Man kauft nicht extra ein.,غذای مانده یعنی: آدم اضافه خرید نمی‌کند.,A1_Lektion_3
+"Zutat, -en",Nomen,die,,مواد تشکیل‌دهنده,Man verwendet frische Zutaten.,آدم از مواد تازه استفاده می‌کند.,A1_Lektion_3
+frisch,Adjektiv,,,تازه,Man verwendet frische Zutaten.,آدم از مواد تازه استفاده می‌کند.,A1_Lektion_3
+stampfen,Verb,,,کوبیدن / له کردن,Stampfen Sie Corned Beef und Kartoffeln.,کورند بیف و سیب‌زمینی‌ها را له کنید.,A1_Lektion_3
+würzen,Verb,,,ادویه زدن,Würzen Sie mit Salz und Pfeffer.,با نمک و فلفل ادویه بزنید.,A1_Lektion_3
+Salz,Nomen,das,,نمک,Würzen Sie mit Salz und Pfeffer.,با نمک و فلفل ادویه بزنید.,A1_Lektion_3
+Pfeffer,Nomen,der,,فلفل,Würzen Sie mit Salz und Pfeffer.,با نمک و فلفل ادویه بزنید.,A1_Lektion_3
+dazugeben,Verb,,,اضافه کردن,Sie können auch Zwiebeln dazugeben.,شما می‌توانید پیاز هم اضافه کنید.,A1_Lektion_3
+"Spiegelei, -er",Nomen,das,,نیمرو,Dazu essen Sie Spiegelei.,در کنارش نیمرو بخورید.,A1_Lektion_3
+"Gewürzgurke, -n",Nomen,die,,خیارشور,Dazu essen Sie Gewürzgurke.,در کنارش خیارشور بخورید.,A1_Lektion_3
+"Gericht, -e",Nomen,das,,غذا/ دادگاه,Typische Gerichte aus den deutschsprachigen Ländern.,غذاهای معمولی از کشورهای آلمانی‌زبان.,A1_Lektion_3
+wunderschön,Adjektiv,,,بسیار زیبا,"Hhmm, du bist wunderschön!",همم، تو فوق‌العاده‌ای!,A1_Lektion_3
+heute abend,Adverb,,,امشب,"Tina, was machst du heute Abend?",تینا، امشب چه کار می‌کنی؟,A1_Lektion_3
+trinken,Verb,,,نوشیدن,"Wir können essen, können trinken.",ما می‌توانیم بخوریم، می‌توانیم بنوشیم.,A1_Lektion_3
+"Wein, ""-e""",Nomen,der,,شراب,Möchtest du noch ein Glas Wein?,آیا هنوز یک لیوان شراب می‌خواهی؟,A1_Lektion_3
+glücklich,Adjektiv,,,خوشحال / شاد,Können einfach glücklich sein.,می‌توانیم به سادگی خوشحال باشیم.,A1_Lektion_3
+bis bald,Phrase,,,به‌زودی می‌بینمت,Bis bald!,به‌زودی می‌بینمت!,A1_Lektion_1
+zu hause,Phrase,,,در خانه / خانه,Ich bin jetzt zu Hause.,الان در خانه‌ام.,A1_Lektion_1
+noch nicht,Phrase,,,هنوز نه,Ich bin noch nicht zu Hause.,من هنوز خانه نیستم.,A1_Lektion_1
+jetzt,Adverb,,,الان / حالا,Ich bin jetzt ...,من الان ...,A1_Lektion_1
+warte,Verb,,,صبر کردن / منتظر ماندن,Warte ...,صبر کن ...,A1_Lektion_1
+hör doch mal,Phrase,,,یک لحظه گوش کن,Hör doch mal!,گوش کن دیگر!,A1_Lektion_1
+"Koffer, -",Nomen,der,,چمدان,"Ja, den Koffer hab ich.",بله، چمدان را دارم.,A1_Lektion_1
+mach dir keine sorgen,Phrase,,,نگران نباش / خودت را این‌قدر نگران نکن,"Mach dir doch nicht immer so viele Sorgen, mein Schatz!",خودت را این‌قدر نگران نکن، عزیزم!,A1_Lektion_1
+"Schatz, -e",Nomen,der,,عزیزم / جانم,"Mach dir doch nicht immer so viele Sorgen, mein Schatz!",خودت را این‌قدر نگران نکن، عزیزم!,A1_Lektion_1
+erwachsen,Adjektiv,,,بزرگسال,Ich bin schon erwachsen.,من دیگر بزرگسال هستم.,A1_Lektion_1
+"U-bahn, -en",Nomen,die,,مترو,Ich steige jetzt in die U-Bahn ein.,الان سوار مترو می‌شوم.,A1_Lektion_1
+einsteigen,Separable Verb,,,سوار شدن,Ich steige jetzt in die U-Bahn ein.,الان سوار مترو می‌شوم.,A1_Lektion_1
+"Minute, -n",Nomen,die,,دقیقه,In vierzig Minuten komme ich zu Hause an.,تا چهل دقیقه‌ی دیگر به خانه می‌رسم.,A1_Lektion_1
+ankommen,Separable Verb,,,رسیدن,In vierzig Minuten komme ich zu Hause an.,تا چهل دقیقه‌ی دیگر به خانه می‌رسم.,A1_Lektion_1
+anrufen,Separable Verb,,,تلفن کردن,"Ja, dann rufe ich dich an.",بله، بعد به تو زنگ می‌زنم.,A1_Lektion_1
+"Bahnsteig, -e",Nomen,der,,سکوی ایستگاه,Am Bahnsteig zwei fährt gerade die U2 ein.,در سکوی دو، مترو ۲ همین الان وارد می‌شود.,A1_Lektion_1
+"Richtung, -en",Nomen,die,,جهت,Richtung Messestadt München,به سمت مسشتات مونیخ,A1_Lektion_1
+einfahren,Separable Verb,,,وارد شدن / داخل آمدن,Am Bahnsteig zwei fährt gerade die U2 ... ein.,در سکوی دو، مترو ۲ همین الان وارد می‌شود.,A1_Lektion_1
+vorsicht,Interjektion,,,مواظب باشید,Bitte Vorsicht an der Bahnsteigkante.,لطفاً کنار لبه‌ی سکو احتیاط کنید.,A1_Lektion_1
+"Bahnsteigkante, -n",Compound Nomen,die,,لبه‌ی سکو,Bitte Vorsicht an der Bahnsteigkante.,لطفاً کنار لبه‌ی سکو احتیاط کنید.,A1_Lektion_1
+zurückbleiben,Verb,,,عقب ماندن / عقب بایستید,Achtung! Bitte zurückbleiben!,توجه! لطفاً عقب بایستید!,A1_Lektion_1
+"Halt, -e",Nomen,der,,ایستگاه / توقف,Nächster Halt: Innsbrucker Ring.,ایستگاه بعدی: اینسبروکر رینگ.,A1_Lektion_1
+aussteigen,Separable Verb,,,پیاده شدن,Aussteigen bitte in Fahrtrichtung links.,لطفاً در جهت حرکت از سمت چپ پیاده شوید.,A1_Lektion_1
+"Fahrtrichtung, -en",Compound Nomen,die,,جهت حرکت,Aussteigen bitte in Fahrtrichtung links.,لطفاً در جهت حرکت از سمت چپ پیاده شوید.,A1_Lektion_1
+links,Adverb,,,چپ,Aussteigen bitte in Fahrtrichtung links.,لطفاً در جهت حرکت از سمت چپ پیاده شوید.,A1_Lektion_1
+sowieso,Adverb,,,به‌هرحال / همین‌طور,"So, jetzt bin ich zu Hause.",خب، حالا من خانه‌ام.,A1_Lektion_1
+heute,Adverb,,,امروز,Was ich heute noch mache?,امروز دیگر چه کار می‌کنم؟,A1_Lektion_1
+fernsehen,Separable Verb,,,تلویزیون تماشا کردن,Siehst du noch ein bisschen fern?,آیا هنوز کمی تلویزیون نگاه می‌کنی؟,A1_Lektion_1
+also,Konjunktion,,,پس / بنابراین,Also dann,پس، تا بعد,A1_Lektion_1
+ein,Artikel,,,یک / مقداری,Vielleicht kaufe ich noch was ein.,شاید هنوز چیزی بخرم.,A1_Lektion_1
+vergessen,Verb,,,فراموش کردن,"Ach was, vergessen Sie's, Herr Brenner!",ای بابا، فراموشش کنید آقای برنر!,A1_Lektion_6
+Verein,Nomen,der,,باشگاه / انجمن,Wir spielen nicht im Verein.,ما در باشگاه بازی نمی‌کنیم.,A1_Lektion_8
+Freizeit-Mannschaft,Compound Nomen,die,,تیم تفریحی / تیم اوقات فراغت,Wir sind nur eine Freizeit-Mannschaft.,ما فقط یک تیم تفریحی هستیم.,A1_Lektion_8
+Spaß,Nomen,der,,تفریح / خوشی,Das macht Spaß!,این سرگرم‌کننده است!,A1_Lektion_8
+Cello,Nomen,das,,ویولنسل,Ich spiele Cello.,من ویولنسل می‌زنم.,A1_Lektion_8
+Komponist,Nomen,der,,آهنگساز,Mein Lieblingskomponist ist Johann Sebastian Bach.,آهنگساز محبوب من یوهان سباستین باخ است.,A1_Lektion_8
+Jazz,Nomen,der,,جاز,Aber auch Jazz finde ich toll.,اما جاز را هم عالی می‌دانم.,A1_Lektion_8
+Pause,Nomen,die,,استراحت / وقفه,Ich mache auch gern mal eine Pause.,من هم گاهی با کمال میل استراحت می‌کنم.,A1_Lektion_8
+Hilfe,Nomen,die,,کمک,Brauchen Sie Hilfe?,آیا به کمک نیاز دارید؟,A1_Lektion_4
+"Frage, ""-n""",Nomen,die,,سوال,Ich habe eine Frage.,من یک سوال دارم.,A1_Lektion_4
+heißt,Verb,,,اسم داشتن / نامیده شدن,Der Designer heißt Enzo Carotti.,طراح اسمش انزو کاروتی است.,A1_Lektion_4
+wohne,Verb,,,سکونت داشتن / زندگی کردن,Ich wohne in Berlin.,من در برلین زندگی می‌کنم.,A1_Lektion_3
+Berlin,Nomen,,,برلین,Ich wohne in Berlin.,من در برلین زندگی می‌کنم.,A1_Lektion_3
+Bonn,Nomen,,,بن,Er wohnt in Bonn.,او در بن زندگی می‌کند.,A1_Lektion_3
+Mark,Nomen,,,مارک,Ich bin Mark.,من مارک هستم.,A1_Lektion_3
+Berndt,Nomen,,,برندت,Berndt und Olga Poppenreuther.,برندت و اُلگا پُپن‌روتر.,A1_Lektion_3
+Olga,Nomen,,,اُلگا,Berndt und Olga Poppenreuther.,برندت و اُلگا پُپن‌روتر.,A1_Lektion_3
+Angelica,Nomen,,,آنجلیکا,Meine Schwester Angelica.,خواهرم آنجلیکا.,A1_Lektion_3
+arbeit,Verb,,,کار کردن,Ich arbeite als Journalistin.,من به عنوان روزنامه‌نگار کار می‌کنم.,A1_Lektion_2
+Stuttgart,Nomen,,,اشتوتگارت,Ich studiere Physik in Stuttgart.,من در اشتوتگارت فیزیک می‌خوانم.,A1_Lektion_2
+"""
+pureword,fullword,meaning,example_de,example_fa,grammar,lesson
+hallo,hallo,سلام,hallo! ... supermusik",Nomen,,,سلام! ... موسیقی فوق‌العاده، نه؟,Interjektion,2,A1_Lektion_1
+Supermusik,Nomen,,,موسیقی فوق‌العاده / عالی,"Hallo! ... Supermusik, was?",سلام! ... موسیقی فوق‌العاده، نه؟,A1_Lektion_2
+Sven,Nomen,,,Sven,Ich heiße Sven Henkenjohann.,اسم من سوِن هنکن‌یوهان است.,A1_Lektion_2
+Nadine,Nomen,,,Nadine,Ich bin 25.,من ۲۵ سالم است.,A1_Lektion_2
+wow,Interjektion,,,وای! / چه جالب!,Hey wow! Ich wohne auch in Berlin!,وای! من هم در برلین زندگی می‌کنم!,A1_Lektion_2
+ach,Interjektion,,,آه / اوه,Ach ja?,آه، واقعاً؟,A1_Lektion_2

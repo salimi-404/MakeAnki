@@ -1,0 +1,192 @@
+:root {
+    --bg-color: #f0f2f5;
+    --card-bg: #ffffff;
+    --text-main: #1a1a1a;
+    --text-muted: #65676b;
+    --accent-primary: #007aff;
+    --accent-success: #34c759;
+    --accent-warning: #ff9500;
+    --divider: #e4e6eb;
+}
+
+.nightMode {
+    --bg-color: #18191a;
+    --card-bg: #242526;
+    --text-main: #e4e6eb;
+    --text-muted: #b0b3b8;
+    --accent-primary: #0a84ff;
+    --accent-success: #30d158;
+    --accent-warning: #ffd60a;
+    --divider: #3e4042;
+}
+
+.card {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card-container {
+    background-color: var(--card-bg);
+    border-radius: 20px;
+    padding: 30px 20px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.05);
+    border: 1px solid var(--divider);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.tag-badge {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 20px;
+    opacity: .7;
+}
+
+.card-type-label {
+    font-size: 11px;
+    color: var(--accent-primary);
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 12px;
+    opacity: .8;
+}
+
+/* ==========================
+   Word
+========================== */
+
+.pure-word {
+    font-size: 38px;
+    font-weight: 800;
+    color: var(--accent-primary);
+    margin: 10px 0;
+    letter-spacing: -.5px;
+}
+
+.full-word {
+    font-size: 34px;
+    font-weight: 800;
+    color: var(--accent-primary);
+    margin: 10px 0 8px;
+    letter-spacing: -.5px;
+    line-height: 1.25;
+}
+
+/* ==========================
+   Plural
+========================== */
+
+.plural-box {
+    width: 70%;
+    margin: 0 auto 22px;
+
+    padding-top: 12px;
+
+    border-top: 1px solid var(--divider);
+
+    font-size: 20px;
+    font-weight: 700;
+
+    color: var(--accent-success);
+
+    letter-spacing: .2px;
+}
+
+/* ==========================
+   Divider
+========================== */
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--divider);
+    margin: 20px 0;
+}
+
+/* ==========================
+   Meaning
+========================== */
+
+.meaning {
+    font-size: 26px;
+    color: var(--accent-warning);
+    margin-bottom: 25px;
+    direction: rtl;
+    font-weight: 700;
+}
+
+/* ==========================
+   Example
+========================== */
+
+.example-box {
+    text-align: right;
+    background: var(--bg-color);
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.ex-de {
+    font-size: 16px;
+    color: var(--text-main);
+    line-height: 1.5;
+    margin-bottom: 8px;
+    text-align: left;
+    font-style: italic;
+}
+
+.ex-fa {
+    font-size: 14px;
+    color: var(--text-muted);
+    direction: rtl;
+    line-height: 1.5;
+}
+
+/* ==========================
+   Grammar
+========================== */
+
+.grammar-badge {
+    display: inline-block;
+    font-size: 10px;
+    background-color: var(--divider);
+    color: var(--text-muted);
+    padding: 4px 12px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/* ==========================
+   Audio
+========================== */
+
+.audio-btn a {
+    text-decoration: none !important;
+}
+
+.replay-button svg {
+    width: 24px !important;
+    height: 24px !important;
+}
+
+.replay-button svg circle {
+    fill: var(--accent-primary) !important;
+    opacity: .1;
+}
+
+.replay-button svg path {
+    fill: var(--accent-primary) !important;
+}
