@@ -91,6 +91,7 @@ async def make_audio(text: str, output_dir: Path) -> tuple[str, str]:
         return "", ""
     try:
         import edge_tts
+        output_dir.mkdir(parents=True, exist_ok=True)
         filename = f"custom_{safe_filename(text)}.mp3"
         path = output_dir / filename
         if not path.exists():
