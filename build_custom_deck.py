@@ -193,7 +193,7 @@ async def build_deck(csv_path: Path, deck_name: str, output_path: Path,
                 html.escape(", ".join(tags)),
                 audio_tag,
             ],
-            guid=stable_id(row["front"], f"MakeAnki.CustomCSV.{deck_name}"),
+            guid=str(stable_id(row["front"], f"MakeAnki.CustomCSV.{deck_name}")),
             tags=tags,
         )
         deck.add_note(note)
